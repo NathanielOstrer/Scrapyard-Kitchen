@@ -4,12 +4,22 @@ def render(data):
 	lines = [
 	"<html>",
 
+	"<center>",
+
 	"<h1>",
 	
-	message,
+	'<p style="font-family: signpainter; font-size: 250%"> Scrapyard Kitchen </p>',
 	
 	"</h1>",
-	
+
+	'<form action="/search">',
+
+	'<input type="text" name=ingredients>',
+
+	"</form>",
+
+	"</center>",
+
 	"</html>"
 	]
 
