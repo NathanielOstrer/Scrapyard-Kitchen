@@ -15,11 +15,32 @@
 # limitations under the License.
 #
 import webapp2
+import models
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
         self.response.write('Hello world!')
 
+class UploadRecipe(webapp2.RequestHandler):
+	def post(self):
+
+		name = self.request.get('name').encode('ascii', 'ignore')
+		tags = self.request.get('tags').encode('ascii', 'ignore').replace('[','').replace(']','').split(', ')
+		description = self.request.get('description').encode('ascii', 'ignore')
+		link = self.request.get('link').encode('ascii', 'ignore')
+		author = self.request.get('author').encode('ascii', 'ignore')
+		yield_ = self.request.get('yield').encode('ascii', 'ignore')
+		cookTime = self.request.get('cookTime').encode('ascii', 'ignore')
+		image = self.request.get('image').encode('ascii', 'ignore')
+		imageCredit = self.request.get('imageCredit').encode('ascii', 'ignore')
+		ingredients = self.request.get('ingredients').encode('ascii', 'ignore')
+		instructions = self.request.get('instructions').encode('ascii', 'ignore')
+
+		recipe = models.Recipe(name=name, tags=tags, description=description, link=link, author=author, yield_=yield_,
+		 cookTime=cookTime, image=image, imageCredit=imageCredit, ingredients=ingredients, recipe=instructions)
+		recipe.put()
+
 app = webapp2.WSGIApplication([
-    ('/', MainHandler)
+    ('/', MainHandler),
+    ('/uploadrecipe', UploadRecipe)
 ], debug=True)
