@@ -1,6 +1,10 @@
-def render(data):
-	message = "This is the recipe page!"
+from google.appengine.ext import db
 
+def render(data):
+	recipe = db.get(data)
+
+	message = recipe.name
+	
 	lines = [
 	"<html>",
 

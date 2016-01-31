@@ -20,7 +20,7 @@ from google.appengine.ext import db
 import mainpage, recipepage, searchpage
 import resultgetter
 
-#from fuzzywuzzy import process
+from fuzzywuzzy import process
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
@@ -29,7 +29,9 @@ class MainHandler(webapp2.RequestHandler):
 
 class RecipeHandler(webapp2.RequestHandler):
 	def get(self):
-		for line in recipepage.render(None):
+		key = self.request.get('key')
+
+		for line in recipepage.render(key):
 			self.response.out.write(line)
 
 class SearchHandler(webapp2.RequestHandler):
@@ -38,11 +40,11 @@ class SearchHandler(webapp2.RequestHandler):
 
 		results = resultgetter.getResults(terms)
 
-		results = [[recipe.author, recipe.name, recipe.image] for recipe in results]
+		results = [[recipe[0].key(), recipe[0].name, recipe[0].image, recipe[1]] for recipe in results]
 
-		results = sorted(results, key=lambda x: x[2] == "")
+		#results = sorted(results, key=lambda x: x[2] == "")
 
-		print results
+		#self.response.out.write( results )
 		
 		for line in searchpage.render(results):
 			self.response.out.write(line)
