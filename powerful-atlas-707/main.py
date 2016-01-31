@@ -32,9 +32,20 @@ class RecipeHandler(webapp2.RequestHandler):
 
 class SearchHandler(webapp2.RequestHandler):
 	def get(self):
-		searchterms = self.request.get('ingredients')
-		for line in searchpage.render(searchterms):
-			self.response.out.write(line)
+		terms = self.request.get('ingredients').split(',')
+		# terms = ["u'" + term + "'" for term in terms]
+
+		# query = ((str(terms).replace('[', '').replace(']', '')).replace('u"', '"').replace(', ', ' in tags and ')) + ' in tags'
+
+		query = 'SELECT * FROM Recipe WHERE "cheese" in tags'
+
+		print query
+
+		results = db.GqlQuery(query).fetch(100)
+
+		results = [recipe.name for recipe in results]
+
+		searchpage.render(results)
 
 class UploadRecipe(webapp2.RequestHandler):
 	def post(self):
@@ -69,6 +80,14 @@ class SearchTags(webapp2.RequestHandler):
 		term = self.request.get('term')
 		self.response.out.write(process.extract(term, taglist))
 
+class UploadTag(webapp2.RequestHandler):
+	def get(self):
+		tag = self.request.get("tag")
+		t = models.Tag(tag=tag)
+		t.put()
+
+class Delete(webapp2.RequestHandler)
+
 
 app = webapp2.WSGIApplication([
     ('/', MainHandler),
@@ -76,5 +95,6 @@ app = webapp2.WSGIApplication([
     ('/search', SearchHandler),
     ('/tags', Tags),
 	('/terms', SearchTags),
+    ('/uploadtag', UploadTag),
     #('/uploadrecipe', UploadRecipe),
 ], debug=True)
