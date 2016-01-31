@@ -46,9 +46,7 @@ class SearchHandler(webapp2.RequestHandler):
 
 		#self.response.out.write( results )
 		
-		for line in searchpage.render(results):
-			self.response.out.write(line)
-			self.response.out.write('\n')
+		self.response.out.write(searchpage.render(results))
 
 class UploadRecipe(webapp2.RequestHandler):
 	def post(self):

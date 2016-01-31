@@ -40,6 +40,5 @@ def render(data):
 
 	"""
 	text = text.replace('%name', recipe.name).replace('%author%', recipe.author).replace('%yield%', recipe.yield_).replace('%time%', recipe.cookTime).replace('%image%', recipe.image).replace('%imagecredit%', recipe.imageCredit).replace('%ingredients%', recipe.ingredients).replace('%recipe%', recipe.recipe)
-
 	
-	return text.split('\n')
+	return text
