@@ -74,19 +74,19 @@ class Tags(webapp2.RequestHandler):
 			self.response.out.write(tag.tags[0])
 			self.response.out.write("\n")
 
-taglist = ["abalone", "abalones", "absinthe", "absolut raspberri", "acacia honey"]
+with open("tags.txt") as f:
+    taglist = f.readlines()
+
 class SearchTags(webapp2.RequestHandler):
 	def get(self):
 		term = self.request.get('term')
-		self.response.out.write(process.extract(term, taglist))
+		self.response.out.write([ing[0].rstrip() for ing in process.extract(term, taglist, limit=10)])
 
 class UploadTag(webapp2.RequestHandler):
 	def get(self):
 		tag = self.request.get("tag")
 		t = models.Tag(tag=tag)
 		t.put()
-
-class Delete(webapp2.RequestHandler)
 
 
 app = webapp2.WSGIApplication([
