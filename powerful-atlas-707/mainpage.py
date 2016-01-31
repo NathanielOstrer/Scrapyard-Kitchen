@@ -6,6 +6,8 @@ def render(data):
     "<head>",
     '<link rel="stylesheet" href="./TrinHackStyle.css">',
     "<title>Scrapyard Kitchen</title>",
+	"<script src='https://code.jquery.com/ui/1.11.4/jquery-ui.js'></script>",
+	"<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js'></script>"
     "</head>",
     '<body class="bground" style="background-image: url(bground.jpg);">',
     '<span class="backbox">',
