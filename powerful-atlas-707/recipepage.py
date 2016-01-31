@@ -24,7 +24,12 @@ def render(data):
 <span class="byline-name" itemprop="author"> %author% </span>
 </a><span itemprop="recipeYield">%yield%</span><meta content="PT45M" itemprop="cookTime">
 <span class="icon icon-clock">Time</span>%time%
-            </meta><img itemprop="image" src="%image%">
+            </meta>"""
+          
+	if recipe.image != "":
+		text = text + """<img itemprop="image" src="%image%">"""
+
+	text = text + """
 <p class="image-credit">
                   %imagecredit%
                 </p>

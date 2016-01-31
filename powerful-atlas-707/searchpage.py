@@ -1,11 +1,10 @@
 import urllib
 
 def render(data):
-
 	i = 0
 	terms = []
 
-	for d in data[:6]:
+	for d in data:
 		missing = d[3]
 
 		key = str(d[0])
@@ -17,7 +16,7 @@ def render(data):
 		else:
 			image = "http://static01.nyt.com/images/icons/t_logo_291_black.png"
 
-		link = '/recipe?key=' + key
+		link = '/recipe?key=' + key# + 'missing=' + 
 
 		term = ''
 		term = term + """<div class="img" style="background-image: url('""" + image + """');">"""
@@ -36,12 +35,10 @@ def render(data):
 
 	"<center>",
 
-	#"""<table>""",
 
 	terms,
 	
-	#"</tr></table>",
-
+	
 	"</center>",
 
 	"</html>"

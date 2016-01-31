@@ -14,5 +14,9 @@ def getResults(terms):
 	lengths = [len(i) for i in doesnthave]
 
 	print lengths
+	
+	a = [[y, x] for (y,x) in sorted(zip(res,lengths), key=lambda x: x[1])]
 
-	return [[y, x] for (y,x) in sorted(zip(res,lengths), reverse=True)]
+	print a
+
+	return a

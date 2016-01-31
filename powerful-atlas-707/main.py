@@ -42,7 +42,6 @@ class SearchHandler(webapp2.RequestHandler):
 
 		results = [[recipe[0].key(), recipe[0].name, recipe[0].image, recipe[1]] for recipe in results]
 
-		#results = sorted(results, key=lambda x: x[2] == "")
 
 		#self.response.out.write( results )
 		
