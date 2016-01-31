@@ -16,14 +16,20 @@
 #
 import webapp2
 import models
+import mainpage, recipepage
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-        self.response.write('Hello world!')
+    	for line in mainpage.render():
+    		self.response.out.write(line)
+
+class RecipeHandler(webapp2.RequestHandler):
+	def get(self):
+		for line in recipepage.render():
+			self.response.out.write(line)
 
 class UploadRecipe(webapp2.RequestHandler):
 	def post(self):
-
 		name = self.request.get('name').encode('ascii', 'ignore')
 		tags = self.request.get('tags').encode('ascii', 'ignore').replace('[','').replace(']','').split(', ')
 		description = self.request.get('description').encode('ascii', 'ignore')
@@ -42,5 +48,6 @@ class UploadRecipe(webapp2.RequestHandler):
 
 app = webapp2.WSGIApplication([
     ('/', MainHandler),
-    ('/uploadrecipe', UploadRecipe)
+    ('/recipe', RecipeHandler),
+    #('/uploadrecipe', UploadRecipe),
 ], debug=True)
