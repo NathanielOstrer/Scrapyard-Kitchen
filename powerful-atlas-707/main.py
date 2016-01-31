@@ -20,7 +20,7 @@ from google.appengine.ext import db
 import mainpage, recipepage, searchpage
 import resultgetter
 
-#from fuzzywuzzy import process
+from fuzzywuzzy import process
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
