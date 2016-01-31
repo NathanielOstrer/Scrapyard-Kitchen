@@ -67,8 +67,8 @@ def render(data):
 		});
 		
 		$(document).ready(function() {
-		$('#csv').text('');
-		}
+		$('#csv').val('');
+		});
 	""",
     "</script>",
     "</body>",
