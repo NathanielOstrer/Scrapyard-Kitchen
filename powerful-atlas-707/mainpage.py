@@ -65,6 +65,10 @@ def render(data):
 		"Nothing selected, input was " + this.value );
 		}
 		});
+		
+		$(document).ready(function() {
+		$('#csv').text('');
+		}
 	""",
     "</script>",
     "</body>",
