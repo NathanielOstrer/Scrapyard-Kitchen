@@ -31,8 +31,8 @@ class RecipeHandler(webapp2.RequestHandler):
 	def get(self):
 		key = self.request.get('key')
 
-		for line in recipepage.render(key):
-			self.response.out.write(line)
+		self.response.out.write(recipepage.render(key))
+			
 
 class SearchHandler(webapp2.RequestHandler):
 	def get(self):
@@ -46,7 +46,9 @@ class SearchHandler(webapp2.RequestHandler):
 
 		#self.response.out.write( results )
 		
-		self.response.out.write(searchpage.render(results))
+		self.response.out.write(searchpage.render(results)):
+			self.response.out.write(line)
+			self.response.out.write('\n')
 
 class UploadRecipe(webapp2.RequestHandler):
 	def post(self):
