@@ -14,3 +14,5 @@ class Recipe(db.Model):
 	ingredients = db.TextProperty()
 	recipe = db.TextProperty() #can't be a string property because can be rather long
 	
+class Tag(db.Model):
+	tag = db.StringProperty()

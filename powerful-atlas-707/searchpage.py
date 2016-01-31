@@ -1,5 +1,5 @@
 def render(data):
-	terms = data.split(' ')
+	terms = data
 
 	lines = [
 	"<html>",
