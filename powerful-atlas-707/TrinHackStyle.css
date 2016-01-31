@@ -11,9 +11,11 @@
     background-position: center;
 	
  }
- form.ingredients {
- 	margin: auto;
- 	display: inline;
+ form.finalbut {
+ 	position: absolute;
+ 	bottom: 10%;
+ 	right: 50%;
+ 	transform: translateX(50%);
  }
  input[type=submit] {
  	position: relative;
@@ -38,6 +40,13 @@ input[type=text]:focus {
     border: 3px solid #222f5b;
 }
  .button {
+  background-color: #0e1a40;
+  border: 2px solid #222f5b;
+  color: white;
+  border-radius: 8px;
+  font-size: 20px;
+ }
+ .finalbutton {
   background-color: #0e1a40;
   border: 2px solid #222f5b;
   color: white;

@@ -81,7 +81,7 @@ with open("tags.txt") as f:
 class SearchTags(webapp2.RequestHandler):
 	def get(self):
 		term = self.request.get('term')
-		self.response.out.write([ing[0].rstrip() for ing in process.extract(term, taglist, limit=10)])
+		self.response.out.write(str([ing[0].rstrip() for ing in process.extract(term, taglist, limit=10)]).replace("'", '"'))
 
 class UploadTag(webapp2.RequestHandler):
 	def get(self):
