@@ -56,7 +56,7 @@ class UploadRecipe(webapp2.RequestHandler):
 class Tags(webapp2.RequestHandler):
 	def get(self):
 		offset = int(self.request.get('offset'))
-		tags = db.GqlQuery("SELECT distinct tags FROM Recipe").fetch(limit=None, offset=offset)
+		tags = db.GqlQuery("SELECT distinct tags FROM Recipe").fetch(limit=1000, offset=offset)
 
 		for tag in tags:
 			self.response.out.write(tag.tags[0])
