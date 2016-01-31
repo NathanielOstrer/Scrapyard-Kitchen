@@ -38,11 +38,11 @@ class SearchHandler(webapp2.RequestHandler):
 
 		results = resultgetter.getResults(terms)
 
-		results = [[recipe.author, recipe.name, recipe.image] for recipe in results]
+		results = [[recipe[0].author, recipe[0].name, recipe[0].image, recipe[1]] for recipe in results]
 
-		results = sorted(results, key=lambda x: x[2] == "")
+		#results = sorted(results, key=lambda x: x[2] == "")
 
-		self.response.out.write( results )
+		#self.response.out.write( results )
 		
 		for line in searchpage.render(results):
 			self.response.out.write(line)

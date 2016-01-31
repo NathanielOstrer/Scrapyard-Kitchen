@@ -1,11 +1,13 @@
 def render(data):
-	terms = []
 
 	i = 0
+	terms = []
+
 	for d in data:
-		
-		title = d[1]
-		image = d[2]
+		missing = d[3]
+
+		title = d[1] + ' missing ' + str(missing)
+		image = d[2] 
 		link = "google.com"
 		term = ''
 		term = term + """<div class="img" style="background-image: url('""" + image + """');">"""
