@@ -42,7 +42,7 @@ class SearchHandler(webapp2.RequestHandler):
 
 		results = sorted(results, key=lambda x: x[2] == "")
 
-		print results
+		self.response.out.write( results )
 		
 		for line in searchpage.render(results):
 			self.response.out.write(line)
