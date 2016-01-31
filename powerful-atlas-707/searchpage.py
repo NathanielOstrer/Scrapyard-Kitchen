@@ -10,7 +10,7 @@ def render(data):
 
 		key = str(d[0])
 
-		title = d[1] + ' missing ' + str(missing)
+		title = d[1] + ' (missing ' + str(missing) + ' ingredients)'
 
 		if d[2] != "":
 			image = d[2]

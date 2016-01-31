@@ -9,14 +9,18 @@ handlers:
 - url: /favicon\.ico
   static_files: favicon.ico
   upload: favicon\.ico
-  
+
 - url: /bground.jpg
   static_files: bground.jpg
   upload: bground.jpg
-  
+
 - url: /TrinHackStyle.css
   static_files: TrinHackStyle.css
   upload: TrinHackStyle.css
+
+- url: /TrinHackRepStyle.css
+  static_files: TrinHackRepStyle.css
+  upload: TrinHackRepStyle.css
 
 - url: .*
   script: main.app
