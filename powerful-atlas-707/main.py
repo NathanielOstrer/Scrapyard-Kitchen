@@ -18,6 +18,7 @@ import webapp2
 import models
 from google.appengine.ext import db
 import mainpage, recipepage, searchpage
+from fuzzywuzzy import process
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
@@ -62,11 +63,18 @@ class Tags(webapp2.RequestHandler):
 			self.response.out.write(tag.tags[0])
 			self.response.out.write("\n")
 
+taglist = ["abalone", "abalones", "absinthe", "absolut raspberri", "acacia honey"]
+class SearchTags(webapp2.RequestHandler):
+	def get(self):
+		term = self.request.get('term')
+		self.response.out.write(process.extract(term, taglist))
+
 
 app = webapp2.WSGIApplication([
     ('/', MainHandler),
     ('/recipe', RecipeHandler),
     ('/search', SearchHandler),
-    ('/tags', Tags)
+    ('/tags', Tags),
+	('/terms', SearchTags),
     #('/uploadrecipe', UploadRecipe),
 ], debug=True)
