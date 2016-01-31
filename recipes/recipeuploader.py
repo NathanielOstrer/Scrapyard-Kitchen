@@ -11,7 +11,7 @@ onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
 i = 0
 
-start = 0
+start = 9699
 
 for filename in onlyfiles:
 	i = i + 1

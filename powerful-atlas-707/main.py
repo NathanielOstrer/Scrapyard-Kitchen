@@ -18,7 +18,9 @@ import webapp2
 import models
 from google.appengine.ext import db
 import mainpage, recipepage, searchpage
-from fuzzywuzzy import process
+import resultgetter
+
+#from fuzzywuzzy import process
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
@@ -33,19 +35,18 @@ class RecipeHandler(webapp2.RequestHandler):
 class SearchHandler(webapp2.RequestHandler):
 	def get(self):
 		terms = self.request.get('ingredients').split(',')
-		# terms = ["u'" + term + "'" for term in terms]
 
-		# query = ((str(terms).replace('[', '').replace(']', '')).replace('u"', '"').replace(', ', ' in tags and ')) + ' in tags'
+		results = resultgetter.getResults(terms)
 
-		query = 'SELECT * FROM Recipe WHERE "cheese" in tags'
+		results = [[recipe.author, recipe.name, recipe.image] for recipe in results]
 
-		print query
+		results = sorted(results, key=lambda x: x[2] == "")
 
-		results = db.GqlQuery(query).fetch(100)
-
-		results = [recipe.name for recipe in results]
-
-		searchpage.render(results)
+		print results
+		
+		for line in searchpage.render(results):
+			self.response.out.write(line)
+			self.response.out.write('\n')
 
 class UploadRecipe(webapp2.RequestHandler):
 	def post(self):
