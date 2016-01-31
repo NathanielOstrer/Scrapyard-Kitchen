@@ -2,9 +2,14 @@
 from google.appengine.ext import db
 
 def getResults(terms):
-	query = 'WHERE tags = :one'
-	res = db.GqlQuery("SELECT * FROM Recipe " + query, one=terms[0]).fetch(500)
-
+	
+	if(len(terms) == 1):
+		query = 'WHERE tags = :one'
+		res = db.GqlQuery("SELECT * FROM Recipe " + query, one=terms[0]).fetch(500)
+	elif(len(terms) >= 2):
+		query = 'WHERE tags = :one and tags = :two'
+		res = db.GqlQuery("SELECT * FROM Recipe " + query, one=terms[0], two=terms[1]).fetch(500)
+	
 	doesnthave = [r.tags for r in res]
 
 	for i in range(len(res)):

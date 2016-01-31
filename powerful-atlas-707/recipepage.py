@@ -44,6 +44,6 @@ def render(data):
 
 
 	"""
-	text = text.replace('%name', recipe.name).replace('%author%', recipe.author).replace('%yield%', recipe.yield_).replace('%time%', recipe.cookTime).replace('%image%', recipe.image).replace('%imagecredit%', recipe.imageCredit).replace('%ingredients%', recipe.ingredients).replace('%recipe%', recipe.recipe)
+	text = text.replace('%name%', recipe.name).replace('%author%', recipe.author).replace('%yield%', recipe.yield_).replace('%time%', recipe.cookTime).replace('%image%', recipe.image).replace('%imagecredit%', recipe.imageCredit).replace('%ingredients%', recipe.ingredients).replace('%recipe%', recipe.recipe).replace('%description%', recipe.description).replace('%link%', recipe.link)
 	
 	return text
