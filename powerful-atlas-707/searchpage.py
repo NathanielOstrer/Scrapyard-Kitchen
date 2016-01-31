@@ -1,14 +1,24 @@
+import urllib
+
 def render(data):
 
 	i = 0
 	terms = []
 
-	for d in data:
+	for d in data[:6]:
 		missing = d[3]
 
+		key = str(d[0])
+
 		title = d[1] + ' missing ' + str(missing)
-		image = d[2] 
-		link = "google.com"
+
+		if d[2] != "":
+			image = d[2]
+		else:
+			image = "http://static01.nyt.com/images/icons/t_logo_291_black.png"
+
+		link = '/recipe?key=' + key
+
 		term = ''
 		term = term + """<div class="img" style="background-image: url('""" + image + """');">"""
 		term = term + '<a href="' + link + '">'

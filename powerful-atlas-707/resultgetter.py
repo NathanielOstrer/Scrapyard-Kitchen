@@ -3,7 +3,7 @@ from google.appengine.ext import db
 
 def getResults(terms):
 	query = 'WHERE tags = :one'
-	res = db.GqlQuery("SELECT * FROM Recipe " + query, one=terms[0]).fetch(100)
+	res = db.GqlQuery("SELECT * FROM Recipe " + query, one=terms[0]).fetch(500)
 
 	doesnthave = [r.tags for r in res]
 
