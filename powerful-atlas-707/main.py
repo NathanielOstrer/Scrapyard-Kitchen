@@ -46,7 +46,7 @@ class SearchHandler(webapp2.RequestHandler):
 
 		#self.response.out.write( results )
 		
-		self.response.out.write(searchpage.render(results)):
+		for line in searchpage.render(results):
 			self.response.out.write(line)
 			self.response.out.write('\n')
 
