@@ -16,16 +16,22 @@
 #
 import webapp2
 import models
-import mainpage, recipepage
+import mainpage, recipepage, searchpage
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-    	for line in mainpage.render():
+    	for line in mainpage.render(None):
     		self.response.out.write(line)
 
 class RecipeHandler(webapp2.RequestHandler):
 	def get(self):
-		for line in recipepage.render():
+		for line in recipepage.render(None):
+			self.response.out.write(line)
+
+class SearchHandler(webapp2.RequestHandler):
+	def get(self):
+		searchterms = self.request.get('ingredients')
+		for line in searchpage.render(searchterms):
 			self.response.out.write(line)
 
 class UploadRecipe(webapp2.RequestHandler):
@@ -49,5 +55,6 @@ class UploadRecipe(webapp2.RequestHandler):
 app = webapp2.WSGIApplication([
     ('/', MainHandler),
     ('/recipe', RecipeHandler),
+    ('/search', SearchHandler)
     #('/uploadrecipe', UploadRecipe),
 ], debug=True)

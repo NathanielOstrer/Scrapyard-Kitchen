@@ -1,5 +1,7 @@
 def render(data):
-	message = "This is the recipe page!"
+	print data
+
+	message = "This is the search page!"
 
 	lines = [
 	"<html>",
@@ -8,7 +10,9 @@ def render(data):
 
 	"<h1>",
 	
-	message,
+	"your terms are: ",
+
+	terms,
 	
 	"</h1>",
 	
