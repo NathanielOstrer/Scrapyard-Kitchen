@@ -96,5 +96,5 @@ app = webapp2.WSGIApplication([
     ('/tags', Tags),
 	('/terms', SearchTags),
     ('/uploadtag', UploadTag),
-    #('/uploadrecipe', UploadRecipe),
+    ('/uploadrecipe', UploadRecipe),
 ], debug=True)
