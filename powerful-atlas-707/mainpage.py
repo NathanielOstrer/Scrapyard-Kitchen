@@ -4,7 +4,12 @@ def render(data):
 	lines = [
     "<html>",
     "<head>",
-    '<link rel="stylesheet" href="/TrinHackStyle.css">',
+	"""
+		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+		<meta http-equiv="Pragma" content="no-cache"/>
+		<meta http-equiv="Expires" content="0"/>
+	"""
+    '<link rel="stylesheet" href="./TrinHackStyle.css">',
 	"<title>Scrapyard Kitchen</title>",
 	"<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js'></script>",
 	"<script src='https://code.jquery.com/ui/1.11.4/jquery-ui.js'></script>",
