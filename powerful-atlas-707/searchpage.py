@@ -1,5 +1,5 @@
 def render(data):
-	message = "This is the recipe page!"
+	terms = data.split(' ')
 
 	lines = [
 	"<html>",
@@ -8,7 +8,9 @@ def render(data):
 
 	"<h1>",
 	
-	message,
+	"your terms are: ",
+
+	terms,
 	
 	"</h1>",
 	

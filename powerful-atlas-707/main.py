@@ -16,17 +16,23 @@
 #
 import webapp2
 import models
-import mainpage, recipepage
 from google.appengine.ext import db
+import mainpage, recipepage, searchpage
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-    	for line in mainpage.render():
+    	for line in mainpage.render(None):
     		self.response.out.write(line)
 
 class RecipeHandler(webapp2.RequestHandler):
 	def get(self):
-		for line in recipepage.render():
+		for line in recipepage.render(None):
+			self.response.out.write(line)
+
+class SearchHandler(webapp2.RequestHandler):
+	def get(self):
+		searchterms = self.request.get('ingredients')
+		for line in searchpage.render(searchterms):
 			self.response.out.write(line)
 
 class UploadRecipe(webapp2.RequestHandler):
@@ -47,15 +53,20 @@ class UploadRecipe(webapp2.RequestHandler):
 		 cookTime=cookTime, image=image, imageCredit=imageCredit, ingredients=ingredients, recipe=instructions)
 		recipe.put()
 
-class ListTags(webapp2.RequestHandler):
+class Tags(webapp2.RequestHandler):
 	def get(self):
-		q = db.GqlQuery("select distinct tags from Recipe");
-		for recipe in q.run(limit=100):
-			self.response.write(recipe.tags);
+		offset = int(self.request.get('offset'))
+		tags = db.GqlQuery("SELECT distinct tags FROM Recipe").fetch(limit=None, offset=offset)
+
+		for tag in tags:
+			self.response.out.write(tag.tags[0])
+			self.response.out.write("\n")
+
 
 app = webapp2.WSGIApplication([
     ('/', MainHandler),
     ('/recipe', RecipeHandler),
-	('/list', ListTags),
+    ('/search', SearchHandler),
+    ('/tags', Tags)
     #('/uploadrecipe', UploadRecipe),
 ], debug=True)
