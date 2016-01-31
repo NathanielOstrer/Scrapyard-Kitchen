@@ -9,6 +9,9 @@ def render(data):
 	"<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js'></script>",
 	"<script src='https://code.jquery.com/ui/1.11.4/jquery-ui.js'></script>",
 	"""
+		<head>
+		<link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.10.4/themes/pepper-grinder/jquery-ui.css">
+		</head>
 		<style>
 		.ui-autocomplete-loading {
 		background: white url("images/ui-anim_basic_16x16.gif") right center no-repeat;
@@ -41,6 +44,7 @@ def render(data):
 	"""
 		$( "#ingred" ).autocomplete({
 		source: "terms",
+		minLength: 2,
 		select: function( event, ui ) {
         log( ui.item ?
 		"Selected: " + ui.item.value + " aka " + ui.item.id :
