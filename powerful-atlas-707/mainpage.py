@@ -54,20 +54,26 @@ def render(data):
     "var entry = document.createElement('li');",
     "entry.appendChild(document.createTextNode(ingred));",
     "list.appendChild(entry);",
+	"$('#ingred').val('');",
     "}",
 	"""
+		
+		
+		$(document).ready(function() {
+		$('#csv').val('');
+		$('#ingred').keydown(function(event) {
+        if (event.keyCode == 13) {
+			changeText2();
+			return false;
+		}
+		});
 		$( "#ingred" ).autocomplete({
 		source: "terms",
 		minLength: 2,
 		select: function( event, ui ) {
-        log( ui.item ?
-		"Selected: " + ui.item.value + " aka " + ui.item.id :
-		"Nothing selected, input was " + this.value );
+		$('#ingred').val(ui.item.value);
 		}
 		});
-		
-		$(document).ready(function() {
-		$('#csv').val('');
 		});
 	""",
     "</script>",
