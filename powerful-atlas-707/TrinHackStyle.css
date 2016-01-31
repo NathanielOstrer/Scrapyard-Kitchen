@@ -1,0 +1,75 @@
+ html {
+ 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+ 	height: 100%;
+ 	width: 100%;
+ }
+ body.bground {
+ 	position: fixed;
+	height: 100%;
+	width: 100%;
+ 	background-size: cover;
+    background-position: center;
+	
+ }
+ form.ingredients {
+ 	margin: auto;
+ 	display: inline;
+ }
+ input[type=submit] {
+ 	position: relative;
+ 	 padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+ 	font-size: 20px;
+ }
+ input[type=text] {
+    padding: 6px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    font-size: 20px;
+}
+
+input[type=text]:focus {
+    border: 3px solid #222f5b;
+}
+ .button {
+  background-color: #0e1a40;
+  border: 2px solid #222f5b;
+  color: white;
+  border-radius: 8px;
+  font-size: 20px;
+ }
+ span.backbox {
+ 	display: inline;
+ 	position: absolute;
+ 	top: 50%;
+ 	left: 10%;
+ 	transform: translateY(-50%);
+    background: rgba(50, 50, 50, 0.7);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: white;
+    font-size: 20px;
+ }
+ span.list {
+ 	position: absolute;
+ 	top: 50%;
+ 	transform: translateY(-50%);
+ 	right: 15%;
+ 	background: rgba(50, 50, 50, 0.7);
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+ 	padding-top: 10px;
+ 	padding-bottom: 10px;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+ 	
+ }
