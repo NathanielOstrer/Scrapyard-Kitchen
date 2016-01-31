@@ -18,7 +18,12 @@ def render(data):
     "</head>",
     '<body class="bground" style="background-image: url(bground.jpg);">',
     '<span class="backbox">',
-    '<input placeholder="add ingredient" id="ingred">',
+	"""
+		<div class="ui-widget">
+		<label for="ingred">Add Ingredient: </label>
+		<input id="ingred">
+		</div>
+	"""
     "<input type='button' onclick='changeText2()' value='Add' class='button'/>",
     "</span>",
     '<span class="list">',
