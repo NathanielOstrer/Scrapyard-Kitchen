@@ -1,0 +1,60 @@
+p.special-diets.tag-block {
+	color: black;
+	position: absolute;
+	width: 300px;
+	padding: 0px;
+	margin-top: 10px;
+	margin-right: 10px;
+	border: 0px;
+	top: 0px;
+	right: 0px;
+}
+
+img[itemprop="image"] {
+	position: relative;
+	display: block;
+	top: 20px;
+	left: 20px;
+	height: 400px;
+	z-index: -1;
+}
+body {
+	background-color: lightblue;
+	font-family: 'Courier New', Courier, monospace;
+}
+a.author.personality {
+	position: relative;
+	margin-left: 20px;
+	margin-right: 10px;
+	font-size: 20px;
+}
+span.icon.icon-clock {
+	margin-right: 5px;
+	margin-left: 10px;
+}
+p.image-credit {
+	margin-left: 20px;
+	margin-top: 30px;
+	font-size: 12px;
+}
+div.recipe-instructions {
+	margin-left: 20px;
+	display: block;
+}
+ul.recipe-ingredients {
+	display: inline-block;
+	width: 40%;
+	line-height: 14px;
+}
+li[itemprop="recipeIngredient"] {
+	width: 100%;
+	display: block;
+	margin: 10px;
+}
+div.nutrition-container {
+	transform: translateY(-24px);
+	width: 100%;
+}
+section.recipe-ingredients-wrap {
+	display: inline-block;
+}
