@@ -14,7 +14,7 @@ def render(data):
 		</head>
 		<style>
 		.ui-autocomplete-loading {
-		background: white url("images/ui-anim_basic_16x16.gif") right center no-repeat;
+		background: white url("https://jqueryui.com/resources/demos/autocomplete/images/ui-anim_basic_16x16.gif") right center no-repeat;
 		}
 		</style>
 	""",
