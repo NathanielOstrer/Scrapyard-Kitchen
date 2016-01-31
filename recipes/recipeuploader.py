@@ -11,7 +11,7 @@ onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
 i = 0
 
-start = 3848
+start = 0
 
 for filename in onlyfiles:
 	i = i + 1
@@ -93,9 +93,13 @@ for filename in onlyfiles:
 		for k, v in data.iteritems():
 			data[k] = unicode(v).encode('utf-8')
 	
+		data['tags'] = str(''.join(data['tags']).replace("u'", "").replace("'", ""))
+		#print data
+
 		data = urllib.urlencode(data)
 	
 		print urllib2.urlopen(url, data).read()
 	except Exception:
 		print 'error!, probably fucking unicode'
+
 	
