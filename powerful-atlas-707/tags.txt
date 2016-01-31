@@ -4,20 +4,13 @@ absolut raspberri
 acacia
 acacia honey
 accent
-according to the instructions here
 ach cilantro leaves
 achiote
 achiote oil
-acorn
-acorn squash
-acorn squashes
-active dry or fresh yeast
 active dry yeast
 active-dry yeast
-additional grated parmesan or pecorino for serving
 additional seasonings
 adirondack red potatoes
-adobe or tarragon mayonnaise
 adobo powder
 adobo sauce
 adobo sauce from the chiles
@@ -29,18 +22,14 @@ african bird pepper
 agar
 agar agar
 agave nectar
-agave nectar or pomegranate molasses
 agave syrup
 aged balsamic vinegar
 aged cheddar
 aged goat cheese
-aged pecorino
 aged rum
 aged sherry vinegar
 aioli
 aj stephans ginger beer
-aj\xed caballero pepper
-aj\xed dulce peppers
 aji amarillo puree
 aji dulce
 ajwain seeds
@@ -48,12 +37,6 @@ akvavit
 alaskan
 alaskan cod
 alaskan cod fillets
-albacore
-albacore or salmon fillet
-albacore or yellowfin tuna
-albacore steaks
-albacore tuna
-albacore tuna steaks
 albarino
 alcohol
 alcohol-free vanilla extrac
@@ -64,43 +47,30 @@ aleppo chilies
 aleppo pepper
 aleppo pepper flakes
 alfalfa sprouts
-aliz\xe9
 all purpose flour
-all purpose flour for dusting and kneading as needed
-all purpose flour or whole wheat flour
 all-purpose enriched flour
 all-purpose flour
-all-purpose flour or rice flour
-all-purpose flour plus extra for dusting pans
-all-purpose or white bread flour
 all-purpose pie dough
 all-purpose potato
 all-purpose potatoes
 all-purpose unbleached flour
 all-purpose white flour
-all-vegetable shortening
 allspice
 allspice berries
-allspice berries or juniper berries
 allspice berry
 allspice dram
 allspice liqueur
 almond
 almond beverage
-almond beverage or milk
 almond biscotti
 almond butter
-almond butter or other nut butter
 almond extract
-almond extract or vanilla
-almond extract or vanilla extract
 almond flour
 almond liqueur
 almond macaroon
 almond meal
 almond milk
 almond oil
-almond oil or extra virgin olive oil
 almond paste
 almond powder
 almond slivers
@@ -124,7 +94,6 @@ amaretto di saronna cookie crumbs
 amaretto di saronna liqueur
 amaretto di saronno
 amaretto liqueur
-amaretto or grand marnier
 amarillo chile
 amarillo chili
 amarillo chilies
@@ -136,7 +105,6 @@ amber beer
 amber maple syrup
 amber rum
 amchar powder
-amchoor
 american
 american amber ale
 american cheese
@@ -158,24 +126,18 @@ ancho chili garlic butter
 ancho chili paste
 ancho chili peppers
 ancho chili powder
-ancho chili powder or paprika
 ancho chilie
-ancho or other mild dried chili
 ancho reyes liqueur
 ancho-chili powder
 anchoiade
 anchovie
 anchovies
-anchovies in oil
-anchovies packed in oil
 anchovy
 anchovy filets
 anchovy fillet
 anchovy fillets
-anchovy fillets in oil
 anchovy liquid
 anchovy paste
-and maintain the current behavior after the default changes, use:
 andes chocolate mint candy
 andouille sausage
 andrulis farmers cheese
@@ -185,55 +147,43 @@ angel food cake
 angel hair pasta
 angel-hair pasta
 angostura bitters
-angostura orange bitters
 anise
 anise brine
 anise extract
 anise liqueur
-anise liquor
 anise seed
 aniseed
 anjou pear
 annatto seed
 annellini beans
 anson mills
-anson mills carolina gold rice grits or arborio rice
 anson mills colonial coarse pencil cob grits
 anson mills polenta
 any dried white beans
 any good
 any liqueur
-any oil or butter
 aperitif wine
 aperol
-aperol or other bitter aperitif
 apple
 apple bitters
 apple brandy
 apple butter
 apple cider
-apple cider or juice
-apple cider or other fruit juice
 apple cider vinegar
-apple cider vinegar or red wine vinegar
 apple jam
 apple jelly
 apple juice
-apple juice for basting
 apple liqueur
 apple pie spice
 apple sauce
-apple sauce or sour cream
 apple schnapps
 apple slice
-apple slice for garnish
 apple vinegar
 apple-cider vinegar
 applejack
 apples
 apples pastry
 applesauce
-applesauce with horseradish
 appleton estate reserve rum
 apricot
 apricot brandy
@@ -246,7 +196,6 @@ apricot pit
 apricot preserf
 apricot preserves
 apricots
-apricots or peaches
 apron
 apry liqueur
 aquavit
@@ -255,10 +204,6 @@ arak
 arame seaweed
 arbol chile
 arbol chili
-arborio
-arborio or carnaroli rice
-arborio or carnarolli rice
-arborio rice
 arctic char
 arctic char fillets
 ardbeg whisky
@@ -276,41 +221,27 @@ artichokes
 artichokes hearts
 arugola
 arugula
-arugula and watercress
 arugula greens
 arugula leaves
-arugula or baby spinach
-arugula or other salad greens
-arugula or other tender green
-arugula or sunflower sprouts
 arugula pesto
 asafetida
 asafetida powder
-ascorbic acid
 asiago cheese
 asiago fresco
 asian
 asian basil leaves
 asian chili paste
 asian chili sauce
-asian chili-garlic sauce or sambal
 asian dried shrimp
 asian eggplant
 asian fish sauce
-asian fish sauce or soy sauce
 asian hot pepper oil
-asian or baby eggplant
-asian or english cucumbers
-asian or sweet basil leaves
 asian pear
 asian persimmon
 asian persimmon vinegar
 asian pickled green
-asian red chile paste or sauce
 asian salad mix
-asian salad mix or wild arugula
 asian sesame oil
-asian sesame oil or walnut oil
 asian sesame paste
 asian vegetable
 asian-style sesame oil
@@ -323,16 +254,6 @@ asparagus stalks
 asparagus tips
 assam skin
 assam tea
-assorted berries
-assorted citrus segments
-assorted dried seaweeds or wakame
-assorted greens -- mustard
-assorted herbs
-assorted mushrooms
-assorted olives
-assorted root vegetables
-assorted vegetables
-assorted wild mushrooms
 atlantic salmon
 australian
 austrian
@@ -344,14 +265,9 @@ avocado
 avocadoes
 avocados
 b&b; liqueur
-b\xe9n\xe9dictine
 baby artichoke
 baby artichokes
-baby artichokes or globe artichokes
 baby arugula
-baby arugula or other salad green
-baby arugula or wild arugula leaves
-baby back pork ribs
 baby back rib
 baby basil leaves
 baby beets
@@ -363,7 +279,6 @@ baby brussels sprouts
 baby carrot
 baby carrots
 baby cilantro
-baby corn
 baby cucumbers
 baby eggplant
 baby ginger
@@ -381,9 +296,7 @@ baby lima bean
 baby mackerel
 baby mustard greens
 baby onions
-baby or c-grade potatoes
 baby pea
-baby portobellos or baby shiitakes
 baby potatoes
 baby red bliss potatoes
 baby red potatoes
@@ -392,26 +305,19 @@ baby salad greens
 baby shrimp
 baby spinach
 baby spinach leaves
-baby spinach or chopped chard leaves
 baby squash
 baby tomatoes
 baby turnips
 baby yukon gold potatoes
 baby zucchini
-baby-back pork
 baby-back ribs
 bacalao
 bacardi light rum
-bacardi van\xedla
 bacardi vanala
 bacon
 bacon drippings
-bacon drippings and cooking oil
 bacon fat
-bacon fat or corn oil
 bacon grease
-bacon or pancetta
-bacon or sausage
 bacon scallion cream sauce
 bacon strips
 bacon toffee
@@ -419,16 +325,10 @@ bacon toffee sauce
 bag arugula
 bag baby arugula
 bag baby spinach
-bag dried corn husks
 bag mixed spring salad greens
-bag of m\xe2che
 bag presliced mushrooms
 bagel
 baguette
-baguette or country bread
-baguette or country-style bread
-baguette or pumpernickel
-baguette or whole grain bread
 baguette slices
 bahamian conch
 baharat
@@ -447,8 +347,6 @@ baking soda
 baking spray
 balinese thousand-spice sauce
 balsamic
-balsamic or red wine vinegar
-balsamic or sherry vinegar
 balsamic salad vinegar
 balsamic vinegar
 balsamic vinegar sauce
@@ -464,7 +362,6 @@ banana leaves
 banana liqueur
 banana pepper
 banana puree
-bango or other kecap manis
 banh trang rice paper
 banks 5 island rum
 banyuls
@@ -483,12 +380,9 @@ barding fat
 barely cooked vegetables
 barley
 barley flour
-barley malt syrup or dark brown sugar
-barley or brown rice
 barley rusks
 barolo
 barolo wine
-bartlett or anjou pears
 bartlett pear
 basic chicken broth
 basic dough
@@ -497,7 +391,6 @@ basic mashed potatoes
 basic polenta
 basic rub
 basic soft polenta
-basic sponge roll for roulades
 basic sticky rice
 basic tamales
 basic tart dough
@@ -505,22 +398,12 @@ basic tomato sauce
 basic vegetable broth
 basic vinaigrette
 basil
-basil and cilantro leaves
-basil and mint
-basil and oregano
 basil broth
 basil dried tomatoes
 basil leaf
 basil leaves
 basil oil
 basil olive oil
-basil or basil-mint pesto
-basil or chervil
-basil or chives
-basil or mint
-basil or mint leaves
-basil or parsley
-basil or parsley leaves
 basil pesto
 basil sauce
 basil sprig
@@ -530,7 +413,6 @@ baska snap
 basket cherry tomatoes stems removed
 basmati
 basmati brown rice
-basmati or long-grain rice
 basmati rice
 bass
 bass fillet
@@ -559,14 +441,11 @@ bean-and-chili paste
 bean-paste
 beans
 beans -- limas
-beans and sausage
-beans or rice
 bearnaise sauce
 beaten
 beaten egg
 beaujolai
 beaujolais
-beaujolais or other fruity red wine
 beaujolais wine
 bechamel
 bechamel sauce
@@ -587,7 +466,6 @@ beef deckle
 beef dumplings
 beef eye
 beef fat
-beef fat or butter
 beef filet
 beef fillet
 beef filling
@@ -601,13 +479,8 @@ beef knucklebone
 beef marrow
 beef marrow bone
 beef marrowbones
-beef or chicken broth
-beef or chicken stock
-beef or pork sausage meat
-beef or vegetable stock
 beef oxtails
 beef patties
-beef rib bones or short ribs
 beef rib eye
 beef rib roast
 beef ribs
@@ -622,18 +495,14 @@ beef sausage
 beef shank
 beef shin
 beef shin bone
-beef short rib
-beef short ribs
 beef shoulder blade steaks
 beef sirloin
 beef steak
 beef stew meat
 beef stewing meat
 beef stock
-beef stock or broth
 beef strip loin steaks
 beef suet
-beef suet or duck fat
 beef tenderloin
 beef tenderloin steak
 beef tongue
@@ -653,7 +522,6 @@ beer
 beet
 beet green
 beet greens
-beet horseradish
 beet juice
 beet leaves
 beet vinaigrette
@@ -664,7 +532,6 @@ belgian ale
 belgian cherry ale
 belgian endive
 bell pepper
-bell pepper or other sweet pepper
 belon oysters
 beluga caviar
 beluga lentil
@@ -680,13 +547,11 @@ berry
 berry brandy
 berry jam
 berry juice
-berry-flavored liqueur
 best-quality bittersweet chocolate
 best-quality heavy cream
 best-quality olive oil
 best-quality vodka
 beurre blanc
-beurre blanc la c\xf4te basque
 beurre manie
 bhutanese red rice
 bib lettuce
@@ -705,9 +570,6 @@ bing cherries
 bing cherry
 bird chile
 bird chilies
-bird chilies or serrano chilies
-bird or serrano chili
-bird or serrano chilies
 bird pepper chilies
 biscuit
 biscuit mix
@@ -716,19 +578,14 @@ bisquick
 bitter chocolate
 bitter green
 bitter lettuce
-bitter orange marmalade
 bitter salad greens
 bittermens mole bitters
 bittermens xocolatl mole bitters
 bitters
 bittersweet chocolate
-bittersweet chocolate or chocolate chips
 bittersweet chocolate sauce
-bittersweet or semisweet chocolate
 bittersweet-chocolate
 black
-black and white pepper
-black and white peppercorns mixed half and half in grinder
 black bass
 black bean
 black bean chile-garlic sauce
@@ -737,7 +594,6 @@ black bean paste
 black bean paste with chili
 black bean sauce
 black beans
-black beans or vegetables or sour cream
 black bread
 black cabbage
 black calamata olives
@@ -759,19 +615,15 @@ black currant jelly
 black currant syrup
 black eyed pea
 black figs
-black forest ham
 black fungus
 black garlic
 black kale
-black kale or swiss chard
 black lentils
 black miso paste
 black mission figs
-black moroccan olives
 black mushrooms
 black mussels
 black mustard seed
-black ni\xe7oise olives
 black nice olives
 black nicoise
 black nicoise olives
@@ -781,21 +633,11 @@ black olive tapenade
 black olives
 black olives as desired
 black onion seed
-black or balsamic vinegar
-black or red lumpfish caviar
-black or red seedless grapes
-black or white pepper
-black or yellow mustard seeds
 black pepper
-black pepper and flaky sea salt
-black pepper and salt
-black pepper or cayenne
 black pepper to taste
-black peppercorn
 black peppers
 black pudding
 black pudding sausages
-black pumpkin seeds or pepitas
 black quinoa
 black radish
 black raisin
@@ -843,7 +685,6 @@ blackstrap rum
 blade
 blade mace
 blades of mace
-blanc or blanco vermouth
 blanche armagnac
 blanched almond
 blanched buttered green
@@ -858,33 +699,15 @@ blended scotch
 bleu cheese
 bleu de bresse cheese
 blini
-block of organic extra-firm tof
 blond quinoa
-blood orange
-blood orange juice
-blood orange or other orange
-blood orange or other orange juice
-blood orange peel
-blood orange puree
-blood orange segments or othero range segments
-blood oranges
-blood oranges or tangerines
 blood sausage
-blood-orange juice
-blood-orange pur\xe9e
 blossoms
 blue cheese
-blue cheese or gorgonzola
-blue corn cakes
-blue cornmeal
 blue crab
-blue cura\xe7ao
 blue curacao
 blue potatoes
 blue-cheese dressing
 blueberries
-blueberries or blackberries
-blueberries or other fruit
 blueberry
 blueberry ginger jam
 bluecoat
@@ -893,7 +716,6 @@ bluefish fillet
 boar
 bocconcini
 bockwurst
-boiled and smoked bacon
 boiled beef
 boiled ham
 boiled new potatoes
@@ -904,25 +726,18 @@ boiling potato
 boiling potatoes
 boiling water
 bok choy
-bok choy or sturdy greens
 boletes
 boletus
 bolognese sauce
-bomba or calasparra paella rice
 bomba rice
 bone
 bone-in
-bone-in beef short ribs
 bone-in chicken thighs
 bone-in chuck
 bone-in lamb shoulder
-bone-in pork butt
-bone-in pork chops
-bone-in pork shoulder
 bone-in rabbit saddles
 bone-in rib steak
 bone-in rib-eye
-bone-in short ribs
 bone-in turkey parts
 boned
 boned lamb shoulder
@@ -930,9 +745,7 @@ boned loin of veal
 boneless
 boneless beef chuck
 boneless beef loin
-boneless beef short ribs
 boneless beef steak
-boneless center-cut pork loin
 boneless chicken
 boneless chicken breasts
 boneless chicken thigh
@@ -944,18 +757,7 @@ boneless lamb
 boneless lamb leg
 boneless lamb shoulder
 boneless leg of lamb
-boneless loin of pork
 boneless pheasant breast
-boneless pork
-boneless pork butt
-boneless pork butt or shoulder
-boneless pork chops
-boneless pork leg
-boneless pork loin
-boneless pork loin chops
-boneless pork roast
-boneless pork shoulder
-boneless pork top loin roast or rib-end loin roast
 boneless quails
 boneless skinless chicken breasts
 boneless skinless chicken thighs
@@ -975,17 +777,11 @@ bonnet pepper
 bony chicken parts
 bony parts of chicken
 boomsma oude fine old genever
-borlotti bean
-borlotti beans
-borlotti or other dried beans
-borlotti or pinto beans
 bosc pear
 boston
 boston butt
 boston lettuce
 boston lettuce leaves
-boston lettuce or romaine lettuce leaves
-boston or bibb lettuce
 bottarga
 bottarga du tonno
 bottle of beer
@@ -1002,14 +798,11 @@ boucheron goat cheese
 boudin balls
 bouillon
 bouillon cube
-boulettes de porc
 bouquet garn
 bouquet garni
 bouquet garni made
 bouquet garni of thyme
 bourbon
-bourbon or rye
-bourbon or rye whiskey
 bourbon whiskey
 bourbon whisky
 bow tie noodles
@@ -1022,7 +815,6 @@ boxes cherry tomatoes
 boysenberries
 braciola
 braciola steak
-braised potatoes and carrots
 bran
 bran cereal
 bran flakes
@@ -1031,10 +823,7 @@ branca mentum
 brandied cherries
 brandied cherry
 brandied cherry juice
-brandied or maraschino cherries
 brandy
-brandy or kirsch
-brandy or sherry
 brandy-cured cherry
 brandy-cured kumquat
 brandy-snap
@@ -1047,17 +836,13 @@ bratwurst
 brazil nut
 brazilian
 bread
-bread and mustard
 bread croutons
 bread crumb
 bread crumbs
-bread crumbs or panko
-bread crumbs or semolina
 bread cubes
 bread dough
 bread dumpling
 bread flour
-bread or crackers
 bread roll
 bread round
 bread rounds cut to the diameter of the cheese rounds
@@ -1085,7 +870,6 @@ brioche
 brioche bread
 brioche buns
 brioche loaf
-brioche or challah bread
 brisket
 brisket of beef
 british
@@ -1093,15 +877,10 @@ broccoflower
 broccoli
 broccoli crown
 broccoli crowns
-broccoli crowns or florets
 broccoli di rabe
-broccoli floret
-broccoli florets
-broccoli florettes
 broccoli flowerets
 broccoli flowerettes
 broccoli leaves
-broccoli or broccolini
 broccoli raab
 broccoli rabe
 broccoli rabe with tomatoes
@@ -1110,7 +889,6 @@ broccoli spigarello leaves
 broccoli stalks
 broccoli stem
 broccolini
-broccolini or broccoli rabe
 broiler
 broiler chicken
 broken pecans
@@ -1132,18 +910,13 @@ brown lentil
 brown mushrooms
 brown mustard
 brown mustard seeds
-brown or green lentils
-brown or whole-grain prepared mustard
 brown rice
 brown rice flour
 brown rice fusilli
 brown rice miso
-brown rice or other grains
 brown sauce
 brown stock
 brown sugar
-brown sugar or agave nectar
-brown sugar or honey
 brown sugar syrup
 brown vinegar
 brown-butter bourbon
@@ -1152,17 +925,13 @@ brussels sprout
 brussels sprouts
 brut champagne
 bucatini
-bucatini or thick spaghetti
 bucatini pasta
-bucheron or other goat cheese
 buckwheat
 buckwheat blini
-buckwheat cr\xeapes
 buckwheat flour
 buckwheat groat
 buckwheat honey
 buckwheat noodles
-buckwheat or cornmeal blini
 budweiser
 buffalo
 buffalo mozzarella
@@ -1171,8 +940,6 @@ bulb green garlic
 bulbed spring onion
 bulgur
 bulgur wheat
-bulk pork breakfast sausage
-bulk pork sausage
 bulk sausage
 bulleit bourbon
 bun
@@ -1187,38 +954,19 @@ burghul
 burgundy
 burgundy wine
 burnt cinnamon simple syrup
-burnt-sugar coloring
 burrata
-burrata or buffalo mozzarella
 burratum
 bushmills irish whiskey
 bushy rosemary sprig
-butt or shank portion fresh ham
 butter
-butter and flour
-butter and flour for molds
-butter and maple syrup
-butter and sugar
 butter at room temperature
 butter bean
 butter clams
 butter cookies
-butter for greasing the pan
-butter for the pan
 butter lettuce
 butter milk
-butter or bacon grease
-butter or cooking oil
-butter or cooking spray
-butter or extra virgin olive oil
-butter or olive oil
-butter or pareve margarine
-butter or peanut oil
-butter or vegetable oil
-butter or walnut oil
 butter to taste
 butter-pecan ice cream
-butter; more for buttering pans
 buttercream frosting
 buttered artichoke bottoms
 buttered noodles
@@ -1230,10 +978,6 @@ buttermilk
 buttermilk bake-and-serve biscuits
 buttermilk biscuits
 buttermilk herb dressing
-buttermilk or kefir
-buttermilk or plain low-fat yogurt
-buttermilk or plain yogurt
-buttermilk or whole milk
 buttermilk powder
 butternut
 butternut squash
@@ -1245,11 +989,9 @@ butterscotch sauce
 buttersctoch
 button mushroom
 byrrh aperitif
-c\xeeroc grape vodka
 cabbage
 cabbage kimchi
 cabbage leaves
-cabbage or napa cabbage
 cabernet
 cabernet merlot
 cabernet sauvignon
@@ -1258,8 +1000,6 @@ cabernet-merlot
 cacao
 cacao nib
 cacao powder
-cacha\xe7a
-cacha\xe7a or pineapple juice
 cachaca
 caciocavallo cheese
 caciotta cheese
@@ -1270,10 +1010,8 @@ cajun seasoning
 cajun seasoning mix
 cake
 cake flour
-cake flour or all-purpose flour
 cake fresh yeast
 cake meal
-cake or pastry flour
 cake yeast
 cakes
 cakes tof
@@ -1283,15 +1021,12 @@ calamansi juice
 calamari
 calamata
 calamata olives
-calamata or other briny black olives
-calamata or other good-quality black olives
 calimyrna figs
 callaloo
 calriso
 calvado
 calvados
 calvados brandy
-calvados or cognac
 camembert
 camomile flower
 campari
@@ -1307,10 +1042,7 @@ can fire roasted tomatoes
 can lentils
 can moist shredded coconut
 can no-salt-added black beans
-can of mexicorn
-can organic vegetable broth
 can tomatoes
-can tuna packed in olive oil
 can water-packed tuna
 can whole tomatoes
 canadian bacon
@@ -1324,11 +1056,9 @@ candied clementines
 candied fruit
 candied ginger
 candied lemon
-candied orange peel
 candied peel
 candied rose petals
 candied squash
-candied squash and ginger relish
 candied violets
 candied walnuts
 candied yams
@@ -1346,21 +1076,15 @@ canned beet
 canned black beans
 canned chestnut puree
 canned chickpeas
-canned chipotle chile in adobo
 canned chipotle chili
-canned chipotle in adobo
 canned coconut milk
 canned crushed tomatoes
 canned diced tomatoes
 canned french fried onion
 canned green chili
 canned hominy
-canned imported italian plum tomatoes
-canned imported tomatoes
 canned italian plum tomatoes
 canned italian tomatoes
-canned litchi nuts in syrup
-canned organic tomato sauce
 canned oysters
 canned plum tomato
 canned plum tomatoes
@@ -1373,32 +1097,15 @@ canned tomatoes
 canned tuna
 cannellini
 cannellini bean
-cannellini or borlotti beans
-cannellini or other white beans
 canoe pan
 canola
 canola oil
-canola oil or grapeseed oil
-canola oil or light sesame oil
-canola oil or other vegetable oil
-canola oil or peanut oil
-canola oil or unsalted butter
-canola or corn oil
-canola or extra virgin olive oil
-canola or grape seed oil
-canola or grapeseed oil
-canola or olive oil
-canola or peanut oil
-canola or safflower oil
-canola or sunflower oil
-canola or vegetable oil
 cans black beans
 cans boneless
 cantal
 cantal cheese
 cantaloupe
 cantaloupe balls
-cantaloupe or honeydew
 capellini
 caper
 caper berries
@@ -1407,28 +1114,21 @@ caper juice
 caper sauce
 caperberries
 capers
-capers in salt
-capers in vinegar
 capon
 capon broth
 capon legs
 cappuccino
 cappuccino chip
-cara cara oranges
 carambola
 caramel
 caramel cakes
-caramel color powder
-caramel coloring
 caramel sauce
 caramelized almonds
-caramelized onions and apples
 caraway
 caraway seed
 caraway seeds
 cardamaro
 cardamom
-cardamom or cinnamon
 cardamom pod
 cardamom powder
 cardamom seed
@@ -1438,24 +1138,19 @@ caribbean
 caribbean pumpkin
 caribbean yams
 carmello
-carnaroli or other arborio rice
 carnaroli rice
-carnarolli or arborio rice
 carneros pear de pear
 carolina rice
 carp
 carp bones
 carp fillet
 carp roe
-carpano antica formula
-carpano antica formula vermouth
 carpano antica vermouth
 carrot
 carrot consomme
 carrot curls
 carrot curry sauce
 carrot juice
-carrot pur\xe9e or carrot juice
 carrot sticks
 carrots
 carve lamb
@@ -1471,33 +1166,19 @@ cassis
 cassis syrup
 catfish
 catfish fillet
-cato corner bloomsday cheese
 caul fat
 caulfilower
 cauliflower
-cauliflower and broccoli
 cauliflower couscous
-cauliflower florets
-cauliflower florettes
-cauliflower pur\xe9e
 cauliflowers
-cauliflowers and broccoli
 cava
-cava or other dry sparkling wine
 cava sparkling wine
 cavaillon melon
 cavatappi
 cavatelli
 caviar
-caviar and creme fraiche
-caviar and sour cream
 cayenne
-cayenne or espelette pepper
-cayenne or freshly grated nutmeg to taste
 cayenne pepper
-cayenne pepper and coarse salt
-cayenne pepper and salt
-cayenne pepper or hot sauce
 cayenne pepper to taste
 cayenne pepperpepper
 cayenne peppers
@@ -1507,7 +1188,6 @@ cedar shingles
 celeriac
 celeriac bulbs
 celery
-celery and leaves
 celery bitters
 celery branches
 celery cabbage
@@ -1516,8 +1196,6 @@ celery heart with leaves
 celery hearts
 celery juice
 celery leaves
-celery leaves or chives
-celery or cucumber
 celery rib
 celery root
 celery salt
@@ -1529,25 +1207,18 @@ celery sticks
 celery tops
 celery with leaves
 cellophane noodle
-center cut pork loin
 center cut salmon fillet
 center-cut bluefish fillets
-center-cut boneless pork loin
 center-cut fillet of beef
-center-cut pork chops
 center-cut tuna fillet
 central american
 cepe
 cereal
 cerignola olives
-ch\xe8vre
 chaat masala
 chablis white wine
 challah
 challah bread
-challah or brioche
-chambord
-chambord liqueur
 chamomile
 chamomile blossoms
 chamomile syrup
@@ -1557,17 +1228,12 @@ chamomile tisane
 champag
 champagne
 champagne grapes
-champagne or other sparkling wine
-champagne or sparkling wine
 champagne vinegar
-champagne vinegar or sherry vinegar
-champagne vinegar or white wine vinegar
 champagne wine vinegar
 chana dal
 chanterelle
 chanterelle mushroom
 chanterelles
-chanterelles or other wild or cultivated mushrooms
 chaource
 char si
 charcoal
@@ -1584,20 +1250,12 @@ chat masala
 chayote
 chayote squash
 cheddar
-cheddar and avocado
 cheddar cheese
-cheddar or gruy\xe8re cheese
-cheddar or gruy\xe8re or swiss cheese
-cheddar or jack cheese
-cheddar or monterey jack
-cheddar or monterey jack cheese
 chees
 cheese
-cheese and parsley sausage
 cheese croutons
 cheese curd
 cheese pumpkin
-cheese tortellini
 cheese: cotija
 cheesecloth
 cheeses
@@ -1607,44 +1265,34 @@ cherimoya puree
 chermoula
 cherries
 cherry
-cherry and orange
 cherry brandy
 cherry cola
 cherry heering
 cherry jam
 cherry juice
 cherry liqueur
-cherry or grape tomatoes
 cherry pepper
 cherry pie
 cherry pie filling
 cherry preserves
 cherry sauce
-cherry sorbet
 cherry tomato
 cherry tomatoes
-cherry-flavored liqueur
 cherrystone
 cherrystone clam
 chervil
-chervil and parsley
-chervil and tarragon
 chervil leaves
-chervil leaves or snipped chives
 chervil sprig
 chesapeake-style crab
 chestnut
 chestnut flour
 chestnut honey
-chestnut or buckwheat honey
 chestnut paste
-chestnut polenta with rag\xf9 alla napoletana
 chestnut puree
 chevre
 chex cereal
 chia seed
 chianti
-chianti or other red wine
 chick peas
 chicken
 chicken backbones
@@ -1654,64 +1302,39 @@ chicken bouillion cubes
 chicken bouillon
 chicken breast
 chicken breast halves
-chicken breast or tenders
 chicken breasts
-chicken breasts and thighs
-chicken breasts or thighs
 chicken breasts with skin
 chicken broth
-chicken broth or milk
-chicken broth or water
 chicken carcass
 chicken cutlet
 chicken demi-glace
 chicken drumstick
 chicken fat
-chicken fat or vegetable oil
 chicken feet
 chicken giblets
 chicken gizzard
 chicken gizzards
-chicken gizzards and hearts
 chicken leg
 chicken leg quarters
 chicken leg-thigh
 chicken legs
-chicken legs and thighs
-chicken legs and/or thighs
 chicken liver
 chicken livers
 chicken livers toscani
 chicken meat
 chicken nugget
-chicken or beef broth
-chicken or duck fat
-chicken or turkey livers or hearts
-chicken or turkey stock
-chicken or vegetable broth
-chicken or vegetable stock
-chicken or vegetable stock or dry white wine
 chicken part
 chicken pieces
 chicken sausage
 chicken skin
 chicken soup
 chicken stock
-chicken stock and mussel liquid
-chicken stock or broth
-chicken stock or commercial low-sodium chicken broth
-chicken stock or pasta water
-chicken stock or vegetable stock
-chicken stock or water
 chicken thigh
 chicken thigh meat
 chicken thighs
-chicken thighs and drumsticks
 chicken wing
 chicken wings
-chicken wings and legs
 chicken-breast
-chicken-udon soup with hijiki and spinach leaves
 chicken-wing drumsticks
 chicken-wing meat
 chickens
@@ -1719,9 +1342,6 @@ chickpea
 chickpea broth
 chickpea flour
 chickpeas
-chicory
-chicory leaves
-chicory or curly endive
 chifferi
 chile
 chile ancho
@@ -1734,7 +1354,6 @@ chile pepper
 chile powder
 chile power
 chile sauce
-chile-flavored bitters
 chilean sea bass
 chilean sea bass fillets
 chiles
@@ -1750,10 +1369,8 @@ chili paste
 chili paste with garlic
 chili pepper
 chili pepper flakes
-chili pepper flavored vodka
 chili pepper sauce
 chili powder
-chili powder or red pepper flakes
 chili sauce
 chili sesame oil
 chili-garlic paste
@@ -1761,7 +1378,6 @@ chili-garlic sauce
 chili-pepper flakes
 chili-pepper oil
 chili-pepper sauce
-chili-pepper-flavored vodka
 chili-sesame oil
 chili-soybean paste
 chili-tomato sauce
@@ -1769,13 +1385,10 @@ chilie
 chilis
 chilis anchos
 chilled butter
-chilled cr\xe8me anglaise
 chilled hibiscus tea
 chilled lard
-chilled ros\xe9
 chilled seltzer
 chilled solid vegetable
-chilled vegetable shortening
 chilpotle peppers
 chily
 chimichurri salsa
@@ -1818,23 +1431,18 @@ chinese hot chile oil
 chinese hot peppers
 chinese hot sauce
 chinese lettuce
-chinese licorice
 chinese long red hot chile
 chinese mandarin pancakes
 chinese mein
 chinese mushrooms
 chinese mustard greens
 chinese noodles
-chinese or japanese dried mushrooms
-chinese or thai barbecue sauce
 chinese oyster sauce
 chinese pea pods
 chinese pickle wine sauce
 chinese rice noodles
 chinese rice vinegar
 chinese rice wine
-chinese rice wine or dry sherry
-chinese roast pork
 chinese sausage
 chinese sesame oil
 chinese sesame paste
@@ -1847,7 +1455,6 @@ chinese tree ears
 chinese wheat noodle
 chinese white rice vinegar
 chinese won-ton wrappers
-chinkiang or black chinese vinegar
 chinkiang vinegar
 chioggia
 chioggia beets
@@ -1856,40 +1463,26 @@ chipotle chile
 chipotle chile powder
 chipotle chiles
 chipotle chiles en adobo
-chipotle chiles in adobo
 chipotle chili
 chipotle chili peppers
 chipotle chili powder
 chipotle chili sauce
 chipotle chilies
-chipotle chilies in adobo
 chipotle chily
 chipotle en adobo
 chipotle garlic
-chipotle in adobo
-chipotle in adobo sauce
-chipotle or other chili powder
 chipotle peach salsa
 chipotle pepper
 chipotle peppers
-chipotle peppers and sauce
-chipotle peppers in adobo sauce
 chipotle powder
-chipotle powder or cayenne
 chipotle ranchera salsa
 chipotles
 chipotles en adobo
-chipotles in adobo
-chipotles in adobo sauce
 chips
 chive
 chive blossom
 chive flowers
 chives
-chives and fennel sprigs
-chives or dill
-chives or mint
-chives or parsley leaves
 chocolate
 chocolate bar
 chocolate batons
@@ -1914,7 +1507,6 @@ chocolate ice cream
 chocolate liqueur
 chocolate malted milk ball
 chocolate mint glaze
-chocolate morsels
 chocolate pastry dough
 chocolate satin frosting
 chocolate sauce
@@ -1924,7 +1516,6 @@ chocolate syrup
 chocolate wafer
 chocolate wafer cookies
 chocolate wafer crumbs
-chocolate-port wine truffles
 choice chuck
 chopped
 chopped almonds
@@ -1932,12 +1523,9 @@ chopped aromatic vegetables
 chopped arugula
 chopped basil
 chopped basil leaves
-chopped basil or parsley
 chopped bok choy
-chopped boneless fish and shellfish
 chopped candied citron
 chopped candied lemon peel
-chopped candied orange peel
 chopped capers
 chopped carrot
 chopped celery
@@ -1946,15 +1534,9 @@ chopped celery leaves
 chopped chervil
 chopped chinese garlic chives
 chopped chives
-chopped chives or green onions
 chopped cilantro
-chopped cilantro and lime wedges
-chopped cilantro for garnish
 chopped cilantro leaves
-chopped cilantro leaves for garnish
-chopped cilantro plus whole cilantro leaves for garnish
 chopped cooked beef
-chopped cooked pork chop
 chopped cooked turkey
 chopped cucumber
 chopped dandelion greens
@@ -1968,39 +1550,24 @@ chopped fennel frond
 chopped fennel fronds
 chopped flat leaf parsley
 chopped flat-leaf parsley
-chopped flat-leaf parsley or chives for garnish
-chopped flat-leaf parsley or slivered fresh basil
 chopped fresh basil
 chopped fresh basil leaves
-chopped fresh basil or parsley
 chopped fresh chervil
 chopped fresh chives
 chopped fresh cilantro
-chopped fresh cilantro for garnish
 chopped fresh cilantro leaves
 chopped fresh dill
 chopped fresh dill leaves
-chopped fresh dill or mint
 chopped fresh flat-leaf parsley
 chopped fresh ginger
 chopped fresh herb leaves -- chervil
 chopped fresh herbs
 chopped fresh italian flat-leaf parsley
 chopped fresh italian parsley
-chopped fresh marjoram
-chopped fresh marjoram or mint
 chopped fresh mint
-chopped fresh mint and dressing
 chopped fresh mint leaves
-chopped fresh or canned tomatoes
-chopped fresh oregano
-chopped fresh oregano leaves
 chopped fresh parsley
 chopped fresh parsley leaves
-chopped fresh parsley leaves for garnish
-chopped fresh parsley or cilantro
-chopped fresh parsley or thyme for garnish
-chopped fresh red or green chile
 chopped fresh rhubarb
 chopped fresh rosemary
 chopped fresh rosemary leaves
@@ -2017,25 +1584,18 @@ chopped ginger
 chopped green chiles
 chopped green pepper
 chopped greens
-chopped herbs for garnish
 chopped italian parsley
 chopped kalamata olives
 chopped lemon thyme leaves
 chopped lemon zest
-chopped marjoram
 chopped mint
 chopped mint leaves
 chopped nuts
 chopped okra
 chopped onion
-chopped or slivered flat leaf parsley
-chopped or torn fresh mint leaves
-chopped orange zest
 chopped palm sugar
 chopped parsley
 chopped parsley leaves
-chopped parsley or mint
-chopped parsley or shredded basil
 chopped parsley to finish
 chopped parsnip
 chopped pecans
@@ -2043,10 +1603,8 @@ chopped pistachio nuts
 chopped pitted dates
 chopped preserved lemon
 chopped purple kale
-chopped purple or green basil
 chopped raw cashews
 chopped red onion
-chopped red or white onion
 chopped ripe tomatoes
 chopped roasted peanuts
 chopped roasted peppers
@@ -2056,7 +1614,6 @@ chopped rosemary leaves
 chopped sage
 chopped scallion
 chopped scallions
-chopped scallions for garnish
 chopped semisweet chocolate
 chopped shallot
 chopped shiitake caps
@@ -2065,19 +1622,12 @@ chopped spinach
 chopped stone fruit
 chopped sweet bell pepper
 chopped tarragon
-chopped thai basil or tarragon
 chopped thyme
 chopped toasted almonds
 chopped tomato
 chopped tomatoes
-chopped tomatoes in juice
 chopped walnuts
-chopped walnuts for garnish
 chopped white onion
-chopped white or red onion
-chorizo
-chorizo or bacon
-chorizo sausage
 chourico
 chowder clams
 christophine
@@ -2099,23 +1649,12 @@ cider
 cider butter sauce
 cider syrup
 cider vinegar
-cider vinegar or red or white vinegar
-cider vinegar or rice vinegar
 cilantro
-cilantro and fresh parsley
-cilantro and mint
 cilantro leaves
-cilantro leaves and tender stems
-cilantro or chives
-cilantro or epazote
-cilantro or mint
-cilantro or oregano
-cilantro or parsley
 cilantro roots
 cilantro sauce
 cilantro sprigs
 cilantro stems
-cilantro stems and leaves
 cinammon
 cinchona bark
 cinchona bark flakes
@@ -2133,8 +1672,6 @@ cinnamon-sugar
 cipolini
 cipollini onion
 cippoline onions
-cippoline onions or spring onions
-cippolini or other sweet onion
 cippollini onions
 ciroc vodka
 citric acid
@@ -2150,16 +1687,12 @@ citrus sauce
 citrus vodka
 citrus zest
 citrus zest strips
-cl\xe9ment cr\xe9ole shrubb or grand marnier
 clam
 clam broth
 clam juice
-clam sauce with pernod or ricard
 clamato juice
 clams
-clams or mussels
 clarified butter
-clarified butter or ghee
 classic duck foie terrine
 claw crab meat
 clean veal
@@ -2173,7 +1706,6 @@ clear rice vinegar
 clear rum
 clementine
 clementine juice
-clementine orange juice
 cling peaches
 clotted cream
 cloudberry jam
@@ -2186,39 +1718,22 @@ clover honey
 cloves
 cloves garlic
 cloves of garlic
-cloves or grated nutmeg
 club soda
-club soda or seltzer
 co chu karo
 coarse bread crumbs
 coarse brown sugar crystals
 coarse bulgur
 coarse bulgur wheat
-coarse corn grits
-coarse cornmeal
 coarse dark-rye-bread crumbs
 coarse dry bread crumbs
 coarse ground black pepper
 coarse kosher salt
 coarse kosher sea salt
-coarse or kosher salt
-coarse or rock salt
 coarse salt
-coarse salt and freshly ground black pepper
-coarse salt and freshly ground pepper
-coarse salt and freshly ground pepper to taste
-coarse salt and freshly ground white pepper
-coarse salt and pepper
-coarse salt or kosher salt
 coarse salt to taste
-coarse sea or kosher salt
 coarse sea salt
-coarse sea salt and freshly ground pepper to taste
-coarse sea salt or fleur de sel
-coarse sea salt or pretzel salt
 coarse sugar
 coarse unclear sugar
-coarse yellow cornmeal
 coarse-grained mustard
 coarsely chopped basil
 coarsely chopped blanched
@@ -2226,7 +1741,6 @@ coarsely chopped celery
 coarsely chopped cilantro
 coarsely chopped cilantro leaves
 coarsely chopped flat-leaf parsley
-coarsely chopped fresh coriander
 coarsely chopped fresh thyme
 coarsely chopped fresh thyme leaves
 coarsely chopped leeks
@@ -2239,7 +1753,6 @@ coarsely chopped rosemary
 coarsely chopped scallions
 coarsely chopped tomatoes
 coarsely chopped walnuts
-coarsely chopped walnuts or pecans
 coarsely chopped white mushrooms
 coarsely grated carrot
 coarsely grated cheese
@@ -2264,7 +1777,6 @@ cocoa
 cocoa butter
 cocoa nib
 cocoa powder
-cocoa powder and powdered sugar
 cocoa-infused tequila
 coconut
 coconut chips
@@ -2277,36 +1789,23 @@ coconut juice
 coconut macaroons
 coconut milk
 coconut oil
-coconut oil or unsalted butter
-coconut pur\xe9e or coconut ice cream
-coconut sorbet
-coconut sorbet or ice cream
 coconut water
 coconut water simple syrup
 cod
-cod and halibut
 cod fillet
-cod or hake fillets
-cod or other fillet
 cod steaks
 codfish
 codfish fillet
 coffee
-coffee and chicory
 coffee bean
 coffee butter cream
-coffee flavoring
 coffee ice cream
 coffee liqueur
 coffee powder
 coffeecake
 cognac
-cognac or aged rum
-cognac or brandy
 coho salmon
 cointrea
-cointreau or grand marnier
-cointreau or other orange liqueur
 coke
 cola
 colatura
@@ -2322,35 +1821,22 @@ cold sparkling water
 cold strong coffee
 cold sweet butter
 cold unsalted butter
-cold unsalted butter in small pats
 cold water
 cold-brewed coffee
 coleslaw cabbage
 collard
 collard green
 collard greens
-collard greens or kale
 collard leaves
-collard or dandelion greens
 collards
-collards or kale
-colored sprinkles
-colored sugar
 comice
-comice or bartlett pear
 comice pears
 commercial oyster sauce
 common crackers
 common mushrooms
-comt\xe9 or emmenthaler cheese
-comte or gruyere cheese
 concentrated pomegranate juice
 conch
 conch meat
-concord
-concord grape
-concord grape juice
-concord grape reduction
 condensed cream of celery
 condensed milk
 condiments
@@ -2358,7 +1844,6 @@ confectioners sugar
 conger
 conger eel
 converted rice
-cooked and crumbled thick-cut bacon
 cooked barley
 cooked basmati rice
 cooked beans
@@ -2376,19 +1861,14 @@ cooked crabmeat
 cooked crawfish tails
 cooked eggs
 cooked farro
-cooked farro or spelt
 cooked fish
-cooked fresh corn kernels
-cooked fresh yellow corn kernels
 cooked grains
-cooked green and yellow beans
 cooked green lentils
 cooked ham
 cooked israeli couscous
 cooked kasha
 cooked lentils
 cooked lobster meat
-cooked lobster meat or shrimp
 cooked lobsters
 cooked meatballs
 cooked medium shrimp
@@ -2401,11 +1881,9 @@ cooked pumpkin puree
 cooked quinoa
 cooked red beans
 cooked red jasmine rice
-cooked red or black quinoa
 cooked red quinoa
 cooked red rice
 cooked rice
-cooked rice or quinoa for serving
 cooked salmon
 cooked shell beans
 cooked shrimp
@@ -2433,77 +1911,9 @@ cooking-oil spray
 cool butter
 cool water
 copper river salmon fillets
-cored
-cored and shredded red cabbage
-coriander
-coriander and lemon juice
-coriander leaves
-coriander leaves and stems
-coriander seed
-coriander seeds
-coriander seeds or cumin seeds
-coriander sprigs
-corn
-corn and cheese bread
-corn and mushroom stuffing
-corn bread
-corn bread crumbs
-corn bread cubes
-corn chips
-corn flour
-corn flour or fine cornmeal
-corn husk
-corn kernel
-corn kernels
-corn kernels from 6 to 8 ears corn
-corn meal
-corn meal or flour for dredging
-corn niblet
-corn oil
-corn oil for bread pans
-corn on the cob
-corn or canola oil
-corn or flour tortillas
-corn or olive oil
-corn or peanut oil
-corn or safflower oil
-corn pudding
-corn relish
-corn salad
-corn starch
-corn syrup
-corn tortilla
-corn tortilla chips
-corn tortilla crisps
-corn tortillas
-corn-bread crumbs
-cornbread
-cornbread crumbs
-corned beef
-cornflake
-cornhusks
-cornichon
-cornichon brine
-cornichon juice
-cornichons
-cornichons or other pickles
-cornish game hen
-cornish hen
-cornmeal
-cornmeal biscuit dough
-cornmeal bread
-cornmeal for baking sheets
-cornstarch
-cornstarch mixed with 2 tablespoons water
-cornstarch or arrowroot
-cornstarch or arrowroot dissolved in 2 tablespoons vegetable stock or water
-cornstarch or rice flour
-corstarch
 cotechini
 cotija
 cotija cheese
-cotija or parmesan cheese
-cotija or ranchero
 cottage cheese
 cotthrow
 country bacon
@@ -2522,20 +1932,6 @@ court-bouillon
 courvoisier
 couscous
 cowgirl beans
-cr\xe8me de cacao
-cr\xe8me de cacao liqueur
-cr\xe8me de cacao or other dark chocolate liqueur
-cr\xe8me de cassis
-cr\xe8me de cassis liqueur
-cr\xe8me de m\xfbre
-cr\xe8me fra\xeeche
-cr\xe8me fra\xeeche or heavy cream
-cr\xe8me fra\xeeche or sour cream
-cr\xe8me fra\xeeche or whipped cream
-cr\xe8me fraiche
-cr\xe9me de cassis
-cr\xe9me de framboise
-cr\xe9me fra\xeeche
 crab
 crab boil
 crab claws
@@ -2550,9 +1946,6 @@ crab: melon
 crabmeat
 crabs
 cracked black pepper
-cracked black peppercorns
-cracked coriander seed
-cracked or coarse black pepper
 cracked pepper
 cracked rye
 cracked wheat
@@ -2562,16 +1955,13 @@ cracker meal
 crackers
 crackling
 cranberries
-cranberries or dried cherries
 cranberry
 cranberry bean
 cranberry juice
 cranberry juice cocktail
 cranberry liqueur
-cranberry or other beans
 cranberry relish
 cranberry sauce
-cranberry-orange relish
 crawfish
 crawfish tails
 crayfish
@@ -2579,7 +1969,6 @@ crayfish fat
 crayfish heads
 crayfish tail
 cream
-cream and sugar
 cream cheese
 cream cheese at room temperature
 cream liqueur
@@ -2589,17 +1978,13 @@ cream of coconut
 cream of mushroom soup
 cream of tartar
 cream of wheat
-cream or half-and-half
 cream puffs
 cream sauce
 cream sherry
 cream soda
-cream-style corn
 cream-yogurt sauce
-creamed corn
 creamed tomato sauce
 creamer potatoes
-creamy ch\xe8vre
 creamy cheese
 creamy feta
 creamy fresh goat cheese
@@ -2617,12 +2002,8 @@ creme de marron
 creme de menthe
 creme de menthe liqueur
 creme fraiche
-creme fraiche or heavy cream
 cremini
 cremini mushrooms
-cremini mushrooms or wild mushrooms
-cremini or white button mushrooms
-cremini or white mushrooms
 crenshaw
 creolaise sauce
 creole
@@ -2653,16 +2034,11 @@ crispy garlic
 crispy pancetta
 crispy shallot
 crispy shallots
-crispy shallots and garlic
 croissant
 crostini
 crouton
 croutons
-croutons or crumbled bacon
-croutons or toasted tortilla chips
 crown roast of lamb
-crown roast of pork
-crudit\xe9s or crackers
 crumble topping
 crumbled aged white cheddar
 crumbled blue cheese
@@ -2670,24 +2046,18 @@ crumbled cake
 crumbled creamy goat cheese
 crumbled feta
 crumbled feta cheese
-crumbled feta for topping
 crumbled goat cheese
 crumbled queso blanco
 crumbled queso fresco
-crumbled queso fresco or feta
-crumbled roquefort cheese
 crumbled sage leaves
 crumbs
-crunchy or smooth natural peanut butter
 crushed canned tomato
 crushed cardamom
-crushed chili flakes or aleppo pepper
 crushed cinnamon stick
 crushed dried chili
 crushed fennel seeds
 crushed garlic
 crushed ice
-crushed imported tomatoes
 crushed italian plum tomatoes
 crushed juniper berries
 crushed pecans
@@ -2701,14 +2071,10 @@ crushed strawberries
 crushed tomatoes
 crushed tomatoes with their liquid
 crushed urfa pepper
-crushed white peppercorns
 crust
 crustless bread
-crustless brioche or pullman loaf
 crusty
 crusty bread
-crusty bread or rice
-crusty bread or toast
 crusty country-style bread loaf
 crusty day-old bread
 crusty italian bread
@@ -2725,61 +2091,46 @@ cubanelle peppers
 cube steak
 cubed day-old firm white bread
 cubed fresh italian bread
-cubed watermelon or to taste
 cubes of bread
 cucumber
 cucumber hot sauce
 cucumber juice
 cucumber rounds
-cucumber rounds or toasted croutons
 cucumber salad
 cucumber spears
-cucumber vinaigrette with basil and garlic
 cucumber-thyme vinaigrette
 cucumbers
 culantro
 culotte
-cultivated or wild mushrooms
 cultured butter
 cultured buttermilk
 cumin
-cumin and citrus roasted carrots
 cumin oil
 cumin powder
 cumin seed
 cumin seeds
 cumin tomato sauce
-cumin-coriander mixture
 cuminseeds
 cup
 cup chopped fresh parsley
-cup cr\xe8me fra\xeeche
 cup ground pumpkinseeds
 cup milk
 cupcakes
 cups shredded cooked chicken
-cura\xe7ao
-cura\xe7ao liqueur
 curacao
 curd cottage cheese
 cured black olives
-cured chorizo
 curing salt
-curly chicory
 curly endive
 curly endive lettuce
 curly green kale
 curly kale
-curly kale or russian kale
 curly leaf lettuce
 curly parsley
 currant
 currant jelly
 currant tomatoes
 currants
-currants or dark raisins
-currants or golden raisins
-currants or raisins
 curried mayonnaise
 curry
 curry dressing
@@ -2787,8 +2138,6 @@ curry leaves
 curry oil
 curry paste
 curry powder
-curry powder or garam masala
-curry raisin pur\xe9e
 curry sauce
 curry-mustard steaming liquid
 curtido
@@ -2800,7 +2149,6 @@ cutlet
 cuttlefish
 cynar
 daikon
-daikon in fine julienne
 daikon radish
 daikon radish curls
 daikon radishes
@@ -2808,7 +2156,6 @@ dairy free
 damiana leaves
 dandelion green
 dandelion leaves
-dandelion or other greens
 dandelions
 danish dough
 danziger goldwasser
@@ -2819,11 +2166,9 @@ dark beer
 dark brown sugar
 dark cherry
 dark chinese sesame oil
-dark chinese sesame oil or walnut oil
 dark chocolate
 dark chocolate squares
 dark cocoa powder
-dark corn syrup
 dark creme de cacao
 dark green
 dark jamaica rum
@@ -2832,7 +2177,6 @@ dark karo syrup
 dark meat chicken
 dark mexican beer
 dark molasses
-dark or golden raisins
 dark puerto rican rum
 dark pumpernickel bread
 dark raisins
@@ -2844,23 +2188,19 @@ dark rum
 dark rye flour
 dark sesame oil
 dark soy sauce
-dark soy sauce or tamari
 dark sweet soy sauce
 dark turkey meat
 dark-brown sugar
 dark-meat chicken
-dark-meat chicken or pork
 dark-meat turkey
 dash angostura bitters
 dash of salt
-dash or two grapefruit bitters
 dashes of balsamic vinegar
 dashi
 dashi stock
 date
 date filling
 date infused bourbon
-date paste or ground pitted dates
 date syrup
 date-infused bourbon
 dates
@@ -2868,14 +2208,11 @@ day-old baguette
 day-old bread
 day-old country bread
 day-old french bread
-day-old french loaf or other hearth-style white loaf
 de arbol chilies
 decent-quality bread
-decorative sprinkles
 deep sea scallops
 defatted stock
 deglazing liquid
-deglet noor dates
 del maguey vida mezcal
 delicata
 delicata squash
@@ -2900,17 +2237,14 @@ diamond crystal kosher salt
 diastatic malt powder
 diced
 diced avocado
-diced bacon or pancetta
 diced carrot
 diced celery
 diced chard stems
-diced chorizo
 diced cooked chicken
 diced cooked ham
 diced crustless stale baguette
 diced cucumber
 diced dried apricots
-diced european or japanese cucumber
 diced fresh parsley
 diced ham
 diced leeks
@@ -2924,14 +2258,12 @@ diced peeled parsnips
 diced radish
 diced radishes
 diced red onion
-diced red or yellow onion
 diced rhubarb stalks
 diced ripe cantaloupe
 diced salami
 diced sun-dried tomatoes
 diced sweet potatoes
 diced tomato flesh
-diced tomato or quartered cherry tomatoes
 diced tomatoes
 diced yellow onion
 diced yellow summer squash
@@ -2942,14 +2274,10 @@ dijon-style
 dijon-style mustard
 dijon-type mustard
 dill
-dill and mustard sauce
 dill blossoms
 dill flower
 dill fronds
 dill leaves
-dill or chives
-dill or mint
-dill or parsley
 dill pickle
 dill sauce
 dill seed
@@ -2960,38 +2288,29 @@ dillweed
 dipping sauce
 disaronno
 distilled vinegar
-distilled white or white wine vinegar
 distilled white vinegar
 diver scallops
 djion mustard
 doenjang
 dogfish
 dolin blanc vermouth
-dolin blanc vermouth de chamb\xe9ry
 dolin dry vermouth
-dolin g\xe9n\xe9py des alpes
 domaine de canton ginger
 domestic ducks
 domestic mushrooms
 don
 don noodles
-don noodles or dried rice sticks
 doppelbock beer
-double corn cornbread
 double cream
-double or heavy cream
 double smoked bacon
 double-acting baking powder
 double-crust pie dough
 dough
 dozen littleneck clams
 drained
-drained canned corn kernels
 drained capers
-drained dried beans or canned beans
 drained small capers
 drained yogurt
-drained yogurt or thick greek-style yogurt
 drambuie
 drambuie liqueur
 dressing
@@ -3010,7 +2329,6 @@ dried black fungus
 dried black trumpet mushrooms
 dried black-eyed peas
 dried bonito flakes
-dried borlotti
 dried bread crumbs
 dried breadcrumbs
 dried brown bean
@@ -3029,18 +2347,13 @@ dried chili flakes
 dried chili pepper
 dried chily
 dried chipotle
-dried chorizo
 dried cilantro
-dried corn husk
-dried corn husks
 dried cranberries
 dried cranberry
 dried cranberry beans
 dried crushed mint
-dried crushed oregano
 dried currant
 dried currants
-dried currants or raisins
 dried dill
 dried dill weed
 dried fava bean
@@ -3048,14 +2361,12 @@ dried fenugreek leaves
 dried fig
 dried flageolets
 dried fruit
-dried funghi porcini mushrooms
 dried garlic flakes
 dried giant lima beans
 dried ginger
 dried glass noodles
 dried greek giant beans
 dried green lentils
-dried green peppercorns
 dried guajillo chiles
 dried guajillo chily
 dried herb
@@ -3070,7 +2381,6 @@ dried hot red chili
 dried hot red pepper flakes
 dried hot red peppers
 dried hot red-pepper flakes
-dried imported barberries
 dried kale leaves
 dried kelp
 dried lavender
@@ -3079,20 +2389,13 @@ dried lentils
 dried lima bean
 dried lime
 dried lime tea
-dried marjoram
-dried mexican oregano
 dried mint
 dried mission figs
-dried morel
 dried mung beans
 dried mushroom
 dried mustard
 dried navy beans
 dried onion flakes
-dried or fresh thin egg noodles
-dried orange peel
-dried oregano
-dried oregano or 2 teaspoons slivered fresh basil
 dried parsley
 dried pasilla
 dried pasta
@@ -3100,19 +2403,12 @@ dried pea
 dried peach
 dried pear
 dried pears
-dried pears or apples
 dried penne
 dried pink beans
 dried pinto beans
 dried pintos
 dried pitted prunes
 dried plums
-dried porchinis
-dried porcini
-dried porcini mushroom
-dried porcini or other mushrooms
-dried porcinis
-dried portobello mushrooms
 dried pozole
 dried prunes
 dried puya chiles
@@ -3133,7 +2429,6 @@ dried sage
 dried sage leaves
 dried salt cod
 dried salted shrimp
-dried savory or thyme
 dried seaweed
 dried shallots
 dried shiitake mushroom
@@ -3146,15 +2441,12 @@ dried spaghetti
 dried tarragon
 dried thyme
 dried thyme leaves
-dried thyme or sage leaves
 dried tomatoes
 dried tuna
 dried unsweetened coconut flakes
-dried vietnamese or thai rice noodles
 dried wakame seaweed
 dried white bean
 dried white beans
-dried white or borlotti beans
 dried whole chile
 dried whole mint leaves
 dried whole-wheat pasta shells
@@ -3176,7 +2468,6 @@ dry chardonnay
 dry cilantro leaves
 dry cottage cheese
 dry couscous
-dry cura\xe7ao
 dry curd
 dry curd cottage cheese
 dry egg noodles
@@ -3195,7 +2486,6 @@ dry italian red wine
 dry italian seasoning
 dry italian white wine
 dry kasha
-dry kosher-for-passover wine
 dry lasagna
 dry lentils
 dry linguine
@@ -3207,11 +2497,7 @@ dry milk
 dry milk powder
 dry mustard
 dry mustard powder
-dry oloroso sherry
-dry orecchiette
 dry pinto beans
-dry porcini
-dry porcini mushrooms
 dry poundcake crumbs
 dry prosecco
 dry red burgundy wine
@@ -3222,7 +2508,6 @@ dry red wine
 dry rice vermicelli
 dry riesling
 dry roasted peanuts
-dry ros\xe9 or white wine
 dry rosado
 dry rosemary leaves
 dry rub
@@ -3231,8 +2516,6 @@ dry sake
 dry sherry
 dry sherry wine
 dry spaghetti
-dry spaghettini or spaghetti
-dry spanish ros\xe9
 dry spanish sherry
 dry sparkling cider
 dry sparkling wine
@@ -3240,27 +2523,18 @@ dry split peas
 dry strascinati
 dry tagliatelle nests
 dry thyme
-dry tubular or shell-shaped pasta
 dry vermouth
 dry white alsatian wine
 dry white beans
-dry white or red wine
 dry white table wine
 dry white vermouth
 dry white wine
-dry white wine or armagnac
-dry white wine or fino sherry
-dry white wine or fish stock or water
-dry white wine or red wine
-dry white wine or water
-dry white wine such as pinot grigio or sauvignon blanc
 dry yeast
 dry yellow mustard
 dry-cured ham
 dry-fried noodles
 dry-roasted peanuts
 duck
-duck and veal
 duck breast
 duck broth
 duck confit
@@ -3268,17 +2542,13 @@ duck confit fat
 duck confit legs
 duck dumplings
 duck fat
-duck fat or chicken fat
-duck fat or vegetable oil
 duck foie gras
 duck gravy
 duck leg
 duck legs
 duck legs confit
 duck liver
-duck liver and giblets
 duck meat
-duck or rabbit livers
 duck pastrami
 duck prosciutto
 duck sausage
@@ -3292,7 +2562,6 @@ duckling
 duckling breasts
 ducks
 dukkah
-dukkah for sprinkling
 dulce de leche
 dull beer
 dulse
@@ -3315,18 +2584,11 @@ dutch-processed cocoa powder
 dutch-style cocoa
 each basil
 each fresh thyme leaves
-each parsley and cilantro
-each parsley and mint
-ear of corn
 earl grey tea
-ears corn
-ears of corn
-ears yellow corn
 earth clay
 easter egg radish
 eastern european
 easy oven-baked polenta
-eating oranges
 eau de vie
 eau de vie de framboise
 eau de vie de poire
@@ -3336,7 +2598,6 @@ edam cheese
 edamame
 edamame beans
 edible blossoms
-edible decorations
 edible flower
 eel
 egg
@@ -3350,7 +2611,6 @@ egg wash
 egg white
 egg whites
 egg yolk
-egg yolk or whole egg
 egg yolks
 eggless linguine
 eggless mayonnaise
@@ -3362,16 +2622,12 @@ eggy bread
 egusi
 egyptian dukkah
 eight-star anise
-einkorn
 elbow macaroni
-elbow macaroni or other soup pasta
-elbow macaroni or small shells
 elbow pasta
 elder flower concentrate
 elderberry essence
 elderberry tea bags
 elderflower concentrate
-elderflower cordial
 elderflower liqueur
 elephant garlic
 emmental cheese
@@ -3394,7 +2650,6 @@ english custard
 english devon cream
 english mustard
 english mustard powder
-english or hull peas
 english pea
 english pea pods
 english-pea-pod juice
@@ -3408,12 +2663,9 @@ epazote leaves
 epazote sprigs
 epices
 epoisses cheese
-error: failed to push some refs to 'https://github.com/higgs241/Scrapyard-Kitchen.git'
 escargot
 escarole
 espelette pepper
-espelette pepper or hot spanish paprika
-espelette pepper or spanish smoked hot paprika
 espresso
 espresso beans
 espresso coffee
@@ -3423,10 +2675,7 @@ espresso powder
 essn tangerine juice
 ethyl alcohol
 european cucumber
-european cucumber or 3 persian cucumbers
 european-style cocoa
-evaporated milk
-evaporated skim milk
 everclear
 extra flour
 extra large eggs
@@ -3437,12 +2686,6 @@ extra virgin greek olive oil
 extra virgin olive
 extra virgin olive oil
 extra virgin olive oil as needed
-extra virgin olive oil for drizzling
-extra virgin olive oil for the foil
-extra virgin olive oil or butter
-extra virgin olive oil or canola oil
-extra virgin olive oil or sesame oil
-extra virgin olive oil or unsalted butter
 extra- virgin olive oil
 extra-bitter chocolate
 extra-bittersweet chocolate
@@ -3462,12 +2705,9 @@ extra-virgin coconut oil
 extra-virgin olive
 extra-virgin olive oi
 extra-virgin olive oil
-extra-virgin olive or peanut oil
-extra-virgin olive or walnut oil
 extract
 eye roast
 eye-round roast
-face cach\xe9e de la pomme
 fancy pimentos
 farfalle
 farfalle pasta
@@ -3477,7 +2717,6 @@ faro
 farofa
 farro
 farro della garfagnana
-farro or wheat berries
 farro pasta
 farro salad
 fast-rising dry yeast
@@ -3495,9 +2734,7 @@ fatty bacon
 fava bean
 fava bean pods
 fava beans
-fava beans in the pod
 fava-bean pods
-favorite ice cream
 fee brothers old fashion bitters
 fee brothers old fashioned aromatic bitters
 fee brothers peach bitters
@@ -3509,7 +2746,6 @@ fennel fronds
 fennel herb
 fennel juice
 fennel leaves
-fennel or dill
 fennel pollen
 fennel root
 fennel seed
@@ -3523,21 +2759,14 @@ fenugreek leaves
 fenugreek seeds
 fermented bean paste
 fermented black bean
-fermented krill or baby shrimp
 fermented tea leaves
 fernet branca
 fernet-branca
 feta
 feta cheese
-feta cheese for topping
-feta or fresh lemon juice
-feta or freshly grated parmesan
 fettuccine
 fettuccine noodles
-fettuccine or egg noodles
-fettuccine or pappardelle
 fettuccini
-fettuccini or farfalle
 fettucine
 fettucini
 few drops of rosewater
@@ -3556,9 +2785,7 @@ fig leaves
 fig preserf
 fig preserves
 figs
-figs and plums
 fiji apple
-fil\xe9 powder
 file powder
 filet mignon
 filet of venison
@@ -3572,16 +2799,12 @@ fillets
 fillets of sole
 fillets wild king salmon
 filling
-filtered or spring water
 fin tuna
 fine
 fine bread crumbs
-fine bread crumbs or all-purpose flour
 fine bulgar wheat
 fine bulgur
 fine bulgur wheat
-fine corn meal
-fine cornmeal
 fine dry bread crumbs
 fine dry unseasoned bread crumbs
 fine egg noodles
@@ -3593,11 +2816,7 @@ fine noodles
 fine polenta
 fine salt
 fine sea salt
-fine sea salt and black pepper
-fine sea salt and freshly ground white pepper to taste
-fine sea salt or table salt
 fine semolina
-fine stone-ground cornmeal
 fine-grain bulgur
 fine-grain polenta
 fine-quality balsamic vinegar
@@ -3609,7 +2828,6 @@ finely chopped bottled no-salt hot cherry peppers
 finely chopped bottled no-salt sweet peppers
 finely chopped carrot
 finely chopped celery
-finely chopped celery and celery leaves
 finely chopped chervil
 finely chopped chives
 finely chopped cilantro
@@ -3618,17 +2836,12 @@ finely chopped fennel bulb
 finely chopped flat-leaf parsley
 finely chopped fresh basil
 finely chopped fresh cilantro leaves
-finely chopped fresh coriander
-finely chopped fresh coriander leaves
 finely chopped fresh dill
 finely chopped fresh ginger
 finely chopped fresh herbs
 finely chopped fresh mint
 finely chopped fresh mint leaves
-finely chopped fresh mint or dill
-finely chopped fresh oregano leaves
 finely chopped fresh parsley
-finely chopped fresh red or green chile
 finely chopped fresh ripe tomato
 finely chopped fresh sage
 finely chopped fresh tarragon
@@ -3636,8 +2849,6 @@ finely chopped fresh thyme
 finely chopped garlic
 finely chopped ginger
 finely chopped ginger root
-finely chopped green onion or scallions
-finely chopped green onions or scallions
 finely chopped green pepper
 finely chopped italian parsley
 finely chopped leeks
@@ -3646,8 +2857,6 @@ finely chopped lime zest
 finely chopped mint
 finely chopped nuts
 finely chopped onion
-finely chopped onion for garnish
-finely chopped onion or shallot
 finely chopped parsley
 finely chopped parsley leaves
 finely chopped red bell pepper
@@ -3680,21 +2889,15 @@ finely diced yellow squash
 finely grated daikon
 finely grated garlic
 finely grated ginger
-finely grated gruyere or parmesan cheese
 finely grated lemon zest
 finely grated nutmeg
-finely grated orange rind
-finely grated orange zest
 finely grated parmesan cheese
 finely grated parmigiano-reggiano
-finely grated pecorino romano
 finely grated sharp cheddar cheese
 finely grated well-aged cheddar cheese
 finely grated zest of 2 limes
 finely ground black pepper
-finely ground cornmeal
 finely ground juniper berries
-finely ground pork
 finely ground walnuts
 finely ground white pepper
 finely julienned fresh ginger
@@ -3706,7 +2909,6 @@ finely minced onion
 finely minced seeded fresh red chili
 finely minced shallots
 finely minced yellow onions
-finely shredded cored napa cabbage
 finely shredded fresh basil
 finely sliced cilantro leaves
 fingerling
@@ -3715,7 +2917,6 @@ fingerling potatoes
 finn crisp
 finnan haddie
 fino sherry
-fior di latte
 firm
 firm apple
 firm baby zucchini
@@ -3739,13 +2940,11 @@ firmly packed light-brown sugar
 fish
 fish bone
 fish bones
-fish bones and heads
 fish bouillon
 fish broth
 fish cake
 fish fillet
 fish fumet
-fish fumet or clam broth
 fish head
 fish roe
 fish sauce
@@ -3754,8 +2953,6 @@ fish sauce with hot chilies
 fish soup
 fish steaks
 fish stock
-fish stock for bouillabaisse
-fish stock or water
 fish stock with red wine
 fish veloute
 five spice powder
@@ -3763,16 +2960,12 @@ five-spice powder
 five-spices
 flageolet bean
 flageolet beans
-flageolet beans in cream
 flageolets
 flaked coconut
 flaky pastry
 flaky pie crust
 flaky salt
-flaky salt or fleur de sel
 flaky sea salt
-flaky sea salt and ground black pepper
-flaky sea salt or fleur de sel
 flaky sweet pastry shell
 flaky white fish
 flank
@@ -3796,39 +2989,18 @@ flat-leaf spinach
 flat-parsley
 flatbread
 flatleaf parsley
-flavored syrup
-flavorful oil
-flavorful white rum
-flavoring
-flavorless oil
 flax seed
 flaxseed
 flaxseed meal
 flaxseed oil
 fleur de sel
-fleur de sel or \xbc teaspoon fine sea salt
-fleur de sel or other flaky sea salt
-fleur de sel or sea salt
-floral gin
-floral honey
-florence fennel
-florentine fennel
 flounder
 flounder fillet
-flounder or gray sole
 flour
-flour and butter
-flour and salt
-flour for kneading
-flour tortilla
-flour tortilla or whole wheat wrap
-flour tortillas
-flour tortillas or rice
 flower petals
 flowerets
 fluke
 fluke fillets
-fluke or halibut fillets
 flying fish roe
 flying-fish roe
 focaccia
@@ -3841,77 +3013,24 @@ foie-gras terrine
 foil
 fontina
 fontina cheese
-fontina or gruy\xe8re
 food cake
-food coloring
-food coloring pastes
 food-grade lye
 fool berries
-for assembly
-for assembly:
-for garnish: paper-thin lemon slices
-for the beans:
-for the brussels sprouts:
-for the cakes:
-for the cheese crackers:
-for the cooking sauce:
-for the crust:
-for the dipping sauce:
-for the dough:
-for the dressing:
-for the filling and assembly:
-for the filling:
-for the garnish sauce:
-for the gazpacho:
-for the grits:
-for the hotcakes:
-for the mushroom stock:
-for the mushrooms:
-for the noodles:
-for the pastry:
-for the prune butter:
-for the pumpkin:
-for the radicchio:
-for the radishes and beans:
-for the rice:
-for the ricotta base:
-for the salad:
-for the sauce:
-for the tapenade:
-for the tempura:
-for the tofu croutons:
-for the tofu-soy vinaigrette:
-for the tomatoes
-for the topping:
-for the vanilla cream:
-for the yogurt-garlic sauce:
-for the zucchini:
-forbidden rice
-fork
-fortified wine
 four-inch piece of stale french bread
 four-pound chicken
 fowl
 fowl glaze
-fra\xeeche
-fragrant orange
-fragrant peppercorns
 framboise
-framboise or blackberry brandy
 frangelico
 frangipani
 frankfurter
-free-form dessert cups
 free-range chicken
-free-range organic chicken
 freekeh
 freestone peaches
 fregola
-fregola or israeli couscous
 french
 french baguette
 french baguette bread
-french baguette bread or unsalted round tortilla chips
 french beans
 french bread
 french breakfast radishes
@@ -3922,9 +3041,7 @@ french green
 french green lentil
 french ham
 french lentils
-french or italian bread
 french sea salt
-french-bread cro\xfbtes
 french-style 82 percent fat butter
 french-style baguette
 french-style butter
@@ -3957,37 +3074,26 @@ fresh chili
 fresh chives
 fresh chopped basil
 fresh chopped chives
-fresh chopped cilantro for garnish
 fresh chopped parsley
 fresh chopped parsley leaves
 fresh chopped thyme leaves
-fresh chorizo sausage
 fresh cilantro
 fresh cilantro leaves
 fresh coconut milk
-fresh coriander
-fresh coriander leaves
-fresh corkscrew pasta
-fresh corn
-fresh corn kernels
-fresh corn on the cob
 fresh crab meat
 fresh cranberries
 fresh cranberry beans
 fresh cream
-fresh cremini or wild mushrooms
 fresh cultivated mushrooms
 fresh curd goat cheese
 fresh curry leaves
 fresh dandelions
 fresh dates
 fresh dill
-fresh dill or parsley
 fresh egg noodles
 fresh egg yolks
 fresh fava beans
 fresh fennel
-fresh fennel bulbs and leaves
 fresh fennel fronds
 fresh fettuccine
 fresh figs
@@ -3996,7 +3102,6 @@ fresh flat leaf parsley
 fresh flat-leaf parsley
 fresh flat-leaf parsley leaves
 fresh fruit
-fresh galangal or ginger
 fresh ginger
 fresh ginger juice
 fresh ginger root
@@ -4004,7 +3109,6 @@ fresh gingerroot
 fresh goat cheese
 fresh goat cheese logs
 fresh grapefruit juice
-fresh grated horseradish root
 fresh green beans
 fresh green chiles
 fresh green chili
@@ -4016,7 +3120,6 @@ fresh ground black pepper
 fresh ground pepper
 fresh ham
 fresh herb
-fresh horseradish
 fresh hot green chile
 fresh italian parsley
 fresh jalapeno
@@ -4026,56 +3129,27 @@ fresh key lime juice
 fresh lard
 fresh lemon grass
 fresh lemon juice
-fresh lemon juice or balsamic vinegar
-fresh lemon juice or sherry vinegar
 fresh lemon juice to taste
-fresh lemon or lime juice
 fresh lemon verbena
 fresh lemon verbena leaves
 fresh lemongrass
 fresh lime juice
-fresh lime juice or lemon juice
-fresh lime wedge for garnish
 fresh linguine
 fresh lump crab meat
-fresh marjoram
-fresh marjoram leaves
 fresh mild cheese
 fresh mint
 fresh mint leaves
 fresh mixed herbs
 fresh mixed wild mushrooms
-fresh morels
 fresh mozzarella
 fresh mozzarella cheese
 fresh mung bean sprout
 fresh mushrooms
 fresh mussels
 fresh okra
-fresh or bottled salsa if desired
-fresh or bottled salsa*
-fresh or canned beef broth
-fresh or canned beef or chicken broth
-fresh or canned chicken broth
-fresh or commercial orange juice
-fresh or dried fettuccine
-fresh or dried red chilies
-fresh or dried thyme
-fresh or dry breadcrumbs
-fresh or frozen english peas
-fresh or frozen ginger
-fresh or frozen minced clams
-fresh or frozen peas
-fresh or sour cream
-fresh orange juice
-fresh oregano
-fresh oregano leaves
 fresh pappardelle
 fresh parsley
 fresh parsley leaves
-fresh parsley leaves or chives
-fresh parsley leaves or sprigs for garnish
-fresh parsley or chives
 fresh pasta
 fresh pasta shells
 fresh peas
@@ -4085,8 +3159,6 @@ fresh pepper
 fresh pineapple
 fresh plum tomatoes
 fresh poblano peppers
-fresh porcini mushrooms
-fresh pork belly
 fresh raspberries
 fresh rhubarb
 fresh rice noodles
@@ -4107,49 +3179,36 @@ fresh shrimp
 fresh small mushrooms
 fresh snow peas
 fresh soft goat cheese
-fresh sorrel
 fresh spearmint
 fresh spinach
-fresh spinach in bulk
 fresh spring asparagus
 fresh squeezed lime juice
 fresh strawberries
 fresh string beans
-fresh summer savory
-fresh sweet corn
 fresh sweet peas
 fresh taleggio
 fresh tangy goat cheese
 fresh tarragon
 fresh tarragon leaves
-fresh tarragon or sage leaves
 fresh thai bird chili pepper
 fresh thai bird chilies
 fresh thyme
 fresh thyme branches
 fresh thyme leaves
-fresh thyme leaves or dried oregano
-fresh thyme leaves plus extra for garnish
 fresh thyme sprigs
 fresh tomatillos
 fresh tomato sauce
-fresh tomato sauce or marinara sauce made from canned tomatoes
 fresh tomatoes
 fresh tuna
 fresh tuna steak
 fresh turmeric
-fresh watercress for garnish
-fresh watercress or spinach
 fresh white bread crumbs
 fresh white button mushrooms
 fresh white mushrooms
-fresh white mushrooms or fresh shiitakes
 fresh whole milk buffalo mozzarella
-fresh winter savory leaves
 fresh yeast
 fresh-squeezed lemon juice
 fresh-squeezed lime juice
-fresh-squeezed orange juice
 freshly chopped cilantro
 freshly cracked black pepper
 freshly grated black pepper
@@ -4158,56 +3217,37 @@ freshly grated ginger
 freshly grated gruyere cheese
 freshly grated lemon zest
 freshly grated nutmeg
-freshly grated orange zest
 freshly grated parmesan
 freshly grated parmesan cheese
-freshly grated parmesan cheese for serving
-freshly grated parmesan for garnish
-freshly grated parmesan for serving
 freshly grated parmesan to taste
 freshly grated parmigiano reggiano
 freshly grated parmigiano-reggiano
 freshly grated parmigiano-reggiano cheese
-freshly grated pecorino romano cheese
-freshly grated pecorino romano or parmesan
-freshly grated pecorino romano or parmesan cheese
 freshly grated ricotta salata
 freshly grated romano cheese
 freshly grated zucchini
 freshly ground black pepper
-freshly ground black pepper or to taste
 freshly ground black pepper to taste
 freshly ground caraway seeds
 freshly ground cardamom seeds
-freshly ground coriander seeds
 freshly ground cumin seeds
 freshly ground nutmeg
 freshly ground pepper
 freshly ground pepper to taste
-freshly ground peppercorns
-freshly ground pink peppercorns
 freshly ground white pepper
-freshly ground white pepper or black pepper
-freshly ground white pepper or more to taste
 freshly ground white pepper to taste
 freshly picked asparagus
 freshly shelled peas
 freshly snipped chives
-freshly squeezed blood orange juice
 freshly squeezed lemon juice
-freshly squeezed lemon or orange juice or grand marnier or other orange-flavored liqueur
 freshly squeezed lime juice
-freshly squeezed orange juice
 freshly squeezed tangerine
 fresno chile
 fresno pepper
 fried onion strips
 fried shallots
-fris\xe9e
-fris\xe9e lettuce
 frisee
 frisee lettuce
-friske orchards
 fritos
 frittata to go with peas
 friulian merlot
@@ -4221,8 +3261,6 @@ frozen baby lima beans
 frozen banana
 frozen bell pepper strips
 frozen blueberry
-frozen corn
-frozen corn kernels
 frozen cranberries
 frozen diced rutabaga
 frozen edamame
@@ -4231,12 +3269,9 @@ frozen green bean
 frozen lemonade concentrate
 frozen lima bean
 frozen mixed berries
-frozen orange juice concentrate
-frozen organic wild blueberries
 frozen pea
 frozen pepper
 frozen puff pastry
-frozen raspberries in syrup
 frozen raspberry
 frozen shelled edamame
 frozen small peas
@@ -4249,12 +3284,10 @@ frozen yogurt
 fruit
 fruit compote
 fruit jam
-fruit jam or jelly
 fruit liqueur
 fruit peel
 fruit preserves
 fruit puree
-fruit-flavored brandy
 fruits
 fruitwood chips
 fruity extra virgin olive oil
@@ -4273,13 +3306,10 @@ full-bodied dry red wine such as zinfandel
 full-fat coconut milk
 fungus
 fusille
-fusille or farfalle
 fusilli
-fusilli or other pasta of your choice
 fusilli pasta
 fuyu persimmon
 fuzzy melon
-g\xe9n\xe9pi liqueur
 gai lan
 gala apples
 galanga
@@ -4298,7 +3328,6 @@ garbanzo flour
 garbanzo-and-fava bean flour
 garbanzos
 garden green
-garganelli or other tube-shaped pasta
 garganelli pasta
 garlic
 garlic broth
@@ -4311,19 +3340,16 @@ garlic confit
 garlic croutons
 garlic flakes
 garlic head
-garlic heads in their skins
 garlic hummus
 garlic mayonnaise
 garlic oil
 garlic olive oil
-garlic pork sausages
 garlic powder
 garlic press
 garlic salt
 garlic sauce
 garlic sausage
 garlic scapes
-garlic scapes or ramps
 garlic toast
 garlic-infused oil
 garlic-saffron sauce
@@ -4344,12 +3370,10 @@ genever
 genever gin
 genoa salami
 genoa salami pieces
-georgia peaches
 geranium leaf
 geranium leaves
 geranium syrup
 german
-gew\xfcrztraminer
 gewurztraminer
 ghee
 gherkin pickles
@@ -4364,7 +3388,6 @@ gigante beans
 gin
 ginger
 ginger ale
-ginger ale or 7up
 ginger beer
 ginger butter sauce
 ginger butterscotch sauce
@@ -4390,7 +3413,6 @@ glace de vea
 glace de viande
 glass noodle
 glass noodles
-glass noodles or thin dried rice noodles
 glazed chestnuts
 globe artichokes
 glucose syrup
@@ -4422,7 +3444,6 @@ goat cheese mousse
 goat curd
 goat leg
 goat meat
-goat or cow milk ricotta
 goat shoulder
 goat tenderloin
 goat-cheese curd
@@ -4441,8 +3462,6 @@ golden balsamic vinegar
 golden beets
 golden caviar
 golden delicious apple
-golden delicious or cortland apples
-golden delicious or other cooking apples
 golden potatoes
 golden raisin
 golden raspberries
@@ -4467,7 +3486,6 @@ good stock
 good white wine
 good-quality olive oil
 good-quality olives
-good-quality red or white wine vinegar
 good-quality white bread
 good-size bunches of fresh dill
 goose
@@ -4477,10 +3495,6 @@ goose-liver mousse
 gooseberries
 gooseberry
 gooseneck barnacle
-gorgonzola
-gorgonzola cheese
-gorgonzola dolce
-gorgonzola fritters
 gouda
 gouda cheese
 goya black beans
@@ -4490,7 +3504,6 @@ graham cracker crust
 graham-cracker crumbs
 graham-cracker crust
 grain
-grain cereal or rolled oats
 grain mustard
 grain rice
 grain-mustard
@@ -4503,21 +3516,15 @@ grana padano
 grana padano cheese
 grand marnier
 grand marnier liqueur
-grand marnier or other orange liqueur
 grande liqueur de sapins
 granny smith
 granny smith apple
 granny smith apples
-granny smith or other tart apple
-grano duro flour or unbleached all-purpose flour
 granola
 granular yeast
 granulated cane sugar
-granulated chicken bouillon or crushed bouillon cubes
 granulated garlic
-granulated garlic or garlic powder
 granulated onion
-granulated or coarse sugar
 granulated raw sugar
 granulated sugar
 granulated yeast
@@ -4525,10 +3532,8 @@ grape
 grape brandy
 grape juice
 grape leaves
-grape or cherry tomatoes
 grape seed
 grape seed oil
-grape seed oil or olive oil
 grape tomatoes
 grape vodka
 grape-seed oil
@@ -4547,35 +3552,23 @@ grapefruit wedge
 grapes
 grapeseed
 grapeseed oil
-grapeseed oil or other vegetable oil
-grapeseed or canola oil
-grapeseed or coconut oil
-grapeseed or other unflavored oil
-grapeseed or vegetable oil
 grappa
 grated
-grated aged pecorino cheese
 grated apple
 grated butternut squash
 grated cheddar
 grated cheddar cheese
 grated cheese
 grated coconut
-grated dry jack or cheddar
-grated fiore sardo
 grated fontina
 grated fontina cheese
 grated fresh ginger
 grated fresh ginger root
-grated fresh parmigiano-reggiano cheese or other hard cheese
 grated garlic
 grated ginger
 grated ginger root
 grated greek kefalotyri cheese
-grated gruy\xe8re cheese
-grated gruy\xe8re or crumbled queso fresco
 grated gruyere cheese
-grated gruyere or swiss cheese
 grated lemon peel
 grated lemon rind
 grated lemon zes
@@ -4583,63 +3576,37 @@ grated lemon zest
 grated lime
 grated nutmeg
 grated onion
-grated or crumbled gorgonzola cheese
-grated orange or lemon rind
-grated orange peel
-grated orange rind
-grated orange zest
 grated panela
 grated parmesan
 grated parmesan cheese
-grated parmesan cheese or argentino reggianito
-grated parmesan for serving
-grated parmesan or gruyere cheese
-grated parmesan or romano cheese
 grated parmesan to taste
 grated parmigiano
 grated parmigiano reggiano
 grated parmigiano-reggiano
-grated parmigiano-reggiano or grana padano cheese
-grated parmigiano-reggiano or pecorino cheese
-grated pecorino
-grated pecorino or parmesan
-grated pecorino romano
-grated pecorino romano cheese
 grated pineapple flesh
-grated rind of 2 large oranges
 grated romano cheese
 grated sharp cheddar cheese
 grated swiss cheese
-grated v\xe4sterbotten or parmesan cheese
 gravy
 gray sea salt
 gray sole
 gray sole fillet
 grease
-grease and flour
-great northern bean
-great northern white beans
 greek
 greek feta
 greek feta cheese
 greek honey
 greek kalamata olives
 greek olives
-greek oregano
 greek style yogurt
 greek thyme honey
 greek whole-milk yogurt
 greek yogurt
-greek yogurt or drained yogurt
-greek-style or drained yogurt
 greek-style plain low-fat yogurt
 greek-style plain yogurt
 greek-style yogurt
-greek-style yogurt or goat yogurt
 green
 green anaheim peppers
-green and red bell peppers
-green and red pepper
 green apple
 green bean
 green beans
@@ -4651,16 +3618,12 @@ green cardamom
 green cardamom pod
 green cayenne
 green cerignola olives
-green cerignola or picholine olives
 green chartreuse
 green chile
 green chili
 green chili pepper
 green chilies
 green chilis
-green chorizo
-green coriander
-green coriander mayonnaise
 green de puy lentils
 green flageolets
 green french lentils
@@ -4688,31 +3651,14 @@ green olive
 green olive paste
 green onion
 green onions
-green onions and bean sprouts
-green onions or scallions
 green oolong tea
-green or beluga lentils
-green or black olives
-green or brown lentils
-green or red serrano or thai chile pepper
-green or savoy cabbage
-green or white cabbage
-green or yellow pepper
-green or yellow string beans
 green papaya
 green part
 green pea
 green pears
 green peas
-green peas or mung lentil papadini
 green pepper
 green pepper mustard
-green peppercorn
-green peppercorn mustard
-green peppercorn or dijon mustard
-green peppercorns
-green peppercorns in brine
-green peppercorns packed in brine
 green peppers
 green picholine olives
 green pipian
@@ -4746,8 +3692,6 @@ green-tea leaves
 green-tea noodles
 green-tomato chutney
 greens
-greens and garlic frittata to go,
-greens and herbs
 gremolata
 grenadine
 grenadine syrup
@@ -4757,7 +3701,6 @@ gribenes
 grilled chicken
 grilled country bread
 grilled plantains
-grilled red pepper or 2 to 3 slices tomato
 grit
 ground allspice
 ground almond
@@ -4766,7 +3709,6 @@ ground anise
 ground asafetida
 ground beef
 ground beef chuck
-ground beef or lamb
 ground bison
 ground black pepper
 ground caraway
@@ -4784,10 +3726,7 @@ ground chuck
 ground cinnamon
 ground clove
 ground coffee
-ground coriander
-ground coriander seed
 ground cumin
-ground cumin or paprika
 ground cumin seeds
 ground dried poblano chili peppers
 ground fat back
@@ -4801,7 +3740,6 @@ ground juniper
 ground lamb
 ground lamb leg
 ground lean beef
-ground lean pork
 ground leg of lamb
 ground lightly toasted cumin seeds
 ground mace
@@ -4813,10 +3751,6 @@ ground nuts
 ground peppe
 ground pepper
 ground pepper to taste
-ground pork
-ground pork butt
-ground pork or turkey
-ground pork tenderloin
 ground red pepper
 ground round
 ground sirloin
@@ -4838,14 +3772,8 @@ ground-bean sauce
 grouper
 grouper fillet
 gruenkern
-gruy\xe8re
-gruy\xe8re cheese
-gruy\xe8re or fontina cheese
-gruy\xe9re
-gruy\xe9re cheese
 gruyere
 gruyere cheese
-gruyere or swiss cheese
 guacamole
 guajillo
 guajillo chile
@@ -4860,7 +3788,6 @@ guindilla peppers
 guinea fowl
 guinea hen
 guinness
-guinness or other stout
 guinness stout
 gulf shrimp
 gum syrup
@@ -4883,28 +3810,22 @@ hake fillet
 hakush
 halal
 half
-half and half
 half and-half
 half-and-half
 half-and-half as needed
-half-and-half or light cream
 half-breasts of chicken
 halibut
 halibut fillet
 halibut steak
 hallah bread
-hallah or other soft white bread
-hallah torn
 halloumi
 halloumi cheese
 halvah
 halvah honey sauce
-halved and thinly sliced
 halved fruit
 halzelnuts
 ham
 ham bone
-ham bone or 2 or 3 smoked ham hocks
 ham broth
 ham hock
 ham steaks
@@ -4923,7 +3844,6 @@ hanger steak
 hard apple cider
 hard boiled eggs
 hard cider
-hard cider or apple cider
 hard rolls
 hard shell clam
 hard wheat durum semolina flour
@@ -4938,10 +3858,7 @@ hare
 haricot vert
 haricots
 haricots verts
-haricots verts or green beans
-haricots verts or other very small green beans
 harissa
-harissa or other hot sauce
 harissa paste
 harissa sauce
 harvest riesling
@@ -4957,29 +3874,21 @@ hazelnut
 hazelnut flour
 hazelnut liqueur
 hazelnut oil
-hazelnut oil or walnut oil
 hazelnut spread
 hazelnuts
-hazelnuts or additional almonds
 head bibb lettuce
-head bibb or boston lettuce
 head broccoli
 head butter lettuce
 head cabbage
 head cauliflower
-head chicory
 head endive
 head escarole
 head fennel
-head fris\xe9e
 head garlic
 head green cabbage
 head green garlic
-head green or red cabbage
 head iceberg lettuce
-head napa or savoy cabbage
 head of cauliflower
-head of leaf lettuce or romaine
 head of red cabbage
 head radicchio
 head red cabbage
@@ -4988,9 +3897,7 @@ head savoy cabbage
 head treviso radicchio
 heads belgian endive
 heads cauliflower
-heads chicory
 heads escarole
-heads fris\xe9e
 heads garlic
 heads of endive
 heads radicchio
@@ -5007,9 +3914,6 @@ hearty country-style bread
 hearty red wine
 heath bar
 heavy cream
-heavy cream or half and half
-heavy cream or milk
-heavy or whipping cream
 heavy sweet cream
 heavy whipping cream
 heinz chili sauce
@@ -5022,13 +3926,11 @@ hen of the woods mushroom
 hendricks gin
 hennessy
 hennessy xo
-henry\nbain sauce
 hens
 herb
 herb blossoms
 herb bouquet
 herb butter
-herb cr\xeapes
 herb leaves
 herb liqueur
 herb mayonnaise
@@ -5037,7 +3939,6 @@ herb oil
 herb sachet
 herb sprig
 herb vinegar
-herb-flavored oil
 herbal liqueur
 herbed dumpling batter
 herbed vinaigrette
@@ -5045,9 +3946,7 @@ herbes
 herbes de provence
 herbs
 herbs de provence
-herbs for garnish
 here
-hero or ciabatta rolls
 hero rolls
 herradura hacienda del cristero blanco tequila
 herring
@@ -5056,9 +3955,6 @@ hibiscus
 hibiscus calyxes
 hibiscus flower
 hibiscus tea
-hickory
-hickory chip
-hickory nut
 high fiber
 high gluten flour
 high protein
@@ -5071,10 +3967,6 @@ high-quality vegetable oil as needed
 hijiki
 hijiki seaweed
 himalayan pink salt
-hint: (e.g., 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-hint: Updates were rejected because the remote contains work that you do
-hint: not have locally. This is usually caused by another repository pushing
 hint: to the same ref. You may want to first integrate the remote changes
 hirame fluke fillet
 hoagy
@@ -5085,13 +3977,11 @@ hoisin sauce
 hollandaise sauce
 hollow spaghetti
 holly devon cream-yogurt sauce
-home-preserved or commercial canned tomatoes
 homemade baking powder
 homemade beef grav
 homemade buttermilk
 homemade ladyfingers
 homemade mayonnaise
-homemade or low-sodium chicken stock
 homemade phyllo
 homemade spicy mustard
 hominy
@@ -5099,29 +3989,15 @@ honey
 honey graham cracker crumbs
 honey mustard
 honey nut cheerios
-honey or agave nectar
-honey or agave syrup
-honey or maple syrup
-honey or molasses
 honey syrup
-honey-blood orange compote
 honeycomb
 honeycomb tripe
 honeycrisp apple
-honeycrisp apple or other tart cooking apple
 honeydew
 honeydew chunks
 honeydew melon
 hopped fresh herbs
 hopped fresh rosemary
-horehound
-horehound candy drops
-horseradish
-horseradish cream with dried cherries
-horseradish mayonnaise
-horseradish mustard
-horseradish root
-horseradish sauce
 hot brewed coffee
 hot brewed espresso
 hot cayenne pepper
@@ -5146,7 +4022,6 @@ hot dog
 hot dog buns
 hot dog rolls
 hot fish stock
-hot fudge or caramel sauce
 hot fudge sauce
 hot green chile
 hot green chili
@@ -5157,12 +4032,9 @@ hot green poblano chili
 hot hungarian paprika
 hot italian fennel sausage
 hot italian sausage
-hot lamb or chicken stock
 hot milk
-hot moroccan mint green tea
 hot mustard oil
 hot paprika
-hot paprika or piment\xf3n
 hot pepper
 hot pepper flakes
 hot pepper jelly
@@ -5173,7 +4045,6 @@ hot red chili
 hot red chili pepper
 hot red chili powder
 hot red chilies
-hot red or green chili
 hot red pepper
 hot red pepper flake
 hot red pepper oil
@@ -5182,13 +4053,11 @@ hot red-pepper flakes
 hot red-pepper sauce
 hot sake
 hot sauce
-hot sauce or apple cider vinegar
 hot sausage
 hot sencha tea
 hot serrano chilies
 hot shrimp broth
 hot smoked paprika
-hot spanish piment\xf3n
 hot tomato sauce
 hot vegetable stock
 hot water
@@ -5207,7 +4076,6 @@ hulled strawberries
 hummus
 hunan
 hunan chili pepper oil
-hungarian or italian peppers
 hungarian paprika
 hungarian peppers
 hungarian sweet paprika
@@ -5218,11 +4086,8 @@ hyssop flower
 ice
 ice cider
 ice cream
-ice cream or sorbet
-ice cream or whipped cream
 ice cube
 ice cubes
-ice cubes and mint sprigs
 ice cubes if using fresh peaches
 ice water
 ice wine
@@ -5234,21 +4099,12 @@ icelandic
 icing
 icing sugar
 idaho baking potatoes
-idaho or other baking potatoes
-idaho or washington potatoes
 idaho potato
 idaho potatoes
 idaho russet potatoes
 igname
 ikan bilis
 ime juice
-imported black olives
-imported black olives for garnish
-imported italian crushed tomatoes
-imported italian parmesan cheese
-imported lingonberries
-imported linguine
-imported mustard
 india pale ale
 indian
 indian pappadums
@@ -5271,7 +4127,6 @@ instant espresso powder
 instant flour
 instant grits
 instant oatmeal
-instant or dry active yeast
 instant polenta
 instant tapioca
 instant vanilla pudding
@@ -5281,12 +4136,9 @@ irish
 irish mist
 irish whiskey
 irish whisky
-iroquois white cornmeal
 israeli couscous
-israeli or other large couscous
 italian
 italian 00 flour
-italian arborio rice
 italian basil
 italian black olives
 italian bread
@@ -5299,7 +4151,6 @@ italian frying pepper
 italian herb seasoning
 italian hot sausage patties
 italian ladyfingers
-italian or french bread
 italian pancetta
 italian parmesan
 italian parmesan cheese
@@ -5307,11 +4158,8 @@ italian parsley
 italian parsley leaves
 italian parsley leaves roughly chopped
 italian peasant bread
-italian pecorino
-italian pecorino romano cheese
 italian pepper
 italian plum tomatoes
-italian pork sausage
 italian prune plums
 italian purple eggplants
 italian rolls
@@ -5325,7 +4173,6 @@ italian sweet sausage patties
 italian tomato sauce
 italian tomatoes
 italian tuna
-italian tuna in olive oil
 italian turkey sausages
 italian white wine
 italian-style bread crumbs
@@ -5334,21 +4181,16 @@ jalapeno chili
 jalapeno chili pepper
 jalapeno chilies
 jalapeno liquid
-jalapeno or serrano chili
-jalapeno or serrano chilies
 jalapeno pepper
 jalapeno pepper sauce
 jalapeno peppers
 jalepeno pepper
 jam
-jam\xf3n serrano
 jamaican jerk sauce
 jamaican pumpkin
 jamaican rum
-jamaican sorrel
 james beard
 jameson irish whiskey
-jamon ib\xe9rico de bellota
 japaleno peppers
 japanese
 japanese bonito flakes
@@ -5356,7 +4198,6 @@ japanese buckwheat noodle
 japanese cucumber
 japanese eggplant
 japanese eggplants
-japanese horseradish
 japanese powdered chili mixture
 japanese rice wine vinegar
 japanese soba
@@ -5378,33 +4219,26 @@ jelly
 jelly beans
 jelly doughnuts
 jelly glaze
-jerk pork
 jerk sauce
 jerusalem artichoke
 jerusalem artichokes
 jewish
 jicama
 jim beam bourbon
-john dory fillets
 jonathan apples
 joven mezcal
 juan canary melon chunks
 juice
-juice from \xbd lime
 juice of 2 limes
 juice of 3 lemons
-juice of 3 oranges
-juice of \xbd lime
 juice of one lemon
 juice of two lemons
-juice orange
 juices from cooked fish
 jujubes
 julienned
 julienned basil leaves
 julienned carrots
 julienned fresh ginger
-julienned kaffir lime leaves for garnish
 julienned leeks
 julienned red bell pepper
 julienned vegetables
@@ -5423,16 +4257,11 @@ junipero gin
 jurancon
 just-cooked white rice
 kabocha
-kabocha or butternut squash
 kabocha squash
 kaffir lime
 kaffir lime leaf
 kaffir lime leaf syrup
 kaffir lime leaves
-kaffir lime leaves or curry leaves
-kaffir lime or other lime
-kaffir limes or other limes
-kahl\xfaa
 kahlua
 kahlua liqueur
 kaipen
@@ -5440,9 +4269,7 @@ kaiser
 kaiser roll
 kajmak
 kalamata olives
-kalamata or oil-cured olives
 kale
-kale and gooseberries
 kale greens
 kale leaves
 kaluah
@@ -5456,7 +4283,6 @@ kataifi dough
 kaymak
 kecap manis
 kefalograviera
-kefalotiri or parmesan cheese
 kefalotyri cheese
 kefir
 kelp
@@ -5464,12 +4290,8 @@ kelp seasoning
 kentjur
 kentucky bourbon
 kentucky limestone lettuce
-kernel corn
 kernels
-kernels from 2 ears of corn
-kernels from 4 ears corn
 ketchup
-ketchup and mustard
 ketel one citroen vodka
 ketjap manis
 kewpie brand japanese mayonnaise
@@ -5481,7 +4303,6 @@ khoya
 kidney
 kidney bean
 kidney beans
-kidney beans and their liquid
 kidney fat
 kidney suet
 kidneys
@@ -5500,7 +4321,6 @@ kipper fillets
 kirby cucumber
 kirmizi biber
 kirsch
-kirsch or brandy
 kirschwasse
 kirschwasser
 kitchen bouquet
@@ -5519,46 +4339,11 @@ kombu stock
 kombu strips
 konb
 konyak
-korean
-korean anchovy sauce
-korean chile flakes
-korean chile powder
-korean chili flake
-korean chili paste
-korean chili powder
-korean denjang
-korean dried sweet potato noodles
-korean gochujang red pepper paste
-korean ground red pepper
-korean pancakes
-korean red chile paste
-korean red chili paste
-korean red pepper flakes
-korean red pepper paste
-korean red pepper powder
-korean rice cakes
-korean rice wine
-korean-style beef short ribs
 kosher
 kosher chicken
-kosher for passover amaretto liqueur
-kosher for passover brandy
-kosher or sea salt
 kosher passover brandy
 kosher red wine
 kosher salt
-kosher salt and black pepper
-kosher salt and black pepper to taste
-kosher salt and fresh ground pepper
-kosher salt and freshly cracked black pepper
-kosher salt and freshly ground black pepper
-kosher salt and freshly ground black pepper to taste
-kosher salt and freshly ground pepper
-kosher salt and freshly ground pepper to taste
-kosher salt and ground black pepper
-kosher salt for the pasta
-kosher salt or coarse sea salt
-kosher salt or more to taste
 kosher salt to taste
 kosher salt,
 kosher sea salt
@@ -5590,9 +4375,6 @@ lamb loin chops
 lamb meat
 lamb meatballs
 lamb neck
-lamb neck or beef shin bones
-lamb or chicken stock
-lamb or veal stock
 lamb rack
 lamb rib
 lamb rib chop
@@ -5602,7 +4384,6 @@ lamb sausages
 lamb shank
 lamb shoulder
 lamb shoulder chop
-lamb shoulder in 2-inch chunks
 lamb shoulder roast
 lamb shoulder steak
 lamb slices
@@ -5616,22 +4397,16 @@ lamb-shoulder steaks
 lancashire cheese
 langoustine
 langoustines
-langoustines or large shrimp
 laos
 lapsang souchong tea
 lapsang souchong tea leaves
 lard
 lard crust
-lard or butter
-lard or olive oil
-lard or softened unsalted butter
-lard or unsalted butter
 lardo
 lardon
 large
 large angel cake
 large apple
-large apples; peeled and cut in chunks
 large artichokes
 large asparagus
 large baking potato
@@ -5653,8 +4428,6 @@ large clove garlic
 large cloves of garlic
 large cucumbers
 large dried shiitake mushrooms
-large ear white corn
-large ears of corn
 large egg
 large egg whites
 large egg yolk
@@ -5688,27 +4461,17 @@ large mint leaves
 large mushrooms
 large onion
 large onions
-large or 2 medium leeks
-large or 2 medium onions
-large or 2 medium ripe tomatoes
-large or extra-large eggs
-large or medium onion
-large or three small eggplants
-large or two medium heirloom or other tomatoes
-large organic eggs
 large oysters
 large parmesan rinds
 large parsnip
 large pattypan squash
 large pink grapefruit
-large potato for parasol garnish
 large potatoes
 large raw artichoke hearts
 large red bell pepper
 large red bell peppers
 large red heirloom tomatoes
 large red onion
-large red or green pepper
 large red pepper
 large red peppers
 large red radishes
@@ -5721,11 +4484,9 @@ large ripe hass avocado
 large ripe mango
 large ripe peaches
 large ripe tomato
-large rock cornish hens
 large scallions
 large scallops
 large shallot
-large shallot or small red onion
 large shallots
 large shiitake mushrooms
 large shrimp
@@ -5733,7 +4494,6 @@ large spanish onion
 large spring onion
 large sweet onions
 large sweet potatoes
-large sweet potatoes or yams
 large sweet red pepper
 large tart
 large tomato
@@ -5742,7 +4502,6 @@ large vidalia onions
 large white beans
 large white mushrooms
 large white onion
-large white or yellow onions
 large whole cauliflower
 large whole eggs
 large yellow onion
@@ -5764,8 +4523,6 @@ lcohol-free vanilla extract
 leaf
 leaf gelatin
 leaf lettuce
-leaf lettuce or boston lettuce
-leaf lettuce or radicchio
 leaf parsley
 leaf sage
 leaf spinach
@@ -5781,7 +4538,6 @@ lean flank steak
 lean goat tenderloin
 lean ground beef
 lean ground lamb
-lean ground pork
 lean ground turkey
 lean ham
 lean lamb
@@ -5789,13 +4545,9 @@ lean lamb chops
 lean lamb shoulder
 lean loin
 lean meat
-lean pork
-lean pork shoulder
-lean pork tenderloins
 lean prosciutto
 lean rabbit meat
 lean round steak
-lean salt pork
 lean sausage meat
 lean shoulder of lamb
 lean slab bacon
@@ -5815,26 +4567,21 @@ leek crema
 leek leaves
 leek rounds
 leeks
-leeks or onions
 leftover boneless
 leftover bread
 leftover fish
 leftover meat
 leftover turkey
-leftover turkey carcass and meaty bones
 leftover turkey meat
 leftover vegetables
 leg of baby lamb
 leg of lamb
-leg of lamb or lamb shoulder
 leg of spring lamb
 leg of veal
-leg pork
 leg-thigh pieces of chicken
 leicester cheese
 lekvar
 lemon
-lemon and orange
 lemon balm
 lemon balm leaves
 lemon basil
@@ -5847,28 +4594,20 @@ lemon filling
 lemon gelatin mix
 lemon geletin
 lemon grass
-lemon grass or pale green cilantro roots
 lemon grass powder
 lemon grass stalk
 lemon halves
-lemon halves or fat wedges
 lemon hart demerara rum
 lemon juice
-lemon juice and omit the vinegar
-lemon juice and soy sauce
 lemon juice as desired
 lemon juice as needed
-lemon juice or sherry or white wine vinegar
 lemon juice to taste
 lemon leaves
 lemon lime soda
 lemon marmalade
 lemon oil
-lemon or lime juice
-lemon or lime wedges
 lemon peel
 lemon quarters
-lemon r\xe9moulade
 lemon rind
 lemon roulade
 lemon salt
@@ -5876,11 +4615,9 @@ lemon segments
 lemon shells
 lemon slice
 lemon sole
-lemon sorbet
 lemon syrup
 lemon thyme
 lemon thyme leaves
-lemon thyme or regular thyme
 lemon twist
 lemon verbena
 lemon verbena leaves
@@ -5889,16 +4626,9 @@ lemon vinegar
 lemon vodka
 lemon wedge
 lemon wedges
-lemon wedges and tartar sauce
-lemon wedges and watercress sprigs
-lemon wedges for serving
-lemon wedges or melted butter
-lemon wedges or red wine vinegar
 lemon wheel
 lemon zest
 lemon-and-parsley oil
-lemon-flavored olive oil
-lemon-flavored vodka
 lemon-grass butter sauce
 lemon-grass ginger syrup
 lemon-hazelnut butter sauce
@@ -5915,46 +4645,31 @@ lemongras
 lemongrass
 lemongrass barbecue paste
 lemons
-lemons or grapefruits
 lengthwise slices peeled fresh ginger
 lentil
-lentil and tomato sauce stew
 lentil salad
 lentils
 less-sodium soy sauce
 lettuce
 lettuce leaves
-lettuce leaves for the bowl or platter
-lettuce or endive leaves
 lettuce salad with tomato dressing
-licorice
-licorice powder
-licorice root
-licorice sticks
-lids and bands
 light ale
 light beer
 light brioche buns
 light brown sugar
-light brown sugar and softly whipped cream
 light chicken stock
 light coconut milk
-light corn syrup
 light cream
-light cream or soy milk
 light margarine
 light mayonnaise
 light miso
 light molasses
 light olive oil
-light olive oil or vegetable oil
-light or dark brown sugar
 light rum
 light soy sauce
 light tahini paste
 light tuna
 light-brown sugar
-light-colored soy sauce
 lighter italian amaro
 lighter-fleshed plums
 lightly packed chopped fresh parsley
@@ -5965,7 +4680,6 @@ lightly toasted broken walnut pieces
 lightly toasted cumin
 lightly toasted cumin seeds
 lightly toasted pine nuts
-lightly toasted pine nuts or untoasted chopped walnuts
 lightly toasted pistachios
 lightly toasted sesame seeds
 lightly toasted slivered almonds
@@ -5976,16 +4690,12 @@ lillet blanc
 lily buds
 lima bean
 lima beans
-lima beans or white beans
 lime
-lime and lemon juices
 lime basil
 lime butter
 lime juice
-lime juice and medium-hot chili powder
 lime leaf
 lime leaves
-lime or lemon juice
 lime peel
 lime pickle
 lime pickle mayonnaise
@@ -5996,8 +4706,6 @@ lime slice
 lime twist
 lime wedge
 lime wedges
-lime wedges for garnish
-lime wedges for serving
 lime wheel
 lime zest
 lime-leaf seasoning paste
@@ -6030,10 +4738,8 @@ liquid goose fat
 liquid honey
 liquid pectin
 liquid smoke
-liquor
 litchi
 litchi juice
-litchi liquor
 litchi nut
 lite salt
 little neck clams
@@ -6057,7 +4763,6 @@ lobster
 lobster broth
 lobster butter
 lobster claws
-lobster coral
 lobster meat
 lobster risotto
 lobster stock
@@ -6067,16 +4772,12 @@ loco mango
 loin chops
 loin lamb chop
 loin of lamb
-loin of pork
 loin of veal
-loin pork chops
-loin rib pork chops
 loin roast
 loin steaks
 loin veal
 loin veal chops
 loins of lamb
-loins of pork
 lollipop
 lollo rosso
 london broil
@@ -6086,7 +4787,6 @@ london pride ale
 long
 long asian eggplants
 long bean
-long european or japanese cucumber
 long grain rice
 long island duckling
 long island ducks
@@ -6099,7 +4799,6 @@ long red chili
 long summer squash
 long-grain brown rice
 long-grain converted rice
-long-grain or basmati rice
 long-grain rice
 long-grain white rice
 longjing
@@ -6112,7 +4811,6 @@ loosely packed fresh basil leaves
 loosely packed fresh flat-leaf parsley leaves
 loosely packed napa cabbage
 loosely packed saffron threads
-loosely packed sorrel leaves
 loosely packed spinach
 loosely packed thread saffron
 loosely packed thyme sprigs
@@ -6124,7 +4822,6 @@ loup de mer
 loup de mer*
 lovage
 lovage leaves
-low calorie
 low carb
 low cholesterol
 low fat
@@ -6136,29 +4833,20 @@ low fat yogurt
 low sodium
 low sugar
 low-fat buttermilk
-low-fat buttermilk or plain nonfat yogurt
 low-fat chicken stock
 low-fat coconut milk
 low-fat coconut milk ice cubes
 low-fat cottage cheese
-low-fat greek-style yogurt or crumbled queso fresco
 low-fat mayonnaise
 low-fat milk
-low-fat milk or regular milk
-low-fat milk or rice beverage
-low-fat milk or water
-low-fat or fat-free milk
 low-fat plain yogurt
 low-fat ricotta
 low-fat sour cream
 low-fat yogurt
-low-fat yogurt or buttermilk
-low-fat yogurt or low-fat greek style yogurt
 low-moisture mozzarella
 low-salt beef stock
 low-sodium chicken broth
 low-sodium chicken stock
-low-sodium chicken stock or water
 low-sodium soy sauce
 lowfat milk
 lowfat yogurt
@@ -6172,10 +4860,7 @@ lump crab meat
 lump crabmeat
 luxardo amaro abano
 luxardo cherry
-luxardo marasca cherry or other high-quality macerated cocktail cherry
 lychee
-m\xe2che
-m\xe2che or other tender greens
 macadamia meringue triangles
 macadamia nut
 macaroni
@@ -6185,7 +4870,6 @@ macaroon
 mace
 macerated fruit
 mache
-mache or watercress
 macintosh apples
 mackere
 mackerel
@@ -6193,22 +4877,17 @@ mackerel fillets
 mackerel fillets with skin
 mackerel steaks
 madeira
-madeira or other sweet wine
-madeira or sweet sherry
 madeira wine
 madiran
 madras curry
 madras curry powder
-madras curry powder or your favorite spice mix
 maggi sauce
 maggi seasoning
-maggi seasoning or soy sauce
 magret
 magret duck breast
 mahi mahi
 mahi-mahi
 mahi-mahi fillet
-mahlepi flavoring
 maine lobster
 maitake mushrooms
 mako shark
@@ -6216,11 +4895,8 @@ mako shark steaks
 malaga wine
 malaysian
 maldon
-maldon or other sea salt
 maldon salt
-maldon salt or other flaky sea salt
 maldon sea salt
-maldon sea salt and freshly ground black pepper
 mallard ducks
 malt
 malt powder
@@ -6232,23 +4908,18 @@ malted milk powder
 malted-milk powder
 maltum
 manchego cheese
-mandarin orange
 mandarin vinaigrette
 mandarin vodka
 mandarins
 mandrin vodka
 mango
-mango and black-bean salsa
 mango chutney
 mango juice
 mango liqueur
 mango powder
-mango powder or finely grated orange zest
 mango pulp
-mango pur\xe9e
 mango rum
 mango salsa
-mango sorbet
 mango tea
 mango yogurt
 mango-tamarind chutney
@@ -6257,12 +4928,10 @@ mangos
 manicotti pasta
 manicotti shell
 manila clams
-manila or mahogany clams or cockles
 manioc flour
 manischewitz wine
 manouri
 manouri cheese
-manouri or feta cheese
 manzanilla sherry
 maple
 maple extract
@@ -6270,8 +4939,6 @@ maple ice cream
 maple icing
 maple sugar
 maple syrup
-maple syrup or brown sugar
-maple syrup or packed brown sugar
 maple white bread
 maras pepper
 maraschino cherries
@@ -6285,21 +4952,16 @@ margarine
 marinade
 marinade recipe
 marinara sauce
-marinara sauce for serving
 marinated anchovies
 marinated anchovy fillet
 marinated blueberries
 marinated tof
-marjoram
-marjoram leaves
-marjoram or oregano
 marmalade
 marnier
 maroilles cheese
 marolo milla grappa & camomile liqueur
 marron glace
 marrons
-marrons glac\xe9s
 marrons glaces
 marrow
 marrow balls
@@ -6334,8 +4996,6 @@ matjes herring
 matzo
 matzo cake meal
 matzo meal
-matzo meal or bread crumbs
-matzo meal or fine dry unseasoned bread crumbs
 matzoh cake meal
 matzoh meal
 matzohs
@@ -6346,8 +5006,6 @@ maya shrimp
 mayonnaise
 mayonnaise with fresh herbs
 maytag blue cheese
-maytag or other young
-mccormick season-all
 mcintosh apples
 mckenzie rye whiskey
 mealy potatoes
@@ -6360,24 +5018,18 @@ meat sauce
 meat scraps
 meat tenderizer
 meatballs
-meaty beef short ribs
 meaty bones from cod
 meaty chicken bones
 meaty chicken wings
-meaty pork or veal bones
 meaty skeleton
 meaty soup bones
 meboshi
 medallions
 mediterranean
-mediterranean hartwort
-mediterranean oregano
 mediterranean pie crust
 mediterranean pine nuts
 medium
-medium acorn squash
 medium apple
-medium apples or pears
 medium avocado
 medium baking potato
 medium baking potatoes
@@ -6410,16 +5062,12 @@ medium new potato
 medium onion
 medium onions
 medium opion
-medium or coarse bulgur
-medium or large onion
-medium or large ripe tomatoes
 medium peaches
 medium pears
 medium potato
 medium potatoes
 medium red
 medium red bell pepper
-medium red bliss or other waxy potatoes
 medium red onion
 medium ripe avocados
 medium ripe tomato
@@ -6443,11 +5091,9 @@ medium tomatoes
 medium turnip
 medium waxy potatoes
 medium white onion
-medium white or yellow onion
 medium yellow onion
 medium yellow onions
 medium yellow squash
-medium yellow zucchini or summer squash
 medium yukon
 medium zucchini
 medium zucchinis
@@ -6461,7 +5107,6 @@ medium-grain sea salt
 medium-green cabbage
 medium-hot chili powder
 medium-large onion
-medium-large shrimp in their shells
 medium-red cabbage
 medium-size
 medium-size beets
@@ -6475,7 +5120,6 @@ medium-size green pepper
 medium-size leeks
 medium-size onion
 medium-size onions
-medium-size or large ripe-but-firm peaches
 medium-size red cabbage
 medium-size red onion
 medium-size red potatoes
@@ -6486,8 +5130,6 @@ medium-size russet potato
 medium-size sea scallops
 medium-size shrimp
 medium-size tart unpeeled apple
-medium-size yukon gold or red bliss potatoes
-medium-size yukon gold or russet potato
 medium-sized avocado
 medium-sized blue crabs
 medium-sized carrots
@@ -6495,7 +5137,6 @@ medium-sized onion
 medium-sized raw shrimp
 medium-sized yellow onion
 medium-starch potatoes
-medium-thick pork chops
 medium-to-large head cauliflower
 medium-toasted oak shavings
 medjool date
@@ -6508,11 +5149,8 @@ melon liqueur
 melted bacon grease
 melted bittersweet chocolate
 melted butter
-melted butter for greasing the pans
 melted leeks with white-wine braise
-melted shortening
 melted unsalted butter
-melted vegetable shortening
 merguez
 merguez sausage
 meringue
@@ -6522,7 +5160,6 @@ meringue mushrooms
 merlot
 mesclun
 mesclun greens
-mesclun or other baby greens
 mesclun salad greens
 mesquite
 mesquite chip
@@ -6531,26 +5168,20 @@ mexican beer
 mexican canela
 mexican chocolate
 mexican crema
-mexican crema or cr\xe8me fra\xeeche for serving
 mexican hot sauce
 mexican lager
-mexican oregano
-mexican oregano or fresh thyme
 mexican queso fresco
 mexican squirt soda
 mexican table sauce
 meyer lemon
 meyer lemon juice
-meyer lemon or lemon juice
 meyer lemon wedges
 meyer lemon zest
 mezcal
 mezza-lasagne
 michigan pea
 microgreens
-microgreens or flowers
 middle eastern
-midori melon liqueur
 mignon
 milano salami
 mild chile powder
@@ -6558,23 +5189,15 @@ mild chiles
 mild chili powder
 mild chilies
 mild feta cheese
-mild flavored honey
 mild ground chili
 mild ground chili powder
 mild honey
-mild honey or agave nectar
-mild honey or dark agave nectar
 mild honey,
 mild hot sauce
-mild or hot piment\xf3n
-mild or medium-hot chili powder
-mild or sweet miso
 mild paprika
 mild red pepper flakes
 mild tennessee chow chow
 milk
-milk and seasoned flour
-milk and/or chopped toasted walnuts or almonds
 milk chocolate
 milk chocolate chip
 milk chocolate ganache
@@ -6582,28 +5205,20 @@ milk feta
 milk foam
 milk mozzarella
 milk mozzarella cheese
-milk or almond beverage
-milk or cr\xe8me fra\xeeche
-milk or light cream
-milk or soy milk
-milk or water
 milk powder
 milk yogurt
 milk-chocolate
 millet
-millet and chia seeds
 millet flour
 millet meal
 minced butternut squash
 minced candied ginger
 minced carrot
 minced celery
-minced chipotle peppers in adobo
 minced chives
 minced chopped herbs
 minced cilantro
 minced cilantro leaves
-minced cilantro or flat-leaf parsley
 minced crystallized ginger
 minced dill
 minced dried shrimp
@@ -6613,8 +5228,6 @@ minced fresh basil
 minced fresh chervil
 minced fresh chili
 minced fresh chives
-minced fresh coriander
-minced fresh coriander leaves
 minced fresh dill
 minced fresh garlic
 minced fresh ginger
@@ -6631,7 +5244,6 @@ minced hot fresh chile
 minced italian parsley
 minced lemon grass
 minced onion
-minced or grated lemon or orange zest
 minced parsley
 minced parsley leaves
 minced pickled ginger
@@ -6641,7 +5253,6 @@ minced red bell pepper
 minced red onion
 minced scallion
 minced shallot
-minced shallot or red onion
 minced sun-dried tomatoes
 minced tarragon
 minced tarragon leaves
@@ -6651,7 +5262,6 @@ mini candy bar
 mini phyllo shells
 mini seedless cucumbers
 mini-marshmallows
-mini-shell or other small pasta
 minimarshmallows
 minneola tangelos
 mint
@@ -6663,10 +5273,6 @@ mint leaf
 mint leave
 mint leaves
 mint marinade
-mint or basil
-mint or basil leaves
-mint or parsley
-mint or tarragon
 mint simple syrup
 mint sprig
 mint tea
@@ -6675,17 +5281,12 @@ minus 2 tablespoons
 miracle whip
 mirepoix
 mirin
-mirin or honey
-mirin or sweet sherry
 mirliton
 miso
 miso paste
 mission figs
 mixed baby green
 mixed berries
-mixed berries or berries and cherries
-mixed black and white sesame seeds
-mixed blueberries and blackberries
 mixed candied citrus peel
 mixed candied fruit
 mixed carrots
@@ -6698,8 +5299,6 @@ mixed fresh herbs
 mixed fruit
 mixed good olives
 mixed green
-mixed green and red bell peppers
-mixed green and yellow beans
 mixed green salad
 mixed ground spices
 mixed herbs
@@ -6708,8 +5307,6 @@ mixed mushrooms
 mixed nuts
 mixed olives
 mixed pickling spices
-mixed plums and apricots
-mixed regular and wild mushroom
 mixed root vegetables
 mixed salad
 mixed salad greens
@@ -6719,22 +5316,15 @@ mixed soft herbs
 mixed sweet peppers
 mixed tomatoes
 mixed vegetable
-mixed watercress and arugula
 mixed wild mushrooms
-mixed yellow and green zucchini or other long summer squash
-mixed zucchini and yellow squash
 mixing bowl
 mixture
 mixture of red
-mixture of turnip and mustard greens
 mizithra cheese
 mizuna
-mizuna or arugula
-mizuna or other salad green
 mocha frosting
 mocha mousse
 mochi rice
-mock bordelaise sauce
 modelo especial beer
 moist
 mojama
@@ -6753,22 +5343,6 @@ montpelier cracker
 montrachet goat cheese
 moong bean
 moong dal
-morcilla sausage
-morel
-morel caps
-morel gravy
-morel mushrooms
-morel or porcini mushrooms
-morel or shiitake mushrooms
-morels
-morels or porcinis
-moroccan
-moroccan almond-argan butter
-moroccan black olives
-moroccan jewish tanzeya
-moroccan olives
-moroccan preserved lemon
-mortadella
 moscato
 moscato wine
 mother starter
@@ -6778,13 +5352,11 @@ mousse de foie gras
 moutarde de meaux
 mozzarella
 mozzarella cheese
-mozzarella or crumbled goat cheese
 msg
 muenster cheese
 muesli
 muffins
 mulato chilie
-mulberries or blackberries
 mulberry
 mulberry syrup
 mulling spices
@@ -6793,7 +5365,6 @@ multigrain country bread
 mung bean
 mung bean sprout
 mung bean sprouts
-mung bean sprouts or sunflower sprouts
 mung bean thread
 mung dal
 mung-bean sprouts
@@ -6820,16 +5391,13 @@ mushroom juice
 mushroom ketchup
 mushroom powder
 mushroom puree
-mushroom rago\xfbt
 mushroom ragout
 mushroom sauce
 mushroom soup
 mushroom soy sauce
-mushroom soy sauce or regular soy sauce
 mushroom stems
 mushroom stock
 mushroom tincture
-mushroom tortellini
 mushrooms
 mushroooms
 muskmelon
@@ -6838,7 +5406,6 @@ mussel shells
 mussel stock
 mussels
 mussels marinara
-mussels or clams
 mustard
 mustard green
 mustard greens
@@ -6851,15 +5418,12 @@ myoga bulb
 n2o
 naged whiskey
 nam pla
-nam pla or soy sauce
 nantucket bay scallops
 napa cabbage
 napa cabbage leaves
-napa or other cabbage leaves
 nardini acqua di cedro liqueur
 narrow noodles
 nasturtium blossom
-nasturtium blossom and leaf
 nasturtium flowers
 nasturtium petals
 natural
@@ -6867,11 +5431,9 @@ natural cacao powder
 natural chunky peanut butter
 natural cocoa powder
 natural honey
-natural orange juice
 natural starter
 natural unsalted peanut butter
 natural unsweetened cocoa powder
-navel orange
 navy bean
 navy-strength gin
 nbaked rolls
@@ -6879,7 +5441,6 @@ nblanched whole almonds
 nbleached all purpose flour
 nbleached all-purpose
 nbleached all-purpose flour
-nbleached all-purpose or bread flour
 nbleached all-purposed flour
 nbleached bread flour
 nbleached flour
@@ -6895,7 +5456,6 @@ nectar
 nectarine
 nectarine sauce
 nectarines
-nectarines or peaches
 negra modelo
 negra modelo beer
 neige ice cider from la
@@ -6903,48 +5463,32 @@ neisson blanc rhum agricole
 nemiroff honey pepper vodka
 nesselrode mix
 nettle leaves
-neufch\xe2tel cream cheese
 neutral cooking oil
 neutral oil
-neutral oil for frying
-neutral or olive oil
 neutral vegetable oil
 new england
-new fingerling or small yellow potatoes
 new garlic
 new mexican chile powder
 new mexico chile
 new mexico chile powder
 new mexico chili peppers
-new mexico or poblano green chili
 new potato
 new potatoes
 new red potato
 new red waxy potatoes
 new red-skinned potatoes
-new york state cheese
-new york state goat cheese
-new york strip loin roast
-new york strip sirloin
-new york strip steak
 new zealand
 new zealand green mussels
 newburg sauce
-nflavored gelatin
-nflavored nonstick spray
-ni\xe7oise
-ni\xe7oise olives
 nickel-size slices of fresh ginger
 nicoise
 nicoise black olives
 nicoise olives
-niform size
 nigella sativa seeds
 nigella seeds
 nilla wafers
 nitrite-free ham
 nitrous oxide
-nixtamalized corn flour
 nner romaine lettuce leaves
 no boil lasagna noodle
 no-boil lasagna
@@ -6961,21 +5505,16 @@ noilly prat dry vermouth
 noilly prat vermouth
 noisettes of lamb
 non fat yogurt
-non-chlorinated water
 non-dairy milk
 non-hydrogenated margarine
-nonalcoholic apple cider or juice
 nonfat buttermilk
 nonfat dry milk powder
 nonfat milk
 nonfat milk powder
-nonfat or low-fat buttermilk
-nonfat or low-fat cottage cheese
 nonfat plain yogurt
 nonfat powdered milk
 nonfat yogurt
 nonhydrogenated margarine
-nonhydrogenated shortening
 nonoily fish
 nonpareil capers
 nonstick baking spray
@@ -6985,25 +5524,16 @@ nonstick cooking spray
 nonstick oil spray
 nonstick pan spray
 nonstick spray
-nonstick spray for pan
-nonstick spray or vegetable oil
 nonstick vegetable oil spray
 noodle
 noodle dough
 nopale
-nori
-nori crinkles
-nori seaweed
-nori sheets
-northern beans
 not-too-dry white wine
 not-too-robust red wine
 nougat
 nova scotia salmon
 npasteurized apple cider
 npeeled
-npeeled and cut in large chunks
-npopped white popcorn
 nprocessed bran
 nrefined brown sugar
 nrefined expeller-pressed
@@ -7017,13 +5547,7 @@ nsalted
 nsalted almonds
 nsalted butte
 nsalted butter
-nsalted butter and flour
 nsalted butter at room temperature
-nsalted butter or black truffle butter
-nsalted butter or canola oil
-nsalted butter or extra virgin olive oil
-nsalted butter or olive oil
-nsalted butter or pareve margarine
 nsalted butter,
 nsalted cashews
 nsalted chicken broth
@@ -7033,7 +5557,6 @@ nsalted fatback
 nsalted high-fat butter
 nsalted margarine
 nsalted matzos
-nsalted melted butter or canola oil
 nsalted natural peanut butter
 nsalted peanut
 nsalted peanuts
@@ -7041,23 +5564,17 @@ nsalted pistachio nuts
 nsalted pistachios
 nsalted saltine cracker
 nsalted sweet butter
-nsalted tortilla
-nsalted tortilla chips
-nsalted turkey or chicken broth
 nsalted walnut halves
 nsalted walnuts
 nsalted wild mushroom stock
 nseasoned bread crumbs
-nseasoned canned pumpkin pur\xe9e
 nseasoned dry bread crumbs
-nseasoned pumpkin pur\xe9e
 nseasoned rice vinegar
 nsifted unbleached flour
 nsulfured molasses
 nsweeetened coconut chip
 nsweetened almond milk
 nsweetened apple juice
-nsweetened apple juice or cider
 nsweetened applesauce
 nsweetened chestnut puree
 nsweetened chocolate
@@ -7067,15 +5584,12 @@ nsweetened coconut
 nsweetened coconut chips
 nsweetened coconut flake
 nsweetened coconut milk
-nsweetened corn flake
-nsweetened cornflakes
 nsweetened cranberry juice
 nsweetened dutch cocoa
 nsweetened dutch processed cocoa powder
 nsweetened low-fat coconut milk
 nsweetened peanut butter
 nsweetened pineapple juice
-nsweetened pumpkin pur\xe9e
 nsweetened shredded coconut
 nsweetened soy milk
 nsweetened whipped cream
@@ -7083,20 +5597,15 @@ ntoasted almonds
 ntoasted sesame oil
 nuoc cham
 nuoc mam
-nuoc mam or nam pla fish sauce
 nut
 nut crust
 nut free
 nutella
 nutmeg
-nutmeg for garnishing
-nutmeg or dried marjoram
 nutmeg pieces
 nutmeg to taste
-nutritional information
 nutritional yeast
 nuts
-nuts or seeds
 nyons olives
 oak mushrooms
 oak-leaf lettuce
@@ -7104,34 +5613,24 @@ oarsely ground black pepper
 oat
 oat bran
 oat flour
-oat flour or very finely ground rolled oats
 oat groat
 oatmeal
 oatmeal cookie crumbs
 oatmeal cookie mix
-oatmeal or rolled oats
 oats
-oaxaca or domestic muenster cheese
 oaxacan yellow mole
 ocean salad
 ocean spray cran-tangerine juice drink
 octopus
 octopuses
 of bacon
-of corn
 of oil
 of olive oil
 of sage
 of semisweet chocolate chips
 of warm water
 oil
-oil and flour
-oil and vinegar
 oil cured black olives
-oil for basket or v-rack
-oil for deep frying
-oil for deep-frying
-oil for greasing custard cups
 oil spray
 oil to grease muffin tin
 oil-cured black olives
@@ -7145,7 +5644,6 @@ old bay seafood seasoning
 old bay seasoning
 old bay spice mix
 old fashioned rolled oat
-old forester bourbon
 old overholt rye
 old overholt rye whiskey
 old tom gin
@@ -7162,39 +5660,24 @@ olive juice
 olive oi
 olive oil
 olive oil as needed
-olive oil or butter
-olive oil or butter for the pan or griddle
-olive oil or melted butter
-olive oil or vegetable oil
 olive oil packed light tuna
 olive oil pie crust
 olive oil spray
 olive oil-packed light tuna
 olive oil-packed tuna
-olive or other oil
-olive or vegetable oil
 olive paste
-olive paste or tapenade
 olive-oil
 olive-oil spray
-olive-oil-flavored nonstick spray
 olive-oil-poached tomatoes
 olives
 olives paste
-oloroso sherry
 on top of chowchow
 one-day-old baguette
 ong choy
 onion
-onion and chestnuts
-onion and zucchini frittata to go,
-onion and/or leek
 onion confit
 onion jam
 onion juice
-onion or leek
-onion or scallion
-onion or spring onion
 onion powder
 onion rings
 onion sprouts
@@ -7203,109 +5686,6 @@ oolong tea leaves
 opal basil
 opal basil leaves
 optional toppings: milk
-or more anchovy fillets
-or more crushed red pepper flake
-or more freshly ground black pepper
-or more garlic
-or more whole garlic cloves
-orange
-orange and lemon zest
-orange bell pepper
-orange bitters
-orange blossom honey
-orange blossom water
-orange candy
-orange chuckles
-orange cinnamon
-orange concentrate
-orange confit
-orange cura\xe7ao
-orange cura\xe7ao or cointrea
-orange curacao
-orange curd
-orange extract
-orange flower oil
-orange flower water
-orange flower water or water
-orange glaze
-orange jellies
-orange juice
-orange juice concentrate
-orange lentils
-orange liqueur
-orange liquor
-orange marmalade
-orange muscat wine
-orange oil
-orange or lemon juice
-orange or lemon zest
-orange or tangerine juice
-orange or yellow bell pepper
-orange pastry shell
-orange peel
-orange peel for garnish
-orange pepper
-orange rind
-orange roughy
-orange sauce
-orange sections
-orange segments
-orange slice
-orange soda
-orange sweet bell pepper
-orange sweet potatoes
-orange tomato
-orange twist
-orange wedge
-orange wheel
-orange zest
-orange-blossom water
-orange-flavored brandy
-orange-flavored liqueur
-orange-fleshed sweet potatoes
-orange-flower water
-orange-grapefruit juice
-orange-infused olive oil
-orange-juice
-oranges
-orchid
-orecchiette
-orecchiette pasta
-oregano
-oregano leaves
-oregano oil
-oregano or fresh basil
-oreo cookies
-organic applesauce
-organic buttermilk
-organic canola oil
-organic dark brown sugar
-organic egg yolks
-organic eggs
-organic goat cheese
-organic granulated sugar
-organic grits
-organic heavy cream
-organic lemon
-organic mesclun
-organic pumpkin
-organic red winter wheatberries
-organic sugar
-organic tangerines or oranges
-organic tof
-organic vegetable broth
-organic white sugar
-orgeat
-orgeat syrup
-oriental chili paste
-oriental sesame oil
-oriental sesame paste
-oronoco rum or other dark rum
-orzata
-orzo
-orzo macaroni
-orzo pasta
-orzo with fresh tomato
 osetra
 osetra caviar
 osetra malossol caviar
@@ -7314,31 +5694,21 @@ ouzo liqueur
 oven-baked polenta
 oven-dried grapes
 oven-dried tomatoes
-overcooked meat or fish
 overseasoned cooked vegetables
 oxtail
 oyster
 oyster crackers
-oyster liquor
 oyster mushroom
 oyster mushrooms
-oyster or chanterelle mushrooms
-oyster or other mushrooms
 oyster sauce
 oyster shells
-oyster-flavored sauce
 oysters
-oysters and their liquor
 oysters juice
 paccheri
 pacific cod
 pacific cod fillets
-pacific cod or pacific sea bass fillets
-pacific halibut fillets or steaks
-pacific halibut or arctic char fillets
 pacific sole
 package dried mixed fruit bits
-package dufour or other all-butter puff pastry
 package frozen peas
 package frozen vegetable crumbles
 package mandoo
@@ -7360,43 +5730,30 @@ pain de mie
 pakistani
 pale ale
 pale curly endive
-pale interior celery stalks and leaves
 palm
 palm oil
 palm sugar
-palm sugar or brown sugar
-palo cortado sherry
 pam cooking spray
-pan corn bread
 pan drippings
 pan spray
 panang curry paste
 pancake
 pancake mix
 pancetta
-pancetta or unsmoked bacon
 pandan leaves
-panela or aged mozzarella cheese
 panko
 panko bread crumbs
 panko breadcrumbs
 panko crumbs
-panko or coarse bread crumbs
-panko or other dry bread crumbs
-panko or other unseasoned bread crumbs
-panko or plain dried bread crumbs
 papaya
-papaya pur\xe9e
 papaya puree
 pappardelle
-pappardelle or other pasta
 papri
 paprika
 paprika dolce
 par-cooked meat from 3 lobsters at room temperature
 paradise
 parchment paper
-parchment paper and cornmeal
 parlsey
 parma ham
 parma prosciutto ham
@@ -7409,16 +5766,6 @@ parmesan cheese
 parmesan cheese hard rolls
 parmesan cheese rind
 parmesan cheese,
-parmesan or aged pecorino
-parmesan or asiago cheese
-parmesan or crumbled blue cheese
-parmesan or gruy\xe8re
-parmesan or kefalotyri cheese
-parmesan or pecorino
-parmesan or pecorino or crumbled feta
-parmesan or pecorino romano
-parmesan or ricotta salata
-parmesan or shaved parmesan
 parmesan reggiano
 parmesan rind
 parmesan shavings
@@ -7430,24 +5777,12 @@ parmigiano- reggiano
 parmigiano- reggiano cheese
 parmigiano-reggiano
 parmigiano-reggiano cheese
-parmigiano-reggiano or landaff cheese
 parmigiano-reggiano rind
 parmigiano-reggiano shavings
 parmigiano-reggigano
 parsley
-parsley and mint
-parsley and mint leaves
-parsley and thyme
 parsley flakes
-parsley for garnish
 parsley leaves
-parsley leaves and stems
-parsley or basil
-parsley or cilantro
-parsley or dill
-parsley or mint leaves
-parsley or other green herb
-parsley or slivered basil
 parsley pesto
 parsley root
 parsley sauce
@@ -7455,7 +5790,6 @@ parsley sprigs
 parsley stems
 parsley thyme
 parsnip
-parsnip pur\xe9e
 parsnips
 part ether
 part skim ricotta
@@ -7473,14 +5807,11 @@ passion fruit jelly
 passion fruit juice
 passion fruit liqueur
 passion fruit nectar
-passion fruit pur\xe9e
-passion fruit pur\xe9e or juice
 passion fruit puree
 passion fruit sauce
 passion fruit syrup
 passion-fruit
 passion-fruit juice
-passion-fruit pur\xe9e
 passion-fruit puree
 passoa
 passoa liqueur
@@ -7492,7 +5823,6 @@ pasta cooking water
 pasta dough
 pasta flour
 pasta noddles
-pasta or egg noodles
 pasta sheets
 pasta shells
 pasta water
@@ -7509,7 +5839,6 @@ pastry cup
 pastry dough
 pastry flour
 pastry molds
-pastry or all-purpose flour
 pastry pie shells
 pastry shell
 pate brisee
@@ -7517,7 +5846,6 @@ pate de foie gras
 patty pan squash
 patty-pan squash
 pattypan squash
-pattypan squash or other summer squash
 pawpaw pulp
 pea
 pea bean
@@ -7529,7 +5857,6 @@ pea shoots
 pea tendril
 peach
 peach brandy
-peach flavor schnapps
 peach honey
 peach jam
 peach liqueur
@@ -7537,32 +5864,14 @@ peach nectar
 peach preserves
 peach schnapp
 peach slices
-peach sorbet
 peach syrup
 peach vodka
 peaches
-peaches and apricots
-peaches and nectarines
-peaches or nectarines
 peanut
 peanut butter
 peanut dipping sauce
 peanut halves
 peanut oil
-peanut oil for deep frying
-peanut oil for deep-frying
-peanut oil or butter
-peanut oil or canola oil
-peanut oil or neutral oil
-peanut or canola oil
-peanut or coconut oil
-peanut or corn oil
-peanut or neutral oil
-peanut or olive oil
-peanut or other oil
-peanut or other vegetable oil
-peanut or safflower oil
-peanut or vegetable oil
 peanut sauce
 peanut-butter syrup
 peanut-ginger sauce
@@ -7574,7 +5883,6 @@ pear eau-de-vie
 pear halves
 pear liqueur
 pear nectar
-pear vinegar or balsamic vinegar
 pearl barley
 pearl couscous
 pearl onion
@@ -7584,7 +5892,6 @@ pearled barley
 pears
 pears,
 peas
-peas or cooked fresh peas
 peasant bread
 peasant loaf
 pecan
@@ -7594,16 +5901,6 @@ pecan meats
 pecan pieces
 pecan shells
 pecans
-pecans or walnuts
-peconic or nantucket bay scallops
-pecorino
-pecorino cheese
-pecorino pepato
-pecorino romano
-pecorino romano cheese
-pecorino romano or cacio de roma
-pecorino sardo
-pecorino toscano
 pectin
 peeled
 peeled butternut squash
@@ -7613,7 +5910,6 @@ peeled chopped tomatoes
 peeled garlic
 peeled ginger
 peeled grated ginger
-peeled honeycrisp or gala apple
 peeled italian tomatoes
 peeled pear
 peeled pineapple
@@ -7634,19 +5930,15 @@ peperoncino
 pepita
 peppadew peppers
 pepper
-pepper and salt
 pepper flakes
 pepper jelly
 pepper mill
-pepper or aleppo pepper
 pepper salsa
 pepper sauce
 pepper strips
 pepper to taste
 pepper vinegar
 pepper vodka
-peppercorn
-peppercorns
 peppergrass leaves
 pepperidge
 peppermint
@@ -7665,8 +5957,6 @@ perciatelli
 perfume
 periwinkles
 pernod
-pernod or other pastis
-pernod or pastis
 persian
 persian allspice
 persian cucumber
@@ -7677,11 +5967,9 @@ persimmon
 persimmon puree
 perucchi white vermouth
 pesto
-pesto or pisto
 pesto sauce
 petite peas
 petrale sole fillets
-ph\xf4 broth
 pheasant
 pheasant breast
 pheasant livers
@@ -7736,9 +6024,6 @@ pie shell
 pie weights
 piece cinnamon stick
 piece of ginger
-piece of orange rind
-pierre ferrand dry cura\xe7ao
-pierre ferrand orange cura\xe7ao
 pig feet
 pigeon
 pigeon breasts
@@ -7749,11 +6034,6 @@ pike
 pikliz
 piloncillo cones
 piloncillo sugar
-piloncillo sugar or brown sugar
-piment\xf3n
-piment\xf3n de la vera
-piment\xf3n dulce
-piment\xf3n or other chili powder
 pimente oil
 pimento
 pimento-stuffed green olives
@@ -7779,9 +6059,6 @@ pinches saffron
 pine liqueur
 pine nut
 pine nuts
-pine nuts or broken walnut pieces
-pine nuts or chopped walnuts
-pine nuts or slivered almonds
 pineapple
 pineapple chunks
 pineapple gum syrup
@@ -7794,8 +6071,6 @@ pink bean
 pink beans
 pink grapefruit
 pink grapefruit juice
-pink peppercorn
-pink peppercorns
 pink salt
 pink sea salt
 pink-grapefruit juice
@@ -7805,7 +6080,6 @@ pinot noir
 pinot noir sauce
 pinto
 pinto bean
-pintos or borlotti beans
 piquillo
 piquillo pepper
 piquillo pimento
@@ -7815,13 +6089,11 @@ pistachio
 pistachio nuts
 pistachio oil
 pistachios
-pistachios for garnish
 pistils saffron
 pisto
 pita
 pita bread
 pita pockets
-pita wedges and spicy ketchup
 pitted apricots
 pitted black mediterranean-style olives
 pitted black olives
@@ -7831,7 +6103,6 @@ pitted cherries
 pitted dates
 pitted green
 pitted green olives
-pitted imported black olives
 pitted kalamata olives
 pitted mixed black olives
 pitted olives
@@ -7848,17 +6119,12 @@ plain dry breadcrumbs
 plain full-fat yogurt
 plain gelatin
 plain goat cheese
-plain greek or thick yogurt
 plain greek yogurt
-plain greek yogurt or drained yogurt
 plain greek-style yogurt
 plain kefir
-plain kefir or yogurt
 plain low fat yogurt
-plain low-fat or nonfat yogurt
 plain low-fat yogurt
 plain low-fat yogurt as needed
-plain low-fat yogurt or buttermilk
 plain lowfat yogurt
 plain matzoh
 plain nonfat yogurt
@@ -7874,7 +6140,6 @@ plain whole yogurt
 plain whole-fat yogurt
 plain whole-milk yogurt
 plain yogurt
-plain yogurt or sour cream
 plantain
 plastic flowerpots
 plastic foam block
@@ -7883,11 +6148,9 @@ pljeskavica
 plugra
 plum
 plum brandy
-plum brandy or red wine
 plum eau-de-vie
 plum jam
 plum nectar
-plum or peach
 plum sake
 plum sauce
 plum tomato
@@ -7901,7 +6164,6 @@ plump garlic cloves
 plump raisins
 plums
 pluot
-pluots or plums
 plus 2 tablespoons buttermilk
 plus 2 tablespoons sugar
 plus 2 tablespoons vegetable oil
@@ -7912,14 +6174,12 @@ plymouth gin
 poached chicken breast
 poached eggs
 poached lobsters
-poached or sunny-side-up eggs
 poached rhubarb
 poaching liquid
 poblano chile
 poblano chili
 poblano chilies
 poblano chilis
-poblano or anaheim chiles
 poblano pepper
 poblano peppers
 pod star anise
@@ -7929,7 +6189,6 @@ poire william
 poire william liqueur
 polenta
 polenta meal
-polenta or cornmeal
 polish sausage
 polish-style dill pickle
 pollock
@@ -7954,86 +6213,9 @@ pompano fillets
 ponz
 ponzu sauce
 poolish
-popcorn
-popcorn kernels
-popped corn
-popping corn
-popping-corn kernels
 poppy seed
 poppy seed rolls
 poppy seeds
-poppy seeds or sesame seeds
-porcini
-porcini bread stuffing
-porcini mushroom
-porcini oil
-porcini or cremini mushrooms
-porcini pieces
-porcini powder
-porgy
-pork
-pork back fat
-pork belly
-pork belly with skin
-pork bones
-pork braciola cutlets
-pork breakfast sausage
-pork brisket
-pork butt
-pork butt or shoulder
-pork cheek
-pork chop
-pork chops
-pork cutlets
-pork fat
-pork fatback
-pork fillet
-pork jowl
-pork lard
-pork leg
-pork liver
-pork loin
-pork loin chop
-pork loin cutlets
-pork loin rib chops
-pork loin roast
-pork medallions or center-cut pork chops
-pork neck bone
-pork or veal
-pork rib
-pork rib end loin roast
-pork rib tips or country ribs
-pork rind
-pork roast
-pork sausage
-pork sausage casing
-pork sausage meat
-pork shoulder
-pork shoulder or loin
-pork shoulder roast
-pork spare ribs
-pork sparerib
-pork stock
-pork tenderloin
-pork tenderloins
-pork tongue
-pork won ton
-porkette
-port
-port wine
-portabella stuffing mushrooms
-porter
-porterhouse
-porterhouse steak
-portobello
-portobello caviar
-portobello mushroom
-portobello mushroom caps
-portuguese
-portuguese chouri\xe7o or spanish chorizo
-portuguese chourico
-portuguese cornmeal bread
-portuguese pumpkin preserves
 potato
 potato bread
 potato buns
@@ -8044,11 +6226,8 @@ potato gnocchi
 potato per person
 potato rolls
 potato starch
-potato starch dissolved in 2 tablespoons cold water
 potato-leek filling with canadian bacon
 potatoes
-potatoes or other waxy potatoes
-potatoes or yukon golds
 potatotes
 potholders
 poultry
@@ -8070,9 +6249,7 @@ powdered mustard
 powdered pectin
 powdered saffron
 powdered sugar
-powdered sugar and mint sprigs
 powdered sumac
-powdered unflavored gelatin
 pozole
 prailine
 praline
@@ -8081,30 +6258,24 @@ praline powder
 prawn
 prawn cracker
 precooked couscous
-precooked white corn flour
 preferably homemade
 premade vegan pie crust
 prepared foie gras
-prepared horseradish
 prepared mustard
 prepared red curry paste
-prepared uncooked paupiettes of turkey stuffed with sweetbreads and mushrooms
 preserf
 preserved duck
 preserved duck meat
 preserved ginger
-preserved horse bean
 preserved lemon
 preserved lemon peel
 preserves
-preserves and creme fraiche
 pressed ginger juice
 pressed tof
 pressure cooker
 pretzel salt
 pretzels
 prime rib
-prime rib or other leftover meat
 primitivo quiles vermouth rojo
 prince mushrooms
 prosciutto
@@ -8113,8 +6284,6 @@ prosciutto di parma
 prosciutto ends
 prosciutto fat
 prosciutto hock
-prosciutto or cooked ham
-prosciutto or other salted ham or slab bacon
 prosecco
 protein
 provencal
@@ -8133,26 +6302,20 @@ puffed brown rice cereal
 puffed rice
 puligny montrachet
 pullman bread
-pullman or other firm white bread
 pulp
-pulp from 2 vanilla pods that have been halved lengthwise and scraped
 pulverized praline
 pumate
 pumpernickel
 pumpernickel bread
 pumpkin
 pumpkin flesh
-pumpkin or butternut squash
-pumpkin or hubbard squash
 pumpkin pie spice
-pumpkin pur\xe9e
 pumpkin puree
 pumpkin seed
 pumpkin seed dukkah
 pumpkin seed oil
 pumpkin seed vinaigrette paste
 pumpkin seeds
-pumpkin seeds or mediterranean pine nuts
 pumpkin squash
 pumpkin-pie spice
 pumpkin-seed oil
@@ -8161,17 +6324,11 @@ pumpkins
 pumpkinseed
 pumpkinseed oil
 punt e mes italian vermouth
-punt e mes or other sweet vermouth
 puntarella
-pur\xe9e from canned chipotles
-pur\xe9ed cilantro
-pur\xe9ed roasted pumpkin
-pur\xe9ed tomatoes
 pure coconut water
 pure ground chile powder
 pure lemon extract
 pure maple syrup
-pure maple syrup or brown sugar
 pure pomegranate juice
 pure sesame oil
 pure syrup
@@ -8208,7 +6365,6 @@ quart plain low-fat yogurt
 quarter-size slice fresh ginger
 quarter-size slice ginger
 quartered hulled strawberries
-quatre \xe9pices
 quatre epices
 quesillo
 queso
@@ -8216,9 +6372,6 @@ queso blanco
 queso chihuahua
 queso cotija
 queso fresco
-queso fresco or feta
-queso fresco or feta cheese
-queso fresco or ranchero
 quetsch
 quick cooking grit
 quick couscous
@@ -8251,7 +6404,6 @@ racks of lamb
 raclette
 raclette cheese
 rad dal
-radiatore
 radicchio
 radicchio di treviso
 radicchio leaves
@@ -8259,7 +6411,6 @@ radicchio lettuce
 radish
 radish sprouts
 radishes
-radishes and lime juice
 raicilla
 rainbow chard
 rainbow quinoa
@@ -8267,7 +6418,6 @@ rainbow trout
 raisin
 raisin walnut bread
 raisins
-raisins or finely diced plums or pluots
 raman
 ramazzotti amaro
 ramen noodles
@@ -8275,25 +6425,20 @@ ramp
 rapid-rise yeast
 ras el hanout
 raspberries
-raspberries or blackberries
 raspberry
 raspberry coulis
 raspberry eau de vie
 raspberry eau-de-vie
-raspberry flavored rum
 raspberry jam
 raspberry juice
 raspberry liqueur
-raspberry or cider vinegar
 raspberry preserf
 raspberry preserves
-raspberry pur\xe9e
 raspberry puree
 raspberry sauce
 raspberry syrup
 raspberry vinegar
 raspberry vodka
-raspberry-flavored rum
 ratatouille
 rau ram
 ravioli
@@ -8302,12 +6447,9 @@ raw almond
 raw bacon
 raw brown
 raw brown sugar
-raw brown sugar or organic sugar
 raw cashew pieces
 raw cashews
 raw chicken fat
-raw chicken skin and fat
-raw corn
 raw egg whites
 raw good-quality lean beef
 raw greens
@@ -8317,16 +6459,12 @@ raw nut
 raw peanuts
 raw pepita
 raw pistachios
-raw pork
 raw quinoa
 raw rice
 raw salmon
 raw shrimp
-raw shrimp in shell
-raw shrimp in the shell
 raw sticky rice
 raw sugar
-raw sugar or white sugar
 raw sunflower seeds
 raw tahini
 raw tuna steak
@@ -8337,7 +6475,6 @@ raw white mushrooms
 raw wild rice
 raz al hanout
 raz al hanout spice mixture
-razor clams
 ready-to-cook chicken
 real butter
 real maple syrup
@@ -8348,13 +6485,8 @@ recipe any bread stuffing
 recipe here
 recipe stuffing
 recipe yeasted olive oil pastry
-reconstituted regular or israeili couscous
 red
 red aleppo pepper
-red and green bell peppers
-red and green pepper
-red and yellow bell pepper
-red and yellow peppers
 red apple
 red bean
 red bean paste
@@ -8371,8 +6503,6 @@ red bliss
 red bliss potato
 red bliss potatoes
 red boiling potatoes
-red boiling potatoes or baby yukon golds
-red bordeaux wine
 red boston lettuce
 red bull
 red burgundy wine
@@ -8381,7 +6511,6 @@ red caviar
 red chard
 red chard leaves
 red cherries
-red cherry or pear tomatoes
 red cherry tomatoes
 red chile
 red chile flakes
@@ -8393,23 +6522,17 @@ red chili paste
 red chili pepper
 red chili pepper flakes
 red chili powder
-red chili powder or hot paprika
 red chili-pepper flakes
 red chili-powder
 red chilies
 red chilis
-red choricero pepper
 red currant
 red currant jam
 red currant jelly
-red currant sorbet
 red curry paste
 red curry powder
 red delicious apple
-red flame or other raisins
-red food coloring
 red grape
-red grape or tear-drop tomatoes
 red holland
 red holland chilies
 red hot chili peppers
@@ -8420,7 +6543,6 @@ red jalapeno chile
 red jalapeno chili
 red kale
 red kidney bean
-red korean chilies
 red leaf
 red leaf lettuce
 red leicester cheese
@@ -8436,31 +6558,14 @@ red ogo
 red onion
 red onion peeled
 red onions
-red or green bell pepper
-red or green chilies
-red or green hot pepper jelly
-red or green pepper
-red or orange bell peppers
-red or orange chili peppers
-red or red and yellow peppers
-red or white onion
-red or white potatoes
-red or white wine
-red or white wine vinegar
-red or white wine vinegar or sherry vinegar
-red or yellow bell pepper
-red or yellow bell peppers
-red or yellow onion
 red papaya
 red passover wine
 red peach
 red peaches
 red pearl onion
 red pepper
-red pepper and cumin vinaigrette
 red pepper flake
 red pepper flakes
-red pepper flakes or turkish maras pepper
 red pepper juice
 red pepper oil
 red pepper puree
@@ -8468,14 +6573,11 @@ red pepper relish
 red pepper sauce
 red pepper strips
 red pepper-eggplant ajvar
-red peppercorn
 red peppers
 red plum tomato
 red plums
-red port
 red potato
 red potatoes
-red potatoes or fingerlings
 red quinoa
 red radicchio
 red radish
@@ -8492,7 +6594,6 @@ red snapper
 red snapper fillet
 red snapper head
 red spring onion
-red spring onion bulb and greens
 red star pasteur champagne yeast
 red stripe beer
 red sweet pepper
@@ -8501,19 +6602,11 @@ red thai chiles
 red thai chili
 red thai chili pepper
 red thai chilies
-red thai chilies or cayenne pepper
 red tomatoes
-red torpedo onion
 red turnips
 red wine
-red wine or dry sherry
-red wine or dry white wine
 red wine pheasant liver
 red wine vinegar
-red wine vinegar or apple cider vinegar
-red wine vinegar or cider vinegar
-red wine vinegar or other vinegar
-red wine vinegar or sherry vinegar
 red yuzu kosho
 red zinfandel
 red-beet essence
@@ -8534,16 +6627,12 @@ red-pepper mousse
 red-pepper sauce
 red-skinned potatoes
 red-wine
-red-wine or malt vinegar
-red-wine or sherry vinegar
 red-wine vinegar
 redfish
 reduced
-reduced balsamic vinegar or saba
 reduced fat ricotta
 reduced sodium soy sauce
 reduced-fat ricotta
-reduced-sodium chicken or vegetable broth
 reduced-sodium soy sauce
 reduced-sodium tamari
 redwine vinegar
@@ -8551,13 +6640,8 @@ refried bean
 reggiano
 regular carrots
 regular green beans
-regular or buffalo mozzarella
-regular or no-boil lasagna noodles
-regular or red quinoa
-regular or wild mushrooms
 regular quinoa
 regular semolina flour
-regular semolina flour or all-purpose flour
 reindeer
 reishi mushrooms
 related article
@@ -8572,7 +6656,6 @@ remoulade sauce
 rendered bacon fat
 rendered chicken fat
 rendered duck fat
-rendered duck or goose fat
 rennet solution
 reposado mezcal
 reposado tequila
@@ -8584,7 +6667,6 @@ reshly ground pepper
 retsina
 rfa biber peppers
 rfa chilies
-rhode island shortcakes
 rhubarb
 rhubarb compote
 rhubarb stalks
@@ -8594,12 +6676,10 @@ rib
 rib celery
 rib eye steak
 rib lamb chops
-rib pork chops
 rib roast
 rib steak
 rib veal chops
 rib-eye
-rib-eye or other well-marbled steak
 rib-eye steak
 ribs
 ribs celery
@@ -8613,32 +6693,20 @@ rice cracker
 rice dish
 rice flour
 rice flour spring roll wrappers
-rice for sushi
 rice krispies
 rice krispies cereal
 rice krispy
 rice milk
 rice noodle
-rice or coarse bulgur
-rice or couscous
-rice or noodles
-rice or tapioca
-rice or white wine vinegar
-rice or wine vinegar
 rice paper
 rice paper wrapper
 rice stick
 rice stick noodle
 rice vermicelli
 rice vermicelli noodles
-rice vermicelli or thin rice stick noodles
 rice vinegar
-rice vinegar or cider vinegar
 rice wine
-rice wine or dry sherry
-rice wine or other light vinegar
 rice wine vinegar
-rice wine vinegar or sherry vinegar
 rice-bran oil
 rice-paper wrappers
 rice-wine vinegar
@@ -8646,8 +6714,6 @@ rich beef broth
 rich chicken broth
 rich chicken stock
 rich fish broth
-rich fish or chicken stock
-rich fresh or canned chicken broth
 rich meat broth
 rich red wine
 rich stock
@@ -8656,12 +6722,9 @@ ricotta cheese
 ricotta cheese stuffing
 ricotta salata
 ricotta salata cheese
-ricotta salata or feta cheese
-ricotta salata or pecorino
 riesling
 riesling wine
 rigatoni
-rigatoni or other cut pasta
 rind
 rind from 2 lemons
 ripe
@@ -8675,15 +6738,12 @@ ripe but firm peaches
 ripe but firm plums
 ripe but firm tomatoes
 ripe cantaloupe
-ripe cherry or grape tomatoes
 ripe field tomatoes
 ripe figs
 ripe heirloom tomatoes
 ripe mango
 ripe medium tomato
 ripe nectarines
-ripe nectarines or peaches
-ripe or well-drained canned tomatoes
 ripe papaya
 ripe peaches
 ripe pear
@@ -8693,7 +6753,6 @@ ripe plum tomatoes
 ripe plum tomatoes cut into small cubes
 ripe plums
 ripe raspberries
-ripe red or yellow tomatoes
 ripe red plums
 ripe red tomato
 ripe red tomatoes
@@ -8710,9 +6769,6 @@ roast beef
 roast chicken
 roast of beef
 roast of lamb
-roast of pork
-roast pork dip
-roast pork drippings
 roasted
 roasted beets
 roasted broiler-size chicken
@@ -8728,21 +6784,18 @@ roasted hazelnuts
 roasted mushroom
 roasted mushroom base
 roasted mushroom mix
-roasted orange
 roasted peanut oil
 roasted peanuts
 roasted pepper
 roasted piquillo peppers
 roasted pistachio oil
 roasted poblano chile strips
-roasted pork shoulder
 roasted pumpkin seeds
 roasted red pepper
 roasted salted peanuts
 roasted salted pumpkin seeds
 roasted sesame oil
 roasted sichuan pepper-salt
-roasted squash pur\xe9e
 roasted sweet pepper
 roasted tomato sauce
 roasted unsalted cashews
@@ -8760,12 +6813,9 @@ robiola cheese
 robust
 robust herbs
 rock & rye
-rock cornish game hens
-rock cornish hens
 rock salt
 rock shrimp
 rocks glass
-rocquefort
 roe
 roesemary
 roll dough
@@ -8773,7 +6823,6 @@ roll wrappers
 rolled barley
 rolled oat
 rolled oats
-rolled oats or oatmeal
 rolls
 roma tomato
 roma tomatoes
@@ -8784,9 +6833,6 @@ romaine leaves
 romaine lettuce
 romaine lettuce heart
 romaine lettuce leaves
-romaine lettuce leaves and pita bread for serving
-romaine lettuce leaves for serving
-romaine or leaf lettuce for the platter or plates
 romanesco broccoli
 romanesco zucchini
 romano bean
@@ -8797,13 +6843,6 @@ romesco sauce
 rond de nice squash
 root liqueur
 root vegetable
-roquefort
-roquefort cheese
-roquefort or blue cheese
-roquefort style blue cheese
-ros\xe9
-ros\xe9 champagne
-ros\xe9 wine
 rose
 rose geranium
 rose geranium leaves
@@ -8815,7 +6854,6 @@ rose water
 rosebuds
 rosehips
 rosemary
-rosemary and thyme
 rosemary applesauce
 rosemary branch
 rosemary branches
@@ -8823,11 +6861,8 @@ rosemary leaves
 rosemary needles
 rosemary oil
 rosemary olive oil
-rosemary or fresh thyme leaves
-rosemary or thyme
 rosemary sprig
 rosemary-infused simple syrup
-rosemary-orange oven-dried tomatoes
 rosewater
 rotelle pasta
 roti
@@ -8848,10 +6883,8 @@ roulade
 round
 round dumpling skins
 round dumpling wrappers
-round or rounds of goat cheese
 round rolls
 round steak
-round tortilla chips
 round white potatoes
 rounds of baguette
 roux
@@ -8860,13 +6893,10 @@ royal icing
 rubbed sage
 ruby grapefruit juice
 ruby lettuce
-ruby port
-ruby port wine
 ruby red grapefruit
 ruby red jasmine rice
 ruby-red grapefruit juice
 rum
-rum and sherry
 rum extract
 rum sauce
 rum-soaked raisins
@@ -8876,26 +6906,20 @@ rump pot roast
 rump roast
 russet
 russet baking potatoes
-russet or idaho potatoes
-russet or yukon gold potatoes
 russet potato
 russet potatoes
-russet potatoes or yukon golds
 russian
 russian vodka
 rustic
 rustic bread
 rustic italian bread
 rustic white bread
-rustic whole-grain bread or ciabatta
 rutabaga
 rye
 rye bread
 rye bread crumbs
 rye crumble
 rye flour
-rye or bourbon
-rye or whole-wheat flour
 rye toast
 rye whiskey
 rye-bread
@@ -8906,11 +6930,6 @@ sabra liqueur
 sacs
 safflower
 safflower oil
-safflower oil for frying
-safflower or canola oil
-safflower or corn oil
-safflower or other oil
-safflower or other vegetable oil
 safflower threads
 saffron
 saffron stamens
@@ -8920,14 +6939,10 @@ saffron-aioli toasts
 sage
 sage leaf
 sage leaves
-sage leaves or basil leaves
-sage or thyme
-sage or thyme leaves
 sage vinegar
 saison beer
 sake
 sake kas
-sake or dry sherry
 salad
 salad green
 salad leaves
@@ -8942,10 +6957,7 @@ salmon fillet steaks
 salmon roe
 salmon steak
 salsa
-salsa and crumbled queso
-salsa and lime wedges
 salsa cruda
-salsa de chili colorado
 salsa de cilantro
 salsa fresca
 salsa picante brand
@@ -8956,39 +6968,11 @@ salsify roots
 salt
 salt & pepper
 salt & pepper to taste
-salt and black pepper
-salt and black pepper to taste
-salt and cayenne
-salt and cayenne pepper
-salt and fresh black pepper
-salt and freshly cracked black pepper
-salt and freshly cracked black pepper to taste
-salt and freshly ground black pepper
-salt and freshly ground black pepper to taste
-salt and freshly ground pepper
-salt and freshly ground pepper to taste
-salt and freshly ground white pepper
-salt and freshly ground white pepper to taste
-salt and ground black pepper
-salt and ground white pepper
-salt and hot red pepper flakes
-salt and pepper
-salt and pepper if desired
-salt and pepper to taste
-salt and pepper,
-salt and sugar
-salt and white or black pepper
-salt and white pepper
 salt cod
 salt cod fillet
 salt fatback
 salt herring
 salt herring roe
-salt or to taste
-salt or vinegar
-salt pork
-salt pork fat
-salt pork or bacon
 salt to taste
 salt to taste if desired
 salt-cod fillets
@@ -9013,7 +6997,6 @@ sambal chile sauce
 sambal mentah
 sambal oelek
 sambal oelek chili sauce
-sambal olek or other chile paste
 sambuca
 samp
 san daniele prosciutto
@@ -9030,17 +7013,13 @@ sardine
 sardine sauce
 satay sauce
 satsuma
-satsuma or tangerine juice
 saturn peaches
 sauce
 sauce chien
 sauce diable
 sauce fines herbes
-sauce forestiere
-sauce from chipotles in adobo
 sauce from the canned adobo chile
 sauce gribiche
-sauce mornay
 sauce nantua
 sauce rouille
 sauce salade
@@ -9052,21 +7031,13 @@ sauerkraut liquid
 sausage
 sausage casing
 sausage meat
-sausage meat in bulk
 sausages
-sausages and cured meat
-saut\xe9ed mushrooms
-saut\xe9ed summer squash with red pepper and onion
 sauteed potatoes with parsley
 sauternes
 sauvignon blanc
 savoiardi biscuit
-savory
-savory leaves
 savoy cabbage
 savoy cabbage leaves
-savoy or green cabbage
-savoy or other cabbage
 sazerac rye
 scalded milk
 scaled
@@ -9078,8 +7049,6 @@ scallion stalks
 scallion tops
 scallion whites
 scallions
-scallions or chives
-scallions or minced red onion
 scallop
 scallop shells
 scandinavian
@@ -9092,34 +7061,22 @@ scotch bonnet
 scotch bonnet chile
 scotch bonnet chili
 scotch bonnet chili peppers
-scotch bonnet or habanero chili pepper
 scotch bonnet pepper
 scotch whiskey
 scotch-bonnet peppers
 scottish smoked salmon
-scraps and bones
 scrod
 scrod fillet
 sculpin
 sea bass
 sea bass bone
 sea bass fillet
-sea bass or other fish
 sea bean
 sea bream
 sea island red peas
 sea parsley
 sea robin
 sea salt
-sea salt and black pepper
-sea salt and freshly ground black pepper
-sea salt and freshly ground black pepper to taste
-sea salt and freshly ground pepper
-sea salt and ground black pepper
-sea salt and pepper
-sea salt or fleur de sel
-sea salt or fleur de sel and freshly ground pepper
-sea salt or kosher salt
 sea scallop
 sea trout
 sea urchin
@@ -9144,7 +7101,6 @@ seaweed paper
 seckel pears
 secret weapon stir-fry sauce
 see chicken recipe
-see note for chicken potpie
 see pate brisee recipe
 see poached rhubarb recipe
 see recipe
@@ -9154,8 +7110,6 @@ seeded chopped red thai bird chilies
 seeded muscat raisins
 seedless grapes
 seedless green grapes
-seedless navel oranges
-seedless orange
 seedless raisins
 seedless red grapes
 seedless tamarind pulp
@@ -9168,7 +7122,6 @@ sel gris
 self rising flour
 self-rising flour
 seltzer
-seltzer or club soda
 seltzer water
 semi-sweet chocolate
 semi-sweet chocolate chips
@@ -9179,8 +7132,6 @@ semisoft cheese
 semisweet chocolate
 semisweet chocolate chip
 semisweet dark chocolate
-semisweet or bittersweet chocolate
-semisweet or milk chocolate
 semisweet white wine
 semisweet-chocolate
 semolina
@@ -9192,13 +7143,8 @@ serrano chiles
 serrano chili
 serrano chili pepper
 serrano chilies
-serrano chilies or other hot peppers
 serrano chilis
 serrano ham
-serrano or bird chile
-serrano or bird chilies
-serrano or jalapeno chilies
-serrano or other fresh chili pepper
 serrano pepper
 servings cooked white rice
 sesame
@@ -9206,21 +7152,15 @@ sesame breadstick
 sesame bun
 sesame ginger vinaigrette
 sesame oil
-sesame oil or walnut oil
 sesame paste
 sesame sauce
 sesame seed
 sesame seed paste
 sesame seeds
-sesame seeds and sliced scallions
 sesame tahini
 sesame-seed hamburger bun
 sesame-seed oil
 several large thyme sprigs
-several pieces dried porcini mushrooms
-several torn slices of prosciutto
-seville orange
-seville orange juice
 sevruga caviar
 shad
 shad filets
@@ -9229,44 +7169,30 @@ shad roe
 shad roe sacs
 shaker bouquet garni
 shallot
-shallot and wild-mushroom sauce
 shallot lobe
 shallot minced
 shallot oil
-shallot or green onion
-shallot or onion
-shallot or small onion
 shallot-garlic oil
 shallots
-shallots and garlic
-shallots and onions
 shandong
 shank end leg of lamb
-shank end of pork
 shank of veal
 shao hsing rice wine
-shao hsing rice wine or dry sherry
 shao shing wine
 shao xing rice wine
 shao xing wine
-shao xing wine or dry sherry
 shao-hsing wine
 shaoshing wine
 shaoxing
-shaoxing or dry sherry
 shaoxing rice wine
-shaoxing rice wine or medium-dry sherry
 shaoxing wine
-shaoxing wine or dry sherry
 shark steak
 sharp cheddar
 sharp cheddar cheese
 sharp cheese
-sharp orange cheddar
 sharp provolone cheese chunks
 shaved bonito flakes
 shaved parmesan
-shaved pecorino romano
 shaved red onions
 shaved white chocolate
 shavings of fresh coconut
@@ -9277,7 +7203,6 @@ shell
 shell bean
 shell pasta
 shell steaks
-shelled and skinned
 shelled fresh peas
 shelled frozen
 shelled large shrimp
@@ -9294,20 +7219,7 @@ shelling beans
 shells
 shells from 2 pounds of raw shrimp
 sherry
-sherry or champagne vinegar
-sherry or red wine vinegar
-sherry or red-wine vinegar
 sherry vinegar
-sherry vinegar and roasted chicken sauce
-sherry vinegar or apple cider vinegar
-sherry vinegar or balsamic vinegar
-sherry vinegar or champagne vinegar
-sherry vinegar or cider vinegar
-sherry vinegar or other
-sherry vinegar or red wine vinegar
-sherry vinegar or rice wine vinegar
-sherry vinegar or white wine vinegar
-sherry vinegar or wine vinegar
 sherry vinegar vinaigrette
 sherry wine
 sherry wine vinegar
@@ -9315,13 +7227,11 @@ sherry-wine vinegar
 shi-grade salmon
 shichimi togarashi
 shiitake
-shiitake and lotus seed stuffing
 shiitake caps
 shiitake mushroom
 shiitake mushroom caps
 shiitake mushroom stems
 shiitake mushrooms
-shiitake or white button mushrooms
 shiitakes
 shiro
 shishito
@@ -9329,28 +7239,6 @@ shishito peppers
 shiso
 shiso leaf
 shiso leaves
-shiso or basil
-shiso or mint
-short grain rice
-short grain white rice
-short or medium-grain non-sticky red rice
-short pasta
-short rib
-short ribs
-short ribs trimmed of excess fat
-short ribs with bone
-short-crust dough
-short-grain italian rice
-short-grain rice
-short-grain sushi rice
-short-grain white rice
-short-grained risotto rice
-short-grained spanish rice
-short-grained white rice
-shortbread
-shortcake
-shortening
-shortening or lard
 shot old overholt
 shoulder lamb
 shoulder lamb chops
@@ -9359,8 +7247,6 @@ shoulder of lamb
 shoulder of veal
 shredded basil
 shredded cabbage
-shredded cabbage for the tacos
-shredded cabbage for topping
 shredded carrot
 shredded cheddar
 shredded cheddar cheese
@@ -9368,20 +7254,15 @@ shredded cheese
 shredded coconut
 shredded collard
 shredded cooked turkey
-shredded corned beef
 shredded dried coconut
 shredded dried unsweetened coconut
 shredded fennel bulb
 shredded ginger
 shredded green leaf
-shredded green or red cabbage
-shredded gruy\xe8re cheese
 shredded iceberg lettuce
 shredded kale
 shredded monterey jack cheese
-shredded mozzarella or monterey jack cheese
 shredded red cabbage
-shredded red or green cabbage
 shredded red-chile meat
 shredded smoked mozzarella
 shredded sweetened coconut
@@ -9393,9 +7274,7 @@ shredded zucchini
 shrimp
 shrimp bodies
 shrimp broth
-shrimp in the shell
 shrimp mousse
-shrimp or other fish
 shrimp paste
 shrimp powder
 shrimp sauce
@@ -9407,7 +7286,6 @@ siamese ginger
 sichuan hot bean sauce
 sichuan oil
 sichuan pepper
-sichuan peppercorn
 sichuanese chili bean paste
 sifted all-purpose flour
 sifted baking powder
@@ -9418,7 +7296,6 @@ sifter
 silk squash
 silken tof
 silver hake
-silver mini drag\xe9es
 silver onions
 silver tequila
 silver tip roast
@@ -9428,13 +7305,11 @@ simple marinara sauce
 simple syrup
 simple tomato sauce
 sing this recipe
-singapore curry powder
 single ladyfingers
 single-malt scotch
 single-rib lamb chops
 sirloin
 sirloin end ham
-sirloin or chuck
 sirloin steak
 sirloin strip
 sirloin tip
@@ -9444,16 +7319,13 @@ skewers
 skim milk
 skim milk ricotta
 skim-milk ricotta
-skin and fat
 skin-on bluefish fillets
 skin-on boneless chicken breasts
 skinless
-skinless albacore fillet
 skinless boneless chicken thighs
 skinless boneless cod
 skinless chicken breast
 skinless hake fillets
-skinless pork belly
 skinless salmon
 skinless tuna fillets
 skinless white fillet
@@ -9471,7 +7343,6 @@ slice of tof
 sliced
 sliced almond
 sliced almonds
-sliced almonds and slivered apricots
 sliced bacon
 sliced bamboo shoots
 sliced basil leaves
@@ -9480,13 +7351,10 @@ sliced button mushrooms
 sliced celery
 sliced cremini mushrooms
 sliced cucumber
-sliced cucumber and orange
 sliced garlic
-sliced heirloom or good roma tomatoes
 sliced leeks
 sliced mushrooms
 sliced onion
-sliced orange
 sliced red onion rings
 sliced red pepper
 sliced scallions
@@ -9504,14 +7372,11 @@ slices whole-wheat country bread
 slivered almond
 slivered basil
 slivered basil leaves
-slivered basil leaves or chopped fresh thyme leaves
 slivered chives
 slivered cilantro leaves
 slivered flat-leaf parsley leaves
 slivered fresh basil
 slivered fresh basil leaves
-slivered fresh basil leaves or chopped fresh tarragon
-slivered fresh basil or chopped chives
 slivered fresh ginger
 slivered fresh mint leaves
 slivered fresh sage
@@ -9519,14 +7384,9 @@ slivered fresh sage leaves
 slivered garlic
 slivered komb
 slivered mint leaves
-slivered or chopped fresh basil
-slivered or chopped fresh basil leaves
-slivered or chopped fresh sage
 slivered scallions
 slivered shallots
-slivers of sweet red pepper for garnish
 slow-braised lamb shanks
-slow-braised\nlamb shanks
 slow-roasted tomatoes
 small
 small apricots
@@ -9534,9 +7394,7 @@ small artichokes
 small banana
 small bay leaf
 small beet
-small boned and skinned chicken breasts
 small bowl
-small broccoli florets
 small bulb fennel
 small bunch cilantro
 small butternut squash
@@ -9547,18 +7405,15 @@ small cauliflower
 small celery root
 small celery stalks
 small chili
-small cinderella or sugar pumpkin
 small clams
 small clay doll
 small cod fillet
-small corn tortillas
 small cucumber
 small dried red chili pepper
 small dry chickpeas
 small eggplants
 small english cucumbers
 small flat-leaf parsley leaves
-small flour tortillas
 small fresh chilies
 small garlic clove
 small garlic cloves
@@ -9575,7 +7430,6 @@ small head of radicchio
 small head radicchio
 small hot dried red chilies
 small hot red peppers
-small imported black olives
 small jalapeno chili pepper
 small japanese eggplants
 small leaves fresh opal basil
@@ -9587,10 +7441,6 @@ small mushrooms
 small new potatoes
 small okra
 small onion
-small or medium beets
-small or medium garlic clove
-small or medium green bell pepper
-small or medium red bell pepper
 small oysters
 small pasta
 small pearl tapioca
@@ -9613,7 +7463,6 @@ small red potatoes
 small red-skinned potatoes
 small ripe honeydew melon
 small ripe peaches
-small romaine lettuce leaves and imported black olives for garnish
 small serrano
 small shallot
 small shallots
@@ -9635,19 +7484,16 @@ small white onions
 small white turnip
 small yellow onion
 small yellow wax beans
-small yukon gold or red potatoes
 small yukon gold potatoes
 small zucchini
 small-dice onion
 smallish cucumber
 smelt
-smith and cross jamaican rum
 smith apples
 smithfield ham
 smoke trout
 smoked
 smoked andouille sausage
-smoked atlantic ++or norwegian salmon
 smoked autumn vegetable
 smoked bacon
 smoked beef sausage
@@ -9669,7 +7515,6 @@ smoked ham
 smoked ham hock
 smoked herring
 smoked herring fillets
-smoked herring in oil
 smoked kielbasa
 smoked lobsters
 smoked mackerel
@@ -9678,29 +7523,19 @@ smoked mozzarella cheese
 smoked mussel
 smoked paprika
 smoked paprika to taste
-smoked piment\xf3n
-smoked pork butt
-smoked pork chop
-smoked pork hock
-smoked pork sausage
 smoked sable
 smoked sablefish
 smoked salmon
-smoked sardines in olive oil
 smoked sausage
 smoked slab bacon
 smoked spanish paprika
 smoked sturgeon
 smoked sweet paprika
-smoked sweet paprika or regular paprika
 smoked tempeh
 smoked trout
 smoked trout fillet
-smoked trout in canola oil
-smoked trout or salmon fillet
 smoked tuna
 smoked turkey
-smoked turkey and basil-goat-cheese filling
 smoked turkey breast
 smoked turkey wing
 smoky bacon
@@ -9711,15 +7546,12 @@ smoky scotch whiskey
 smoky scotch whisky
 smoky scottish whisky
 smooth almond butter
-smooth organic peanut butter
 smooth peanut butter
 snail
 snap liqueur
 snap pea
 snapper
 snapper filets
-snapper or cod fillets
-snapper or other rock fish fillets
 snickers bar
 snipped basil
 snipped chives
@@ -9728,7 +7560,6 @@ snipped fresh dill
 snow pea
 snow pea pods
 snow peas
-snow peas or sugar snap peas
 snow-pea pods
 soaked chia seeds
 soaked pumpkin seeds
@@ -9739,24 +7570,18 @@ soba
 soba noodle
 soba sauce
 soda
-soda or seltzer
 soda water
 sofrito
 soft anson mills polenta
-soft baguette or loaf cuban bread
 soft bean-curd cake
-soft black licorice
 soft bread crumbs
 soft breadcrumbs
-soft burger rolls or sandwich buns
 soft butter
-soft corn tortillas
 soft flatbread
 soft fresh goat cheese
 soft goat cheese
 soft herbs
 soft roll
-soft rolls or slices of white bread
 soft shell crab
 soft tof
 soft white bread
@@ -9765,28 +7590,17 @@ soft-shell clams
 soft-shell crabs
 soft-shelled crabs
 softened butter
-softened butter or olive oil
 softened goat cheese
 softened unsalted butter
 soj
 sole
 sole fillet
 solera rum
-solid shortening
-solid shortening and flour
 solid tuna
-solid vegetable shortening
 sombra mezcal
 sonoma goat cheese
 sonoma jack cheese
 soppressata
-sorbet
-sorel liqueur
-sorel liquor
-sorghum
-sorghum flour
-sorrel
-sorrel leaves
 sotol
 sotol blanco
 soup
@@ -9799,48 +7613,31 @@ sour cherry
 sour cherry preserf
 sour cherry syrup
 sour cream
-sour cream and cilantro sprigs
-sour cream or heavy cream
-sour cream or plain whole milk yogurt
-sour cream or plain yogurt
-sour cream or yogurt
-sour cream sorbet
 sour milk
 sour mix
-sour orange juice
-sour orange mignonette
 sour pickle
 sour pie cherrie
 sour rye bread
-sour salt or lemon powder
 sour trahana
 sour-cherry preserves
 sour-cream pastry
 sourdough
 sourdough baguette
-sourdough baguette or hearty french or italian bread with crust
 sourdough bread
 sourdough rye bread
 sourdough starter
 sourdough starter from above
 sous vide cauliflower
 south american
-south american or caribbean white rum
 southeast asian fish sauce
 southern
-southern comfort
 southwestern
-souza hornitos tequila
 soy
 soy beans
 soy flour
 soy milk
-soy milk or almond milk
 soy oil
-soy or peanut oil
-soy or rice milk
 soy sauce
-soy sauce or marinade
 soy soup base
 soy-ginger steaming liquid
 soy-parmesan cheese
@@ -9854,15 +7651,11 @@ soysauce
 spaetzle
 spaghetti
 spaghetti alla chitarra
-spaghetti or orecchiette
 spaghetti sauce
 spaghetti squash
 spaghettini
-spaghettini or spaghetti
 spanish
 spanish brandy
-spanish brandy or cognac
-spanish chorizo
 spanish olive oil
 spanish olives
 spanish onion
@@ -9870,8 +7663,6 @@ spanish paprika
 spanish roja garlic
 spanish sausages
 spanish serrano ham
-spanish short grain rice
-spanish short-grain rice
 spanish smoked paprika
 spanish-sherry vinegar
 spare rib
@@ -9880,25 +7671,19 @@ spareribs
 sparkling apple cider
 sparkling cider
 sparkling lemonade
-sparkling ros\xe9
 sparkling rose
 sparkling water
 sparkling white
 sparkling wine
-sparkling wine or prosecco
-spaten optimator
 spatula
 spatzle
 spearmint
 spearmint leaves
-spearmint or peppermint extract
 spears asparagus
 speck
 spelt
 spelt flakes
 spelt flour
-spelt or whole-wheat flour
-spezie forti
 spice
 spice mix
 spice mixture
@@ -9922,15 +7707,10 @@ spicy sausage
 spider crabs
 spike seasoning
 spinach
-spinach and coriander sauce
 spinach fettuccine
 spinach leaves
-spinach leaves and stems
 spinach linguine
 spinach mayonnaise
-spinach or greens
-spinach or mustard greens
-spinach or swiss chard
 spinach stems
 spinach with pancetta
 spirit
@@ -9945,10 +7725,7 @@ sponge cake
 sponge cupcakes
 spongecake
 spongecake layers
-spot prawns or blue prawns or baby shrimp
 spray
-spray oil or vegetable oil
-spray shortening
 sprig basil
 sprig fresh thyme
 sprig of mint
@@ -9958,7 +7735,6 @@ sprigs basil
 sprigs cilantro
 sprigs fresh thyme
 sprigs mint
-sprigs of chervil for garnishing
 sprigs parsley
 sprigs thyme
 spring 44 old tom gin
@@ -9967,10 +7743,7 @@ spring garlic
 spring green
 spring lamb
 spring onion
-spring onion or leek
 spring onions
-spring onions or scallions
-spring or filtered water
 spring roll skins
 spring roll wrapper
 spring vegetable
@@ -9986,7 +7759,6 @@ sprout
 sprout slaw
 sprouted brown rice
 sprouted lentil
-sprouted lentils or sunflower seeds
 sprouts
 squab
 squab breasts
@@ -10015,17 +7787,11 @@ squid tubes
 squirt soda
 sriracha
 sriracha hot sauce
-sriracha or chili oil
-sriracha or other chili sauce
-sriracha or other hot sauce
-sriracha or other red chili paste
-sriracha or other sauce
 sriracha sauce
 ssamjang
 st elizabeth allspice dram
 st germain
 st germain liqueur
-st louis pork rib
 st-germain
 st-germain elderflower liqueur
 st-germain liqueur
@@ -10033,7 +7799,6 @@ stale baguette
 stale bread
 stale bread crumbs
 stale country bread
-stale country bread or baguette
 stale pita rounds
 stale sourdough bread
 stale tuscan bread
@@ -10048,7 +7813,6 @@ star anise pod
 star fruits
 star-anise pod
 starch
-starchy or all-purpose potatoes
 starchy potato
 starchy potatoes
 starfruit
@@ -10079,26 +7843,16 @@ stick butter
 stick celery
 stick cinnamon
 stick of komb
-sticky or jasmine rice
 sticky rice
 stilton
 stilton cheese
-stilton or blue cheese
-stir and sniff
 stock
-stock or water
-stoli oranj vodka
-stolichnaya orange
 stone crabs
 stone fruit
-stone ground cornmeal
 stone-ground grits
 stone-ground whole wheat flour
-store-bought fresh salsa
-store-bought gluten-free flour blend
 stout
 stout beer
-stout or porter
 straight rye whiskey
 strained freshly squeezed lemon
 strasbourg noodles
@@ -10112,9 +7866,7 @@ strawberry liqueur
 strawberry preserf
 strawberry preserves
 strawberry sauce
-strawberry sorbet
 strawbrries
-streaky bacon or salt pork
 strega
 streusel
 string bean
@@ -10128,11 +7880,8 @@ strong broth
 strong chicken stock
 strong coffee
 strong veal stock
-strong-flavored feta cheese
-strong-flavored tea leaves
 strongbow english cider
 strozzapreti
-strozzapreti or penne pasta
 stuffing
 sturdy greens
 sturdy red wine
@@ -10144,17 +7893,10 @@ suckling pig
 suet
 suet pastry
 sugar
-sugar and cinnamon
-sugar and lemon juice
 sugar cube
 sugar dough
 sugar icing
-sugar or agave syrup
-sugar or apple-cider syrup
-sugar or honey
-sugar or honey to taste
 sugar plum
-sugar plums or mix of other plums
 sugar pumpkin
 sugar snap
 sugar snap pea
@@ -10168,7 +7910,6 @@ sultanas
 sumac
 summer fruit
 summer greens
-summer savory
 summer squash
 summer truffle peelings
 summer vegetable
@@ -10177,17 +7918,13 @@ sun dried tomatoes
 sun-dried tomato
 sun-dried tomato halves
 sun-dried tomato paste
-sun-dried tomato pur\xe9e
 sun-dried tomatoes
-sun-dried tomatoes in oil
 sun-dried-tomato paste
 sunchoke
 sundried tomatoes
 sunfish
 sunflower
 sunflower oil
-sunflower oil or other vegetable oil
-sunflower or vegetable oil
 sunflower seed
 sunflower seed oil
 sunflower sprouts
@@ -10196,10 +7933,8 @@ sungold cherry tomatoes
 sunomono su konbudasi
 superfine chickpea flour
 superfine flour
-superfine or granulated sugar
 superfine sugar
 surinam cherries
-sushi grade or ahi tuna
 sushi rice
 sushi vinegar
 sushi-grade tuna
@@ -10208,15 +7943,10 @@ suze liqueur
 swedish anchovy fillet
 swedish brown bean
 sweet
-sweet and hot mustard
-sweet and hot peppers
-sweet and sour dill sauce
 sweet apple cider
 sweet apples
 sweet bell peppers
 sweet butter
-sweet butter for duck sauce
-sweet butter for turnips
 sweet carrots
 sweet cherries
 sweet cherry tomatoes
@@ -10224,15 +7954,11 @@ sweet chili sauce
 sweet chocolate
 sweet cider
 sweet coppa
-sweet corn
-sweet corn kernels
-sweet corn kernels or frozen peas
 sweet cream
 sweet curry powder
 sweet egg bread
 sweet fennel sausages
 sweet gherkin
-sweet gorgonzola
 sweet green peas
 sweet green pepper
 sweet herb
@@ -10242,18 +7968,12 @@ sweet italian sausage
 sweet italian sausage meat
 sweet italian vermouth
 sweet kosher wine
-sweet marjoram
 sweet marsala wine
 sweet muscat
 sweet muscat wine
 sweet mustard
 sweet onion
-sweet or hot italian sausage
-sweet or hot paprika
-sweet or mildly hot green peppers
-sweet or smoky paprika
 sweet paprika
-sweet paprika or spanish smoked paprika
 sweet pepper
 sweet pepper tapenade
 sweet pickle
@@ -10262,7 +7982,6 @@ sweet pineapples
 sweet potato
 sweet potato mash
 sweet potatoes
-sweet potatoes or yams
 sweet pumpkins
 sweet red
 sweet red bell pepper
@@ -10280,10 +7999,8 @@ sweet riesling
 sweet sake
 sweet sherry
 sweet smoked paprika
-sweet sorrel
 sweet soy sauce
 sweet spanish paprika
-sweet spanish piment\xf3n
 sweet spring onion
 sweet tart pastry
 sweet thai chili sauce
@@ -10291,7 +8008,6 @@ sweet vermouth
 sweet white dessert wine
 sweet white miso
 sweet white onion
-sweet white or red onion
 sweet white wine
 sweet white-miso paste
 sweet yellow pepper
@@ -10299,27 +8015,17 @@ sweetbread
 sweetened chestnut puree
 sweetened coconut flakes
 sweetened condensed milk
-sweetened corn bread
 sweetened dried cranberries
 sweetened whipped cream
 sweetish dark beer
 swiss chard
 swiss chard leaves
-swiss chard leaves and slender stems
-swiss chard or kale
-swiss chard or rainbow chard
-swiss chard or red chard
 swiss chard stalks
 swiss cheese
-swiss gruy\xe8re cheese
-swordfish
-swordfish steak
 syrian rice
 syrup
 syrup from wild hibiscus flowers
 tabasco
-tabasco or other hot pepper sauce
-tabasco or other hot sauce
 tabasco red pepper sauce
 tabasco sauce
 tabil
@@ -10329,7 +8035,6 @@ tablespoon chopped fresh thyme
 tablespoon extra-virgin olive oil
 tablespoon milk
 tablespoons
-tablespoons corn oil
 tablespoons extra virgin olive oil
 tablespoons grated parmesan cheese
 tablespoons water
@@ -10338,7 +8043,6 @@ tagliatelle
 tagliolini
 tagliolini noodles
 tahini
-tahini or peanut butter
 tahini paste
 tahitian vanilla beans
 taken from 2 8-ounce boned rainbow trout
@@ -10346,8 +8050,6 @@ taleggio
 taleggio cheese
 tamari
 tamari almonds
-tamari or dark soy sauce
-tamari or soy sauce
 tamari sauce
 tamari soy
 tamari soy sauce
@@ -10357,14 +8059,12 @@ tamarind concentrate
 tamarind juice
 tamarind liquid
 tamarind paste
-tamarind paste or lime juice
 tamarind pods
 tamarind powder
 tamarind pulp
 tamarind-garlic dressing
 tangerine
 tangerine juice
-tangy corn relish
 tanzeya
 tap water
 tapenade
@@ -10379,12 +8079,9 @@ tarragon
 tarragon branch
 tarragon dressing
 tarragon leaves
-tarragon or dill sprigs
-tarragon or parsley
 tarragon sauce
 tarragon sprigs
 tarragon vinegar
-tarragon-flavored white vinegar
 tart
 tart apple
 tart apples
@@ -10394,25 +8091,20 @@ tart cooking apples
 tart crust
 tart dough
 tart eating apples
-tart lemon sorbet
 tart pastry
 tart shell
 tartar sauce
-tartar sauce or hot sauce
 tarte tatin
 tarte tatin pastry
 tartlet molds
 tatsoi greens
-tawny port
 tea
 tea bags
 tea leaves
 teabag
 teaspoon
-teaspoon black peppercorns
 teaspoon freshly ground black pepper
 teaspoon salt
-teaspoon unsalted butter for the dish
 teaspoon vanilla extract
 teaspoons
 teaspoons sugar
@@ -10426,9 +8118,7 @@ templeton rye
 tempura
 tempura flour
 tempura mix
-tempus fugit cr\xe8me de cacao
 tender celery stick from the heart
-tender corn
 tender lettuce leaves
 tender pie dough
 tenderloin
@@ -10461,8 +8151,6 @@ thai green chilies
 thai green curry paste
 thai jasmine rice
 thai kanom jeen noodles
-thai or indonesian chile sauce
-thai or vietnamese fish sauce
 thai peppers
 thai red "bird" chilies
 thai red curry paste
@@ -10474,14 +8162,11 @@ thai tamarind paste
 thawed frozen peas
 the chart here
 the filling of your choice
-the recipe for chocolate chip cream filling
 the suggested ingredients
 thick asparagus
 thick bacon
 thick greek style plain low-fat yogurt
 thick greek style yogurt
-thick greek style yogurt or drained yogurt
-thick greek-style or drained yogurt
 thick plain yogurt
 thick sirloin
 thick slices
@@ -10494,7 +8179,6 @@ thick strip of lemon peel
 thick yogurt
 thick-cut bacon
 thick-cut salmon filets
-thick-skinned oranges
 thick-stemmed asparagus
 thickened yogurt
 thin asparagus
@@ -10503,13 +8187,10 @@ thin egg noodles
 thin fillets
 thin leeks
 thin noodles
-thin or medium stalks asparagus
 thin rice noodles
 thin slices bread
 thin slices of prosciutto
-thin slices stale or toasted baguette
 thin veal slices
-thin-sliced salt pork
 thinly
 thinly shredded cabbage
 thinly sliced almonds
@@ -10535,18 +8216,11 @@ three-pound fish
 three-pound fryer chickens
 three-salad chiffonade
 thyme
-thyme and oregano
-thyme and parsley
-thyme and watercress
 thyme branches
 thyme flowers
 thyme honey
 thyme leaf
 thyme leaves
-thyme or oregano
-thyme or parsley
-thyme or rosemary
-thyme or sage or rosemary
 thyme sprig
 thyme syrup
 tibetan
@@ -10561,7 +8235,6 @@ tiny peas
 tiny potatoes
 tio pepe dry sherry
 tk oil
-to finish and serve:
 toast
 toast points
 toasted
@@ -10569,23 +8242,18 @@ toasted almonds
 toasted black sesame seeds
 toasted bread crumbs
 toasted coconut
-toasted coriander seeds
 toasted cracked mustard seeds
 toasted cumin seeds
-toasted finely chopped nuts and/or toasted coconut
 toasted flaxseeds
-toasted french bread for serving
 toasted hazelnuts
 toasted kasha
 toasted nuts
-toasted or roasted pecans
 toasted pecans
 toasted pine nuts
 toasted pistachio oil
 toasted pita bread
 toasted sesame oil
 toasted sesame seeds
-toasted sesame seeds for garnish
 toasted shelled pistachios
 toasted slivered almonds
 toasted sunflower seeds
@@ -10606,9 +8274,6 @@ tomatillo salsa
 tomatilloes
 tomatillos
 tomato
-tomato and cucumber
-tomato and herb vinaigrette
-tomato and horseradish sauce
 tomato broth
 tomato compote
 tomato concasse
@@ -10624,27 +8289,19 @@ tomato leaves
 tomato onion chutney
 tomato passata
 tomato paste
-tomato paste dissolved in 2 tablespoons water
 tomato pesto
 tomato pulp
-tomato pur\xe9e
-tomato pur\xe9e or homemade tomato sauce
 tomato puree
 tomato relish
 tomato salsa
 tomato sauce
-tomato sauce for custard pie
-tomato sauce or simple marinara sauce
 tomato sauce with chili
-tomato sauce with horseradish
 tomato sauce with peppers
 tomato soup
 tomato water
 tomato-caper sauce
 tomato-cream reduction
 tomatoes
-tomatoes and liquid
-tomatoes in juice
 tomatoes with juice
 tongue
 tongue cooking broth
@@ -10654,25 +8311,7 @@ tonnarelli
 top round
 top round beef
 top round of beef
-torchio
-torn assorted greens
-torn basil
-torn basil or mint leaves
-torn fris\xe9e
-torn fris\xe9e or other strong-tasting greens
-torn greens
-torn mint leaves
-torn or slivered basil leaves for garnish
-torn pieces of stale bread
-torn purslane
-torres orange liqueur
-tortellini
-tortiglioni
-tortilla
-tortilla chip
-tortoni
 toscano
-tough greens trimmed and discarded
 toulouse sausages
 tournedos
 trahana
@@ -10680,11 +8319,9 @@ tree ear mushrooms
 tree ears
 trenette
 treviso
-treviso or regular radicchio
 treviso radicchios
 tri tip steak
 tri-tip
-tri-tip or other cut of sirloin
 tri-tip steak
 triangles
 triggerfish fillets
@@ -10697,16 +8334,13 @@ trotters
 trout
 trout fillet
 trout roe
-trout roe or red or black caviar
 truffle
 truffle butter
 truffle juice
 truffle oil
-truffle or olive oil
 truffle salt
 tteok
 tubular pasta
-tucci rag\xf9 sauce
 tumeric
 tumeric powder
 tuna
@@ -10714,13 +8348,11 @@ tuna belly
 tuna fillet
 tuna fish
 tuna loin
-tuna packed in olive oil
 tuna salad
 tuna steak
 tunafish
 tuong
 turbinado
-turbinado or other brown sugar
 turbinado sugar
 turbot
 turkey
@@ -10744,16 +8376,10 @@ turkey legs
 turkey liver
 turkey meat
 turkey neck
-turkey neck and giblets
-turkey or chicken
-turkey or chicken stock
-turkey or smoked turkey
 turkey sausage
 turkey skin
 turkey steaks
 turkey stock
-turkey stock or chicken stock
-turkey stock or water
 turkey stuffing
 turkey thigh
 turkey thighs
@@ -10761,56 +8387,42 @@ turkey wing
 turkey-breast tenderloin
 turkeys
 turkish
-turkish or aleppo pepper
-turkish or syrian chile pepper
 turkish pepper
-turkish red pepper or aleppo pepper
 turmeric
 turmeric powder
 turmeric root
 turnip
 turnip green
 turnip greens
-turnip greens or mustard greens
 turnips
-turnips and radishes
-turnips or daikon radish
 turns of the pepper mill
 tuscan bread
 tuscan extra virgin olive oil
 tuscan kale
 tuscan marinade
-tuscan pecorino cheese
 twine
 twists of lemon
 uit()
 v-8 juice
 vago elote mezcal
-valencia oranges
 valrhona milk chocolate
 vanilla
 vanilla bean
 vanilla bean ice cream
 vanilla bean pod
 vanilla butter
-vanilla chocolate chip or other ice cream
 vanilla cookie crumbs
 vanilla essence
 vanilla extract
 vanilla ice cream
-vanilla ice cream for serving
-vanilla ice cream or frozen cr\xe8me anglaise
 vanilla oil
 vanilla paste
-vanilla paste or extract
 vanilla pod
 vanilla powder
 vanilla pudding
 vanilla rum
 vanilla sugar
 vanilla vodka
-vanilla-flavored vodka
-vasterbotten cheese or parmigiano-reggiano
 veal
 veal bone
 veal breast
@@ -10835,9 +8447,6 @@ veal medallions
 veal middle-marrow bone
 veal neck
 veal neck bone
-veal or beef neck bones
-veal or beef stock
-veal or chicken stock
 veal roast
 veal rump
 veal scallop
@@ -10847,7 +8456,6 @@ veal shoulder
 veal stew meat
 veal stock
 veal sweetbread
-veev a\xe7a\xed
 veev acai
 vegan
 vegan "chicken" cutlet
@@ -10868,48 +8476,21 @@ vegetable
 vegetable bouillon
 vegetable bouillon cubes
 vegetable broth
-vegetable broth or chicken stock
-vegetable broth or water
 vegetable cooking oil
 vegetable oil
-vegetable oil and oil
-vegetable oil and olive oil
-vegetable oil for deep-frying
-vegetable oil for frying
-vegetable oil or cooking spray
-vegetable oil or good-quality lard
-vegetable oil or nonstick cooking spray
-vegetable oil or nonstick spray
-vegetable oil or rendered bacon fat
 vegetable oil spray
-vegetable or canola oil
-vegetable or chicken broth
-vegetable or chicken stock
-vegetable or chicken stock or water
-vegetable or corn oil
-vegetable or corn oil or an equal amount of fat rendered from fresh suet
-vegetable or light olive oil
-vegetable or olive oil
-vegetable or shrimp broth or water
 vegetable pieces
 vegetable puree
 vegetable salt
-vegetable shortening
-vegetable shortening or peanut oil
 vegetable spray
 vegetable stock
-vegetable stock or chicken stock
-vegetable stock or water
 vegetable trimmings
 vegetable-oil
 vegetable-oil cooking spray
 vegetables
-vegetables and seasonings
-vegetables or pita chips
 vegetarian
 vegetarian broth
 vegetarian oyster sauce
-vegetarian oyster sauce or stir-fry sauce
 vegetarian pho broth
 vegetarian sausage
 veloute sauce
@@ -10927,7 +8508,6 @@ venison mincemeat
 venison shank
 venison tenderloin
 verbena tea
-verdicchio or other white wine
 verjuice
 verjuice-marinated black walnuts
 verjus
@@ -10947,7 +8527,6 @@ very finely minced sweet red pepper
 very firm tofu sliced into 4 large pieces
 very fresh peas
 very large heirloom tomatoes
-very large or 2 medium beefsteak tomatoes
 very ripe soft bananas
 very ripe tomatoes
 very small garlic clove
@@ -10955,7 +8534,6 @@ very small new potatoes
 very small red potatoes
 very thinly sliced
 very thinly sliced across the grain
-very thinly sliced and drained on paper towels
 very thinly sliced celery
 very thinly sliced smithfield ham
 vessel all-purpose flour
@@ -10963,22 +8541,17 @@ vessel whole milk
 vessel whole raw eggs
 veuve clicquot champagne
 vialone nano
-victoria beer
 vidalia
 vidalia onion
 vidalia onions
-vidalia or other sweet onion
 vienna sausages
 vietnamese
 vietnamese chile-garlic sauce
-vietnamese coriander
 vietnamese fish sauce
-vietnamese or thai fish sauce
 vietnamese rice noodles
 vin cotto
 vin jaune
 vin santo
-vin santo or marsala wine
 vinaigrette
 vinaigrette dressing
 vinaigrette sauce
@@ -10987,7 +8560,6 @@ vinegar
 vinegar court-bouillon
 vinegar peppers
 vintage
-vintage port
 violets
 virgin coconut oil
 virgin olive oil
@@ -10997,7 +8569,6 @@ vital wheat gluten
 vital wheat gluten flour
 vodka
 vouvray
-vouvray forea
 vs cognac
 vsop cognac
 vya sweet vermouth
@@ -11010,16 +8581,12 @@ walnut halves
 walnut meat
 walnut oil
 walnut olive bread
-walnut or olive oil
-walnut or pecan halves
 walnut pieces
 walnut sauce
 walnut vinegar
 walnut-oil
 walnuts
 walnuts halves
-walnuts or pecans
-walnuts or pine nuts
 warm bacon fat
 warm caramel sauce
 warm chicken broth
@@ -11028,53 +8595,31 @@ warm cider
 warm fish stock
 warm honey
 warm milk
-warm milk or broth from the celery root
 warm water
 warmed
 warning: push.default is unset; its implicit value is changing in
 wasabi
 wasabi paste
-wasabi paste or oil
 wasabi powder
 washed
-washed and chopped
-washed and dried
-washed and hulled
-washed and picked over
-washed and stemmed
-washed and thinly sliced
-washed and trimmed
-washed and well dried
 washed greens
-washed in 2 changes of water
 washed spinach leaves
 washed well
-washed well and sliced
 watch our video
 water
-water and white wine
 water chestnut
-water or chicken stock
-water or fish stock
-water or red wine
-water or stock
-water or vegetable stock
 water spinach
 water-chestnut powder
 water-packed light tuna
 water-packed tuna
 watercress
 watercress leaves
-watercress or arugula
-watercress or spinach leaves
 watercress sauce
 watermelon
 watermelon balls
 watermelon chunks
 watermelon juice
-watermelon or cantaloupe
 watermelon punch
-watermelon pur\xe9e
 watermelon puree
 watermelon radish
 watermelon rind
@@ -11083,30 +8628,21 @@ wax bean
 wax paper
 waxy potato
 waxy potatoes
-waxy potatoes or yukon golds
 waxy potatoes red bliss
 weakfish
 wedge brie
 wehani rice
-wehani rice or bhutanese red rice
 weisswurst
 well beaten
-well rinsed and tough stems removed
 well scrubbed
 well seasoned vegetable stock
 well washed
-well washed and chopped
-well-cooked or canned chickpeas
 well-scrubbed mussels
-well-seasoned chicken or beef stock
-well-seasoned chicken or vegetable stock
 well-seasoned chicken stock
 well-seasoned white beans
 wesson oil
 west coast green flash ipa
 west indian rum
-westmalle dubbel or another beer
-what-have-you -- for garnish
 wheat
 wheat beer
 wheat berries
@@ -11121,16 +8657,12 @@ wheat noodles
 wheat pitas
 wheat sour bread
 wheat starch
-wheat tortilla
 wheatberries
 wheatberry
 whelk
 whipped
-whipped cr\xe8me fra\xeeche or whipped heavy cream
 whipped cream
 whipped cream cheese
-whipped cream or ice cream
-whipped cream or vanilla ice cream
 whipped creme fraiche
 whipping cream
 whiskey
@@ -11138,27 +8670,17 @@ whisky
 whisky sauce
 white all-purpose flour
 white anchovies
-white and black sesame seeds
-white and dark green parts separated
-white and green parts
-white and light green part only
-white and light green parts
-white and light green parts only
-white and light-green parts
 white asparagus
 white bait
 white bakery bread
 white balsamic vinegar
-white balsamic vinegar or apple cider vinegar
 white basmati rice
 white bean
 white beans
-white beans and carrots with roasted garlic
 white beer
 white bread
 white bread crumbs
 white bread flour
-white bread or challah
 white breadcrumbs
 white burgundy
 white butter sauce
@@ -11178,14 +8700,7 @@ white chocolate glaze
 white clam topping
 white cloud ear fungus
 white cooking wine
-white corn
-white corn syrup
-white corn tortilla chips
-white corn tortillas
-white cornmeal
 white country bread
-white cr\xe8me de cacao
-white cr\xe8me de menthe
 white crab meat
 white cranberry
 white cranberry juice
@@ -11208,7 +8723,6 @@ white grapefruit
 white grapes
 white haitian rum
 white hominy
-white horseradish
 white kidney beans
 white lillet
 white liqueur
@@ -11221,38 +8735,15 @@ white mushroom
 white mushrooms
 white navy beans
 white onion
-white or apple cider vinegar
-white or black pepper
-white or borlotti beans
-white or brown button mushrooms
-white or cremini mushrooms
-white or light brown sugar
-white or light brown sugar for burning
-white or light miso
-white or red onion
-white or red wine vinegar
-white or whole wheat
-white or yellow
-white or yellow cornmeal
 white part of leeks
 white part only
 white pastry flour
 white pea beans
-white peach sorbet
 white peaches
 white pearl onion
 white pepper
-white pepper and cayenne
-white pepper and cayenne pepper
-white pepper and lemon juice
-white pepper and red pepper
-white pepper and salt
-white peppercorn
 white pineau des charentes
-white popcorn
 white poppy seeds
-white port
-white port or sweet white wine
 white potato
 white potatoes
 white radish
@@ -11264,7 +8755,6 @@ white rye flour
 white sandwich bread
 white seedless grapes
 white sesame seed
-white shortening
 white sparkling wine
 white sugar
 white swiss chard
@@ -11275,7 +8765,6 @@ white truffle oil
 white tuna
 white turkey meat
 white turnip
-white vegetable shortening
 white verj
 white verjuice
 white verjus
@@ -11284,34 +8773,22 @@ white vinegar
 white whole-wheat
 white whole-wheat flour
 white wine
-white wine or chicken stock
-white wine or cider vinegar
-white wine or water
 white wine vinegar
-white wine vinegar or apple cider vinegar
-white wine vinegar or champagne vinegar
-white wine vinegar or cider vinegar
-white wine vinegar or seasoned rice wine vinegar
-white wine vinegar or sherry vinegar
 white yam
 white zinfandel
-white- or dark-meat chicken
 white-bread crumbs
 white-bread flour
 white-bread pieces
-white-corn tortilla
 white-fish fillets
 white-fleshed fish
 white-meat chicken
 white-meat fish
 white-wine tarragon vinegar
 white-wine vinegar
-white-wine vinegar or cider vinegar
 whitebait
 whitefish
 whitefish caviar
 whitefish fillet
-whites rinsed well and chopped
 whitewine vinegar
 whiting
 whiting fillets
@@ -11326,7 +8803,6 @@ whole baby fennel bulbs
 whole bay leaves
 whole bibb
 whole black gram beans
-whole black peppercorns
 whole blackberries
 whole blanched almonds
 whole breast of lamb
@@ -11334,7 +8810,6 @@ whole broccoli
 whole buckwheat groats
 whole canned tomatoes
 whole cardamom pod
-whole celery and peeled carrots
 whole chervil
 whole chestnuts
 whole chicken
@@ -11345,7 +8820,6 @@ whole chicken livers
 whole clove
 whole cloves
 whole cloves garlic
-whole coriander seed
 whole cranberries
 whole cumin seed
 whole cut-up chicken
@@ -11361,7 +8835,6 @@ whole fish
 whole garlic
 whole garlic cloves
 whole grain bread
-whole grain buns and condiments
 whole grain country bread
 whole grain gluten-free flour
 whole grain gluten-free mix
@@ -11376,41 +8849,31 @@ whole hazelnuts
 whole heads garlic
 whole italian parsley leaves
 whole juniper berries
-whole kernel corn
 whole lamb
 whole leeks
 whole mace blades
 whole matzos
 whole medium shallots
 whole milk
-whole milk or 2 percent greek yogurt or regular yogurt
-whole milk or cream
 whole milk ricotta
 whole milk ricotta cheese
 whole milk yogurt
 whole mint
 whole mint leaves
 whole mustard seed
-whole navel orange
-whole ni\xe7oise olives
 whole nigella seeds
 whole nutmeg
 whole nutmeg seed
 whole onion
-whole or chopped
 whole pearl onions
 whole pecan halves
 whole pecans
 whole peeled canned tomatoes
 whole peeled tomatoes
-whole peppercorns
 whole plum tomato
 whole poblano peppers
-whole porgies
-whole red and yellow peppers
 whole red bell pepper
 whole ripe plum tomatoes
-whole roasted and salted pecans
 whole rye flour
 whole san marzano tomatoes
 whole scallions
@@ -11434,10 +8897,6 @@ whole wheat couscous
 whole wheat english muffin
 whole wheat flour
 whole wheat matzo meal
-whole wheat or farro penne
-whole wheat p\xe2te bris\xe9e
-whole wheat p\xe2te bris\xe9e pie crust
-whole wheat p\xe2te bris\xe9e pie crust,
 whole wheat pastry flour
 whole wheat penne
 whole wheat pita
@@ -11453,9 +8912,7 @@ whole-grain country bread
 whole-grain dijon mustard
 whole-grain farro
 whole-grain mustard
-whole-grain or dark rye flour
 whole-grain sandwich bread
-whole-kernel corn
 whole-leaf frozen spinach
 whole-milk ricotta
 whole-milk yogurt
@@ -11468,48 +8925,34 @@ whole-wheat country bread
 whole-wheat couscous
 whole-wheat english muffin
 whole-wheat flour
-whole-wheat flour or unbleached all-purpose flour
 whole-wheat flour,
 whole-wheat focaccia
 whole-wheat lavash
-whole-wheat or multigrain bread
-whole-wheat or white pullman loaf
-whole-wheat or whole-wheat pastry flour
 whole-wheat pasta
 whole-wheat pastry flour
 whole-wheat pita bread
 whole-wheat pitas
 whole-wheat pizza dough
 whole-wheat spaghetti
-whole-wheat spaghetti or linguine
 wholewheat flour
 wide baguette
 wide rice noodles
 wide swiss chard stems
 wild alaskan salmon filet
 wild arugula
-wild arugula or baby arugula
 wild boar
 wild boar bacon
 wild boar sausage
 wild cepe mushrooms
 wild ducks
 wild fennel
-wild garlic or chive flowers
 wild greens
-wild hibiscus blossom in syrup
-wild hibiscus flower in syrup
-wild morels
 wild mushroom
 wild mushroom broth
 wild mushroom ragout
 wild mushroom stuffing
 wild mushrooms
-wild mushrooms or cultivated exotic mushrooms
-wild mushrooms or oyster mushrooms
 wild mushroooms
-wild or baby arugula
-wild orange essential oil
 wild rice
 wild salmon
 wild salmon caviar
@@ -11521,17 +8964,13 @@ wild turkey rye
 wildflower honey
 wilted salad greens
 wine
-wine cork
 wine court-bouillon
-wine or cider vinegar
-wine or sherry vinegar
 wine vinegar
 wine-pickled onions
 wings
 wingtips discarded
 winter squash
 winter squash of your choice
-winter squash or zucchini
 winter vegetable
 wire cooling rack
 wisconsin asiago
@@ -11545,16 +8984,11 @@ wonton skin
 wonton wrapper
 wood ash
 wood chips
-wood chips for smoking
 wood ears
-wood or regular sorrel
 woodchuck
 wooden spoon
 woodland mushroom
 woodland sauce
-worcestershire
-worcestershire sauce
-worchestershire sauce
 wrappers
 xanthan gum
 xiao shing wine
@@ -11569,24 +9003,15 @@ yeasted olive oil pie
 yeasted whole wheat mediterranean pie crust
 yeasted whole wheat olive oil pastry
 yellow
-yellow and green fettuccine
-yellow and green peppers
-yellow and orange peppers
 yellow beefsteak tomatoes
 yellow bell pepper
 yellow chartreuse
-yellow cherry or pear tomatoes
 yellow cherry tomatoes
 yellow chinese chives
-yellow corn
-yellow corn meal
-yellow cornmeal
 yellow crookneck squash
 yellow eye
-yellow eye or yellow indian woman beans
 yellow finn
 yellow fleshed potatoes
-yellow food coloring
 yellow gold potatoes
 yellow grape
 yellow hominy
@@ -11595,11 +9020,6 @@ yellow mustard
 yellow mustard seed
 yellow onion
 yellow onions
-yellow or green chives
-yellow or green split peas
-yellow or green wax beans
-yellow or red bell pepper
-yellow or red onion
 yellow peaches
 yellow peas
 yellow pepper
@@ -11629,13 +9049,7 @@ yellowtail snapper
 yerba mate tea
 yogurt
 yogurt "cheese"
-yogurt and garlic sauce
 yogurt cheese
-yogurt for serving
-yogurt or almond milk
-yogurt or thick greek style yogurt
-yogurt or thick greek yogurt
-yogurt or thick greek-style yogurt
 yogurt sauce
 yolkless fettuccine
 yolks
@@ -11643,23 +9057,15 @@ young arugula
 young asiago cheese
 young carrots
 young fava beans
-young pecorino
 young rabbit
 young string beans
 young zucchini
-your favorite beer
 yuba
 yuca
 yucca
 yukon gold
-yukon gold or baking potatoes
-yukon gold or new potatoes
-yukon gold or other all-purpose potatoes
-yukon gold or russet potatoes
-yukon gold or white rose potatoes
 yukon gold potato
 yukon gold potatoes
-yukon gold potatoes or fingerlings
 yukon golden potatoes
 yukon potatoes
 yuz
@@ -11671,20 +9077,14 @@ zebra tomatoes
 zest
 zest of 2 lemons
 zest of one lime
-zested and juiced
 zinfandel
 ziti
-ziti and rigatoni
 ziti no2
 zubrowka bison grass vodka
 zucchini
 zucchini
-zucchini and yellow squash
 zucchini blossoms
 zucchini cake mousse
 zucchini flower
-zucchini or other green summer squash
-zucchini or other summer squash
-zucchini or yellow squash
 zucchini pickles
 zurra red wine syrup
