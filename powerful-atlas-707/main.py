@@ -17,6 +17,7 @@
 import webapp2
 import models
 import mainpage, recipepage
+from google.appengine.ext import db
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
@@ -46,8 +47,15 @@ class UploadRecipe(webapp2.RequestHandler):
 		 cookTime=cookTime, image=image, imageCredit=imageCredit, ingredients=ingredients, recipe=instructions)
 		recipe.put()
 
+class ListTags(webapp2.RequestHandler):
+	def get(self):
+		q = db.GqlQuery("select distinct tags from Recipe");
+		for recipe in q.run(limit=100):
+			self.response.write(recipe.tags);
+
 app = webapp2.WSGIApplication([
     ('/', MainHandler),
     ('/recipe', RecipeHandler),
+	('/list', ListTags),
     #('/uploadrecipe', UploadRecipe),
 ], debug=True)
